@@ -322,7 +322,17 @@
 ######################################################################################
 ### Collaboration work ###
 
-
+- ID: C66)
+  title: "CEvaluation of wetland CH4 in the Joint UK Land Environment Simulator (JULES) land surface model using satellite observations"
+  image:
+  authors: "Robert J. Parker, Chris Wilson, Edward Comyn-Platt, Garry Hayman, Toby R. Marthews, A. Anthony Bloom, Mark F. Lunt, Nicola Gedney, Simon J. Dadson, Joe McNorton, Neil Humpage, Hartmut Boesch, Martyn P. Chipperfield, Paul I. Palmer, and Dai Yamazaki"
+  description:
+  link:
+    url: https://doi.org/10.5194/bg-19-5779-2022
+    display: "Biogeoscience, 19, 5779-5805, DOI 10.5194/bg-19-5779-2022"
+  highlight: 0
+  dlab: 0
+  news2:
 
 - ID: C65)
   title: "Competing and accelerating effects of anthropogenic nutrient inputs on climate-driven changes in ocean carbon and oxygen cycles"
