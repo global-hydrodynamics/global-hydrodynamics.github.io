@@ -18,6 +18,16 @@ Group photo in Farewell Gathering @ Komaba Campus (March 2021)
 
 <p> &nbsp; </p>
 
+#### Yamazaki's interview in Japanese (Jan 2023)
+
+An interview about Yamazaki's reserch and future vision was posted on "UTokyo-IIS OpenEngineeringCenter" webpage. <br>
+山崎のインタビュー記事「データを磨き、100年先のリスクをもとに意思決定の枠組みを考える」が東大生研オープンエンジニアリングセンターのWebPageに掲載されました。<br>
+<a href="https://oec.iis.u-tokyo.ac.jp/topics/310/">Link to Open Engineering Center article</a><br>
+
+<img src="https://oec.iis.u-tokyo.ac.jp/wp/wp-content/uploads/2022/12/%E5%B1%B1%E5%B4%8E%E5%A4%A7%E6%B0%8F-scaled.jpg" width="80%"/><br>
+
+<p> &nbsp; </p>
+
 #### Yamazaki's Lecture Talk in AOGS2021 (Aug 2021)
 
 Lab PI Yamazaki received AOGS Kamide Lecture Award (Hydrology Section), and made a lecture talk in AOGS2021 (Virtual, Online).The topic is about the review on recent advanced in global surface water hydrodynamics. The recorded talk (in English) is available on <a href="https://www.youtube.com/watch?v=xUYRr0tX7rk">"YouTube"</a><br>
