@@ -1,4 +1,19 @@
 ## Yamazaki Lab work
+
+## FY23023
+## FY2022
+- ID: Y27)
+  title: "Assimilation of transformed water surface elevation to improve river discharge estimation in a continental-scale river"
+  image:
+  authors: "Menaka Revel, Xudong Zhou, Dai Yamazaki, Shinjiro Kanae"
+  description:
+  link:
+    url: https://doi.org/10.5194/hess-27-647-2023
+    display: "JHydrology and Earth System Sciences, 27(3), 647-671. DOI 10.5194/hess-27-647-2023"
+  highlight: 0
+  dlab: 1
+  news2:
+
 - ID: Y26)
   title: "A first continuous and distributed satellite-based mapping of river discharge over the Amazon,"
   image:
@@ -322,14 +337,42 @@
 ######################################################################################
 ### Collaboration work ###
 
+## FY23023
+## FY2022
+
+
+- ID: C68)
+  title: "Increased floodplain inundation in the Amazon since 1980"
+  image:
+  authors: "Ayan S Fleischmann, Fabrice Papa, Stephen K Hamilton, Alice Fassoni-Andrade, Sly Wongchuig, Jhan-Carlo Espinoza, Rodrigo C D Paiva, John M Melack, Etienne Fluet-Chouinard, Leandro Castello, Rafael M Almeida, Marie-Paule Bonnet, Luna G Alves, Daniel Moreira, Dai Yamazaki, Menaka Revel, Walter Collischonn"
+  description:
+  link:
+    url: https://doi.org/10.1088/1748-9326/acb9a7
+    display: "Environmental Research Letters, 18, 034024, 2023, DOI 10.1088/1748-9326/acb9a7"
+  highlight: 0
+  dlab: 0
+  news2:
+
+- ID: C67)
+  title: "Channel Water Storage Anomaly: A New Remotely Sensed Quantity for Global River Analysis"
+  image:
+  authors: "Stephen Coss, Michael T. Durand, C. K. Shum, Yuchan Yi, Xiao Yang, Tamlin Pavelsk, Augusto Getirana, Dai Yamazaki"
+  description:
+  link:
+    url: https://doi.org/10.1029/2022GL100185
+    display: "Geophysical Research Letters, 50(1), e2022GL100185, 2022, DOI 10.1029/2022GL100185"
+  highlight: 0
+  dlab: 0
+  news2:
+
 - ID: C66)
-  title: "CEvaluation of wetland CH4 in the Joint UK Land Environment Simulator (JULES) land surface model using satellite observations"
+  title: "Evaluation of wetland CH4 in the Joint UK Land Environment Simulator (JULES) land surface model using satellite observations"
   image:
   authors: "Robert J. Parker, Chris Wilson, Edward Comyn-Platt, Garry Hayman, Toby R. Marthews, A. Anthony Bloom, Mark F. Lunt, Nicola Gedney, Simon J. Dadson, Joe McNorton, Neil Humpage, Hartmut Boesch, Martyn P. Chipperfield, Paul I. Palmer, and Dai Yamazaki"
   description:
   link:
     url: https://doi.org/10.5194/bg-19-5779-2022
-    display: "Biogeoscience, 19, 5779-5805, DOI 10.5194/bg-19-5779-2022"
+    display: "Biogeoscience, 19, 5779-5805, 2022, DOI 10.5194/bg-19-5779-2022"
   highlight: 0
   dlab: 0
   news2:
@@ -341,7 +384,7 @@
   description:
   link:
     url: https://doi.org/10.1126/sciadv.abl9207
-    display: "Science Advances, 8(26), eabl9207, DOI 10.1126/sciadv.abl9207"
+    display: "Science Advances, 8(26), eabl9207, 2022, DOI 10.1126/sciadv.abl9207"
   highlight: 0
   dlab: 0
   news2:

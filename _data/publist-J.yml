@@ -1,4 +1,15 @@
 ## Yamazaki Lab work
+- ID: JY17)
+  title: "インダス川流域の運河網による遠隔導水の全球水資源モデルへの実装"
+  e-title: "Incorporating Aqueducts Transfer Through Indus Basin Irrigation System To Global Hydrological Model"
+  authors: "余田 奈穂, 山崎 大, 渡辺 恵"
+  description:
+  link:
+    url: https://doi.org/10.2208/jscejhe.78.2_I_715
+    display: "土木学会論文集B1(水工学), vol.78(2), I_715-I_720, 2022"
+  dlab: 1
+
+
 - ID: JY16)
   title: "グローバル河川氾濫モデル出⼒の⽇本国内ハザードマップとしての利⽤可能性"
   e-title: "Verification of the Usability of Global River Inundation Model Output for Hazard Maps in Japan"
@@ -28,6 +39,9 @@
     url: https://doi.org/10.3178/jjshwr.35.175
     display: "水文・水資源学会誌, vol.35(3), 175-191, 2022, DOI:10.3178/jjshwr.35.175"
   dlab: 1
+
+## FY2022
+## FY2021
 
 - ID: JY13)
   title: "アンサンブル洪水予測情報の活用におけるユーザーとの双方向コミュニケーションの重要性"
@@ -156,8 +170,28 @@
   dlab: 1
 
 ## Collaboration work
-- ID: JC21)
+- ID: JC22)
+  title: "広域降雨流出氾濫モデルによる浸水分布の推定 - 地形補正の効果検証 -"
+  e-title: "Development of methodology for introducing surveyed river cross-sections into nationwide distributed hydrological model throughout Japan, and its effect on water level prediction accuracy"
+  authors: "佐山 敬洋, 山田 真史, 菅原 快斗, 近者 敦彦, 関本 大晟, 山崎 大"
+  link:
+    url: https://doi.org/10.2208/jscejhe.78.2_I_565
+    display: "土木学会論文集B1(水工学), vol.78(2), I_565-I_570, 2022"
+  dlab: 0
 
+- ID: JC21)
+  title: "日本全域分布型水文モデルへの河道測量横断面反映手法の開発と水位再現性の検証"
+  e-title: "Flood Inundation Simulation Using A Large-scale Rainfall- Runoff-inundation Model - Effects Of Topographic Data Corrections -"
+  authors: "山田 真史, 佐山 敬洋, 山崎 大, 渡辺 恵"
+  link:
+    url: https://doi.org/10.2208/jscejhe.78.1_7
+    display:  "土木学会論文集B1(水工学), 78(1), 7-22, 2022, DOI 10.2208/jscejhe.78.1_7"
+  dlab: 0
+
+## FY2022
+## FY2021
+
+- ID: JC21)
   title: "日本全域分布型水文モデルへの河道測量横断面反映手法の開発と水位再現性の検証"
   e-title: "Development of methodology for introducing surveyed river cross-sections into nationwide distributed hydrological model throughout Japan, and its effect on water level prediction accuracy"
   authors: "山田 真史, 佐山 敬洋, 山崎 大, 渡辺 恵"
