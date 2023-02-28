@@ -2,6 +2,18 @@
 
 ## FY23023
 ## FY2022
+- ID: Y28)
+  title: "A globally applicable framework for compound flood hazard modeling"
+  image:
+  authors: "Dirk Eilander, Anaïs Couasnon, Tim Leijnse, Hiroaki Ikeuchi, Dai Yamazaki, Sanne Muis, Job Dullaart, Arjen Haag, Hessel C. Winsemius, and Philip J. Ward"
+  description:
+  link:
+    url: https://doi.org/10.5194/nhess-23-823-2023
+    display: "Natural Hazards and Earth System Sciences, 23, 823-846, 2023. DOI 10.5194/nhess-23-823-2023"
+  highlight: 0
+  dlab: 1
+  news2:
+
 - ID: Y27)
   title: "Assimilation of transformed water surface elevation to improve river discharge estimation in a continental-scale river"
   image:
@@ -9,7 +21,7 @@
   description:
   link:
     url: https://doi.org/10.5194/hess-27-647-2023
-    display: "JHydrology and Earth System Sciences, 27(3), 647-671. DOI 10.5194/hess-27-647-2023"
+    display: "JHydrology and Earth System Sciences, 27(3), 647-671, 2023. DOI 10.5194/hess-27-647-2023"
   highlight: 0
   dlab: 1
   news2:
