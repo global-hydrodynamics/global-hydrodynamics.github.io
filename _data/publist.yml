@@ -1,5 +1,42 @@
 ## Yamazaki Lab work
 
+- ID: Y31)
+  title: "Flood Defense Standard Estimation Using Machine Learning and Its Representation in Large-Scale Flood Hazard Modeling"
+  image:
+  authors: "Gang Zhao, Paul D. Bates, Jeff Neal, Dai Yamazaki"
+  description:
+  link:
+    url: https://doi.org/10.1029/2022WR032395
+    display: "Water Resources Research 59(5), e2022WR032395, 2023. DOI 10.1029/2022WR032395"
+  highlight: 0
+  dlab: 1
+  news2:
+
+
+- ID: Y30)
+  title: "Methodology for constructing a flood-hazard map for a future climate"
+  image:
+  authors: "Yuki Kimura, Yukiko Hirabayashi, Yuki Kita, Xudong Zhou, Dai Yamazaki"
+  description:
+  link:
+    url: https://doi.org/10.5194/hess-27-1627-2023
+    display: "Hydrology and Earth System Science, 27(8), 1627-1644, 2023. DOI 10.5194/hess-27-1627-2023"
+  highlight: 0
+  dlab: 1
+  news2:
+
+- ID: Y29)
+  title: "Uncertainty of internal climate variability in probabilistic flood simulations using d4PDF"
+  image:
+  authors: "Yuki Kita, Dai Yamazaki"
+  description:
+  link:
+    url: https://doi.org/10.3178/hrl.17.15
+    display: "Hydrological Research Letters, 17(2), 15-20, 2023. DOI 10.3178/hrl.17.15"
+  highlight: 0
+  dlab: 1
+  news2:
+
 ## FY23023
 ## FY2022
 - ID: Y28)
