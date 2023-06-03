@@ -21,6 +21,7 @@ If you are interested in our team, please visit the below pages:
 - [How to join our team?](./joinus/)
 - [Promotion (lab highlight)](./promotion/)
 - [Open Campus Posters](./opencampus/)
+- [Monthly Public Seminar](https://tiny.cc/UT-HydroSeminar)
 
 Our research activity is summarized in:
 - [Research targets and methods](./research/)
@@ -49,6 +50,15 @@ In addition to natural hydrological cycle, we also assess the impact of the terr
 Our lab is one of the world-leading hydrological science bridgeheads, consists of researchers and students with multiple backgrounds (Earth science, civil engineering, geography, spatial information science, computational science, etc.)
 
 All research staff members belong to [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/), while we also commit to education in the [Department of Civil Engineering (Grad School of Engineering)](http://www.civil.t.u-tokyo.ac.jp/en/) and in the [Graduate Program of Environmental Sciences (Grad School of Arts and Sciences)](https://gpes.c.u-tokyo.ac.jp/index.html).
+
+## Monthly Public Seminar
+We host monthly public seminar series named "Hydrosphere Science Seminar", usually from 3pm on 1st Monday of each month using Zoom.
+
+It's a joint seminar organized by UTokyo Hydrosphere Environment Group. Anyone interested in our activity is welcomed. Please visit the seminar webpage for more detailed info. 
+
+[UTokyo Hydrosphere Science Seminar](https://tiny.cc/UT-HydroSeminar)
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/picture/HSS_seminar.png" width="80%"/>
 
 
 ## (In Japanese)
