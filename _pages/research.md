@@ -28,6 +28,8 @@ River is an important component of the global hydrological cycle, and it interac
 #### **Improvement of global topography dataset (MERIT data series)** 
 While modelling is a powerful tool to understand and predict the global hydrological cycle, its accuracy highly depends on the quality of the available topography dataset because the dynamics of land waters is largely constrained by local topographic relief. However, the availability of high-accuracy topography data is limited on the global scale, especially in developing countries and remote areas without human settlement. Satellite measurements can cover these areas, while the accuracy of spaceborne topography data is still not adequate for land hydrodynamics modelling. We are working on developing very high accuracy global topography datasets which are ready-to-be-used for global and regional hydrology models, by integrating multiple satellite and geospatial datasets and applying extensive hydro-geographical data processing. <br />
 
+[More detailed explanation](../res_topography/)
+
 - [MERIT DEM](http://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_Hydro/) global topography map
 - [MERIT Hydro](http://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_Hydro/) global hydrography map
 
