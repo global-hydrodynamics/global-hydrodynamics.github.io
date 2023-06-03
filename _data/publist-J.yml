@@ -170,6 +170,15 @@
   dlab: 1
 
 ## Collaboration work
+- ID: JC23)
+  title: "統合陸域シミュレータ（ILS）と統合評価モデル（IAM）の連成シミュレーションによる水ストレス評価"
+  e-title: "Water stress assessment by coupled simulation of Integrated Land Simulator (ILS) and Integrated Assessment Model (IAM)"
+  authors: "伏尾佳悟, 六藤雄一, 福田哲也, 塚田洋平, 新田友子, 吉兼隆生, 山崎大, 芳村圭, 丸吉政博"
+  link:
+    url: https://doi.org/10.11188/seisankenkyu.75.135
+    display: "生産研究, vol.75(2), 135-140, 2023, DOI:https://doi.org/10.11188/seisankenkyu.75.135"
+  dlab: 0
+
 - ID: JC22)
   title: "広域降雨流出氾濫モデルによる浸水分布の推定 - 地形補正の効果検証 -"
   e-title: "Development of methodology for introducing surveyed river cross-sections into nationwide distributed hydrological model throughout Japan, and its effect on water level prediction accuracy"
@@ -382,3 +391,14 @@
     url: ""
     display:  "水工学論文集, vol.53, pp.13-18, 2009"
   dlab: 0
+
+
+## Collaboration work
+- ID: JO1)
+  title: "気候リスク情報開示への広域洪水モデルの活用と流域治水への展開"
+  e-title: "Use of Global Flood Models for Climate-related Risk Disclosure and Its Potential Application to River Basin Management"
+  authors: "山崎大, 平林由希子"
+  link:
+    url: http://hydro.iis.u-tokyo.ac.jp/~yamadai/data/doc/YamazakiHirabayashi_2023_KASEN.pdf
+    display: "月刊誌『河川』, vol.922 (2023年5月号), 19-23, 2023"
+  dlab: 3

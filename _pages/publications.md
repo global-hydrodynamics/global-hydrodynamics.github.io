@@ -99,3 +99,17 @@ List of awards to lab members are [here](../award/)
 {% endfor %}
 
 <p> &nbsp; </p>
+
+#### -- Book chapter, Non-reviewed Article, etc
+
+{% for publi in site.data.publist-J %}
+{% if publi.dlab == 3 %}
+
+{% if publi.e-title == empty %} <b> {{ publi.ID }} {{ publi.title }} </b><br> {% else %} <b> {{ publi.ID }} {{ publi.title }} </b><br>{{ publi.e-title }}<br> {% endif %}
+<em> {{ publi.authors }} </em><br>
+{% if publi.link.url == empty %} <a>{{ publi.link.display }} </a>{% else %} <a href="{{ publi.link.url }}">{{ publi.link.display }}</a> {% endif %}
+
+{% endif %}
+{% endfor %}
+
+<p> &nbsp; </p>
