@@ -133,7 +133,7 @@
   authors: Risa Hanazaki, Dai Yamazaki, Kei Yoshimura
   description:
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021MS002944
+    url: https://doi.org/10.1029/2021MS002944
     display: Journal of Advances in Modeling Earth Systems, 14(3), e2021MS002944, 2022, DOI 10.1029/2021MS002944
   highlight: 0
   dlab: 1
@@ -145,7 +145,7 @@
   authors: Dirk Eilander, Willem van Verseveld, Dai Yamazaki, Albrecht Weerts, Hessel C. Winsemius, and Philip J. Ward
   description:
   link:
-    url: https://hess.copernicus.org/articles/25/5287/2021/
+    url: https://doi.org/10.5194/hess-25-5287-2021
     display: Hydrol. Earth Syst. Sci., 25, 5287–5313, 2021, DOI 10.5194/hess-25-5287-2021
   highlight: 0
   dlab: 1
@@ -157,7 +157,7 @@
   authors: Zhou X., C. Prigent, D. Yamazaki
   description: 
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020WR029256
+    url: https://doi.org/10.1029/2020WR029256
     display: Water Resources Research, 57, e2020WR029256. (2021), DOI 10.1029/2020WR029256
   highlight: 0
   dlab: 1
@@ -169,7 +169,7 @@
   authors: Pellet V., F. Aires, D. Yamazaki
   description: 
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020WR028648
+    url: https://doi.org/10.1029/2020WR028648
     display:  Water Resources Research, 57, e2020WR028648, (2021). DOI 10.1029/2020WR028648
   highlight: 0
   dlab: 1
@@ -181,7 +181,7 @@
   authors: Pellet V., F. Aires, D. Yamazaki, F. Papa 
   description: 
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020WR028647
+    url: https://doi.org/10.1029/2020WR028647
     display: Water Resources Research, 57, e2020WR028647 (2021), DOI 10.1029/2020WR028647
   highlight: 0
   dlab: 1
@@ -193,7 +193,7 @@
   authors: Yuki Ishikawa and Dai Yamazaki
   description: 
   link:
-    url: http://www.hrljournal.org/archives/3006
+    url: http://doi.org/10.3178/hrl.15.9
     display: Hydrological Research Letters, vol.15(2), p9-15, 2021, DOI 10.3178/hrl.15.9
   highlight: 0
   dlab: 1
@@ -218,7 +218,7 @@
   authors: Menaka Revel, Daiki Ikeshima, Dai Yamazaki, Shinjiro Kanae
   description: 
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020WR027876
+    url: https://doi.org/10.1029/2020WR027876 
     display: Water Resources Research, vol.57(1), e2020WR027876, 2021, DOI 10.1029/2020WR027876 
   highlight: 0
   dlab: 1
@@ -231,7 +231,7 @@
   authors: Menaka Revel, Daiki Ikeshima, Dai Yamazaki, Shinjiro Kanae
   description: 
   link:
-    url: https://www.mdpi.com/2073-4441/11/4/829
+    url: https://doi.org/10.3390/w11040829
     display: Water, vol.11, page.829, 2019, DOI 10.3390/w11040829
   highlight: 1
   dlab: 1
@@ -243,7 +243,7 @@
   authors: Yamazaki, D., D. Ikeshima, J. Sosa, P.D. Bates, G.H. Allen, T.M. Pavelsky
   description: We develpped a global high-accuracy river topography map which are used as a baseline data for various Earth science studies.
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019WR024873
+    url: https://doi.org/10.1029/2019WR024873
     display:  Water Resources Research, vol.55, pp.5053-5073, 2019, DOI 10.1029/2019WR024873
   highlight: 1
   dlab: 1
@@ -256,7 +256,7 @@
   authors: Yamazaki D., D. Ikeshima, R. Tawatari, T. Yamaguchi, F. O'Loughlin, J.C. Neal, C.C. Sampson, S. Kanae, P.D. Bates
   description: MERIT DEM. A Very precise global topography map by multiple error removal from spaceborne DEMs.
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL072874
+    url: https://doi.org/10.1029/2019WR024873
     display:  Geophysical Research Letters, vol.44, pp.5844-5853, 2017, DOI 10.1029/2019WR024873
   highlight: 1
   dlab: 1
@@ -268,7 +268,7 @@
   authors: Hiroaki Ikeuchi, Yukiko Hirabayashi, Dai Yamazaki, Sanne Muis, Philip J. Ward, Hessel C. Winsemius, Martin Verlaan, and Shinjiro Kanae
   description: Coupound risk moelling of river flood and storm surge
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017MS000943
+    url: https://doi.org/10.1002/2017MS000943
     display: Journal of Advances in Modeling Earth Systems, vol.9, pp.1847-1862, 2017, DOI 10.1002/2017MS000943
   highlight: 0
   dlab: 1
@@ -281,7 +281,7 @@
   authors: Hiroaki Ikeuchi, Yukiko Hirabayashi, Dai Yamazaki, Masashi Kiguchi, Sujan Koirala, Takanori Nagano, Akihiko Kotera, and Shinjiro Kanae
   description: 
   link:
-    url: https://iopscience.iop.org/article/10.1088/1748-9326/10/12/124011
+    url: https://doi.org/10.1088/1748-9326/10/12/124011
     display: Environmental Research Letters, 2015, vol.10, p.124011, DOI 10.1088/1748-9326/10/12/124011
   highlight: 0
   dlab: 1
@@ -305,7 +305,7 @@
   authors: Yamazaki D., S. Sato, S. Kanae, Y. Hirabayashi, P.D. Bates
   description: First representation of channel bifurcation in global river model
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014GL059744
+    url: https://doi.org/10.1002/2014GL059774
     display:  Geophysical Research Letters, vol.41, pp.3127-3135, 2014, DOI 10.1002/2014GL059774
   highlight: 1
   dlab: 1
@@ -317,7 +317,7 @@
   authors: Yamazaki D., F. O'Loughlin, M.A. Trigg, Z.F. Miller, T.M. Pavelsky, & P.D. Bates
   description: 
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2013WR014664
+    url: https://doi.org/10.1002/2013WR014664
     display: Water Resources Research, vol.50, pp.3467-3480, 2014, DOI 10.1002/2013WR014664
   highlight: 0
   dlab: 1
@@ -329,7 +329,7 @@
   authors: Yamazaki D., G.A.M. de Almeida, P.D. Bates
   description: Water Resources Research, vol.49(11), pp.7221-7235, 2013, DOI 10.1002/wrcr.20552
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/wrcr.20552
+    url: https://doi.org/10.1002/wrcr.20552
     display: Water Resources Research, vol.49(11), pp.7221-7235, 2013, DOI 10.1002/wrcr.20552
   highlight: 0
   dlab: 1
@@ -341,7 +341,7 @@
   authors: Yamazaki D., H. Lee, D.E. Alsdorf, E. Dutra, H. Kim, S. Kanae, T. Oki
   description: 
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2012WR011869
+    url: https://doi.org/10.1029/2012WR011869
     display: Water Resources Research, vol.48, W09508, 2012, DOI 10.1029/2012WR011869
   highlight: 0
   dlab: 1
@@ -353,7 +353,7 @@
   authors:  Yamazaki D., C.A. Baugh, P.D. Bates, S. Kanae, D.E. Alsdorf, T. Oki
   description: 
   link:
-    url: https://www.sciencedirect.com/science/article/abs/pii/S0022169412001709
+    url: https://doi.org/10.1016/j.jhydrol.2012.02.045
     display:  Journal of Hydrology, vol.436-437, pp.81-91, 2012, DOI 10.1016/j.jhydrol.2012.02.045
   highlight: 0
   dlab: 1
@@ -365,7 +365,7 @@
   authors: Yamazaki D., S. Kanae, H. Kim, T. Oki, 
   description: Primaly description paper of the CaMa-Flood global river hydrodynamics model.
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2010WR009726
+    url: https://doi.org/10.1029/2010WR009726
     display:  Water Resources Research, vol.54, W04501, 2011, DOI 10.1029/2010WR009726
   highlight: 1
   dlab: 1
@@ -377,8 +377,8 @@
   authors: Yamazaki D., T. Oki, S. Kanae
   description: 
   link:
-    url: https://hess.copernicus.org/articles/13/2241/2009/
-    display:  Progress in Earth and Planetary Science, 8(1), 1-9. 2009, DOI 10.1186/s40645-021-00431-w
+    url: https://doi.org/10.5194/hess-13-2241-2009
+    display:  Hydrology and Earth System Sciences, 13(11), 2241-2251, 2009, DOI:10.5194/hess-13-2241-2009
   highlight: 0
   dlab: 1
   news2:
@@ -530,7 +530,7 @@
   authors: Jie Wang, Xiaobo Yun, Yadu Pokhrel, Dai Yamazaki, Qiudong Zhao, Aifang Chen, Qiuhong Tang
   description:
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021WR029734
+    url: https://doi.org/10.1029/2021WR029734
     display: Water Resources Research, 57, e2021WR029734. 2021, DOI 10.1029/2021WR029734
   highlight: 0
   dlab: 0
@@ -541,7 +541,7 @@
   authors: Yuan Yang, Ming Pan, Peirong Lin, Hylke E. Beck, Zhenzhong Zeng, Dai Yamazaki, Cédric H. David, Hui Lu, Kun Yang, Yang Hong, and Eric F. Wood
   description:
   link:
-    url: https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-20-0057.1/BAMS-D-20-0057.1.xml
+    url: https://doi.org/10.1175/BAMS-D-20-0057.1
     display: Bulletin of the American Meteorological Society, 1-49, 2021, DOI 10.1175/BAMS-D-20-0057.1
   highlight: 0
   dlab: 0
@@ -552,7 +552,7 @@
   authors: Yukiko Hirabayashi, Haireti Alifu, Dai Yamazaki, Yukiko Imada, Hideo Shiogama & Yuki Kimura
   description:
   link:
-    url: https://progearthplanetsci.springeropen.com/articles/10.1186/s40645-021-00431-w
+    url: https://doi.org/10.1186/s40645-021-00431-w
     display: Progress in Earth and Planetary Science. 8, 36, 2021; DOI 10.1186/s40645-021-00431-w
   highlight: 0
   dlab: 0
@@ -563,7 +563,7 @@
   authors: Yukiko Hirabayashi, Haireti Alifu, Dai Yamazaki, ‪Gennadii Donchyts, Yuki Kimura
   description:
   link:
-    url: https://www.jstage.jst.go.jp/article/hrl/15/2/15_37/_article
+    url: https://doi.org/10.3178/hrl.15.37
     display: Hydrological Research Letters. 15(2), 37-43, 2021, DOI 10.3178/hrl.15.37
   highlight: 0
   dlab: 0
@@ -574,7 +574,7 @@
   authors: Boussetta S, Balsamo G, Arduini G, Dutra E, McNorton J, Choulga M, Agustí-Panareda A, Beljaars A, Wedi N, Munõz-Sabater J, de Rosnay P, Sandu I, Hadade I, Carver G, Mazzetti C, Prudhomme C, Yamazaki D, Zsoter E.
   description: 
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020MS002434
+    url: https://doi.org/10.3390/atmos12060723
     display: Atmosphere. 12(6), 723, 2021; DOI 10.3390/atmos12060723
   highlight: 0
   dlab: 0
@@ -585,7 +585,7 @@
   authors: Mizukami N., M.P. Clark, S. Gharari, E. Kluzek, M. Pan, P. Lin, H.E. Beck, D. Yamazaki
   description: 
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020MS002434
+    url: https://doi.org/10.1029/2020MS002434
     display:  Journal of Advances in Modeling Earth Systems, 13, e2020MS002434 (2021). DOI 10.1029/2020MS002434
   highlight: 0
   dlab: 0
@@ -596,7 +596,7 @@
   authors: Kitajima N., R. Seto, D. Yamazaki, X. Zhou, W. Ma, S. Kanae
   description: 
   link:
-    url: https://www.mdpi.com/2072-4292/13/10/1959
+    url: https://doi.org/10.3390/rs13101959
     display:  Remote Sensing, 13(10), 1959, (2021) DOI 10.3390/rs13101959
   highlight: 0
   dlab: 0
@@ -607,7 +607,7 @@
   authors: Ma W., Y. Ishitsuka, A. Takeshima, K. Hibino, D. Yamazaki, K. Yamamoto, M. Kachi, R. Oki, T. Oki, K. Yoshimura 
   description: 
   link:
-    url: https://www.nature.com/articles/s41598-021-89522-8
+    url: https://doi.org/10.1038/s41598-021-89522-8
     display:  Scientific Report 11, 10213 (2021). DOI 10.1038/s41598-021-89522-8
   highlight: 0
   dlab: 0
@@ -618,7 +618,7 @@
   authors: Liu Y., P.D. Bates, J.C. Neal, D. Yamazaki
   description: 
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020WR028516
+    url: https://doi.org/10.1029/2020WR028516
     display:  Water Resources Research, 57, e2020WR028516, (2021), DOI 10.1029/2020WR028516
   highlight: 0
   dlab: 0
@@ -630,7 +630,7 @@
   authors: Hirabayashi Y., M. Tanoue, O. Sasaki, X. Zhou, D. Yamazaki
   description: 
   link:
-    url: https://www.nature.com/articles/s41598-021-83279-w
+    url: https://doi.org/10.1038/s41598-021-83279-w
     display:  Scientific Report, vol.11, no.3740, 2021, DOI 10.1038/s41598-021-83279-w
   highlight: 0
   dlab: 0
@@ -641,7 +641,7 @@
   authors: Lin P., M. Pan, E.F. Wood, D. Yamazaki, G.H. Allen
   description: 
   link:
-    url: https://www.nature.com/articles/s41597-021-00819-9
+    url: https://doi.org/10.6084/m9.figshare.13377329
     display:  Scientific Data, vol.8, no.28, 2021, DOI 10.6084/m9.figshare.13377329
   highlight: 0
   dlab: 0
@@ -652,7 +652,7 @@
   authors: Boulange J., N. Hanasaki, D. Yamazaki, Y. Pokhrel
   description: 
   link:
-    url: https://www.nature.com/articles/s41467-020-20704-0
+    url: https://doi.org/10.1038/s41467-020-20704-0
     display:  Nature Communications, vol.12, no.417, 2021, DOI 10.1038/s41467-020-20704-0
   highlight: 0
   dlab: 0
@@ -663,7 +663,7 @@
   authors: Iwahashi J., D. Yamazaki, T. Nakano, R. Endo
   description: 
   link:
-    url: https://progearthplanetsci.springeropen.com/articles/10.1186/s40645-020-00398-0
+    url: https://doi.org/10.1186/s40645-020-00398-0
     display:  Progress in Earth and Planetary Science, vol.8(1), pp.1-23. 2021, DOI 10.1186/s40645-020-00398-0
   highlight: 0
   dlab: 0
@@ -674,7 +674,7 @@
   authors: Sayama T., M. Yamada, Y. Sugawara, D. Yamazaki
   description: 
   link:
-    url: https://progearthplanetsci.springeropen.com/articles/10.1186/s40645-020-00391-7
+    url: https://doi.org/10.1186/s40645-020-00391-7
     display:  Progress in Earth and Planetary Science, vol.7, no.75, 2020, DOI 10.1186/s40645-020-00391-7
   highlight: 0
   dlab: 0
@@ -685,7 +685,7 @@
   authors: Chen, J., Y. Liu, T. Pan, P. Ciais, T. Ma, Y. Liu, D. Yamazaki, Q. Ge, and J. Peñuelas
   description: 
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S0959652620333205?via%3Dihub
+    url: https://doi.org/10.1016/j.jclepro.2020.123275
     display:  Journal of Cleaner Production, vol.277, p.123275, 2020. DOI 10.1016/j.jclepro.2020.123275
   highlight: 0
   dlab: 0
@@ -697,7 +697,7 @@
   authors: Smith, M. W., T. Willis, L. Alfieri, W.H.M. James, M.A. Trigg, D. Yamazaki, A. J. Hardy, B. Bisselink, A. De Roo, M. G. Macklin & C. J. Thomas.
   description: 
   link:
-    url: https://www.nature.com/articles/s41467-020-18239-5
+    url: https://doi.org/10.1038/s41467-020-18239-5
     display: Nature communications, 11(1), 1-9., 2020, DOI 10.1038/s41467-020-18239-5
   highlight: 0
   dlab: 0
@@ -709,7 +709,7 @@
   authors: Wei, Z., X. He, Y. Zhang, M. Pan, J. Sheffield, L. Peng, D. Yamazaki, A. Moiz, Y. Liu, and K. Ikeuchi, K.
   description: 
   link:
-    url: https://www.sciencedirect.com/science/article/abs/pii/S0022169420306405?via%3Dihub
+    url: https://dor.org/10.1016/j.jhydrol.2020.125180
     display: Journal of Hydrology, vol.589, p.125180, 2020, DOI 10.1016/j.jhydrol.2020.125180
   highlight: 0
   dlab: 0
@@ -721,7 +721,7 @@
   authors: Scussolini, P., D. Eilander, E.H. Sutanudjaja, H. Ikeuchi, J.M. Hoch, P.J. Ward, P. Bakker, B.L. Otto-Bliesner, C. Guo, C. Stepanek, Q. Zhang, P. Braconnot, M.-V. Guarino, S. Muis, D. Yamazaki, T.I. E. Veldkamp, J.C.J.H. Aerts
   description: 
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL089375
+    url: https://doi.org/10.1029/2020GL089375
     display: Geophysical Research Letters, vol.47(18), e2020GL089375, 2020, DOI 10.1029/2020GL089375
   highlight: 0
   dlab: 0
@@ -733,7 +733,7 @@
   authors: Eilander, D., A. Couasnon, H. Ikeuchi, S. Muis, D. Yamazaki, H.C. Winsemius, & P.J. Ward
   description: 
   link:
-    url: https://iopscience.iop.org/article/10.1088/1748-9326/ab8ca6
+    url: https://doi.org/10.1088/1748-9326/ab8ca6
     display: Environmental Research Letters, vol.15(10), 104007, 2020, DOI 10.1088/1748-9326/ab8ca6
   highlight: 0
   dlab: 0
@@ -745,7 +745,7 @@
   authors: Suzuki, K., T. Hiyama, K. Matsuo, K. Ichii, Y. & D. Yamazaki
   description: 
   link:
-    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/hyp.13844
+    url: https://doi.org/10.1002/hyp.13844
     display: Hydrological Processes, voo.34(19), pp.3867-3881, 2020, DOI 10.1002/hyp.13844
   highlight: 0
   dlab: 0
@@ -757,7 +757,7 @@
   authors: Wing, O. E., N. Quinn, P.D. Bates, J.C. Neal, A.M. Smith, C.C. Sampson, G. Coxon, D. Yamazaki, E.H. Sutanudjaja, & L. Alfieri
   description: 
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020WR027692
+    url: https://doi.org/10.1029/2020WR027692
     display: Water Resources Research, 56(8), e2020WR027692. 2020, DOI 10.1029/2020WR027692
   highlight: 0
   dlab: 0
@@ -769,7 +769,7 @@
   authors: Kida, S., & D. Yamazaki
   description: 
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019WR026412
+    url: https://doi.org/10.1029/2019WR026412
     display: Water Resources Research, vol.56(6), 2020, e2019WR026412, DOI 10.1029/2019WR026412
   highlight: 0
   dlab: 0
@@ -781,7 +781,7 @@
   authors: Hajima, T., M. Watanabe, A. Yamamoto, H. Tatebe, M.A. Noguchi, M. Abe, R. Ohgaito, A. Ito, D. Yamazaki, H. Okajima, A. Ito, K. Takata, K. Ogochi, S. Watanabe, M. Kawamiya
   description: 
   link:
-    url: https://gmd.copernicus.org/articles/13/2197/2020/
+    url: https://doi.org/10.5194/gmd-13-2197-2020
     display: Geoscientific Model Development, vol.13(5), pp.2197-2244. 2020, DOI 10.5194/gmd-13-2197-2020
   highlight: 0
   dlab: 0
@@ -793,7 +793,7 @@
   authors: Shin, S., Y. Pokhrel, D. Yamazaki, X. Huang, N. Torbick, N., J. Qi, S. Pattanakiat, T. Ngo-Doc, T.D. Nguyen
   description: Implementing reservoirs in CaMa-Flood model
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019WR026449
+    url: https://doi.org/10.1029/2019WR026449
     display: Water Resources Research, vol.56(5), e2019WR026449, 2020, DOI 10.1029/2019WR026449
   highlight: 0
   dlab: 0
@@ -806,7 +806,7 @@
   authors: Lin, P., M. Pan, G.H. Allen, R.P. de Frasson, Z. Zeng, D. Yamazaki, & E.F. Wood
   description: 
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL086405
+    url: https://doi.org/10.1029/2019GL086405
     display: Geophysical Research Letters, 47(7), e2019GL086405. 2020, DOI 10.1029/2019GL086405
   highlight: 0
   dlab: 0
@@ -818,7 +818,7 @@
   authors: Lin, P., M. Pan, H.E. Beck, Y. Yang, D. Yamazaki, R. Frasson, C.H. David, M. Durand, T.M. Pavelsky, G.H. Allen, C.J. Gleason, E.F. Wood
   description: Best estimate of historical global river discharge.
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019WR025287
+    url: https://doi.org/10.1029/2019WR025287
     display: Water Resources, Research, 55(8), 6499-6515. 2019, DOI 10.1029/2019WR025287
   highlight: 0
   dlab: 0
@@ -830,7 +830,7 @@
   authors: Hiroaki Tatebe, Tomoo Ogura, Tomoko Nitta, Yoshiki Komuro, Koji Ogochi, Toshihiko Takemura, Kengo Sudo, Miho Sekiguchi, Manabu Abe, Fuyuki Saito, Minoru Chikira, Shingo Watanabe, Masato Mori, Nagio Hirota, Yoshio Kawatani, Takashi Mochizuki, Kei Yoshimura, Kumiko Takata, Ryouta O’ishi, Dai Yamazaki, Tatsuo Suzuki, Masao Kurogi, Takahito Kataoka, Masahiro Watanabe, Masahide Kimoto
   description: 
   link:
-    url: https://gmd.copernicus.org/articles/12/2727/2019/
+    url: https://doi.org/10.5194/gmd-12-2727-2019
     display: Geoscience Model Development, vol.12, pp.2727–2765, 2019, DOI 10.5194/gmd-12-2727-2019
   highlight: 0
   dlab: 0
@@ -842,7 +842,7 @@
   authors: Marie Parrens, Ahmad AlBitar, Frédéric Frappart, Rodrogo Paiva, Sly Wongchuig, Fabrice Papa, Dai Yamasaki, Yann Kerr
   description: 
   link:
-    url: https://www.sciencedirect.com/science/article/abs/pii/S0303243418307906
+    url: https://doi.org/10.1016/j.jag.2019.04.011
     display: International Journal of Applied Earth Observation and Geoinformation, Vol.81, pp. 58-71, 2019, DOI 10.1016/j.jag.2019.04.011
   highlight: 0
   dlab: 0
@@ -854,7 +854,7 @@
   authors: Meng Yang, Christian Hirt, Moritz Rexer, Roland Pail, Dai Yamazaki
   description: 
   link:
-    url: https://academic.oup.com/gji/article-abstract/219/1/271/5512594?redirectedFrom=fulltext
+    url: https://doi.org/10.1093/gji/ggz264
     display: Geophysical Journal International, vol.219 (1), pp.271–289, 2019, DOI 10.1093/gji/ggz264
   highlight: 0
   dlab: 0
@@ -866,7 +866,7 @@
   authors: Tokuda, D., H. Kim, D. Yamazaki, T. Oki
   description: 
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018WR023083
+    url: https://doi.org/10.1029/2018WR023083
     display: Water Resources Research, vol.55, pp.1366 - 1383. 2019, doi:10.1029/2018WR023083
   highlight: 0
   dlab: 0
@@ -878,7 +878,7 @@
   authors: Fan Y., M. Clark, D.M. Lawrence, S. Swenson, L.E. Band, S.L. Brantley, P.D. Brooks, W.E. Dietrich, A. Flores, G. Grant, J.W. Kirchner, D.S. Mackay, J.J. McDonnell, P.C.D. Milly, P.L. Sullivan, C. Tague, H. Ajami, N. Chaney, A. Hartmann, P. Hazenberg, J. McNamara, J. Pelletier, J. Perket, E. Rouholahnejad-Freund, T. Wagener, X. Zeng, E. Beighley, J. Buzan, M. Huang, B. Livneh, B.P. Mohanty, B. Nijssen, M. Safeeq, C. Shen, W. van Verseveld, J. Volk, D. Yamazaki
   description: 
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018WR023903
+    url: https://doi.org/10.1029/2018WR023903
     display: Water Resources, vol.55, pp.1737-1772, 2019, doi:2018WR023903
   highlight: 0
   dlab: 0
@@ -890,7 +890,7 @@
   authors: Gaur A., A. Gaur, D. Yamazaki, S.P. Simonovic
   description: 
   link:
-    url: https://www.mdpi.com/2073-4441/11/1/63
+    url: https://doi.org/10.3390/w11010063
     display: Water, vol.11, p.63. 2019, doi:10.3390/w11010063
   highlight: 0
   dlab: 0
@@ -902,7 +902,7 @@
   authors: Y. Pokhrel, S. Shin, Z. Lin, D. Yamazaki, J. Qi
   description: Assessment of flow regulation on Mekong Delta Hydrodynamics
   link:
-    url: https://www.nature.com/articles/s41598-018-35823-4
+    url: https://doi.org/10.1038/s41598-018-35823-4
     display: Scientific Report, vol.8, 17767, 2018, DOI 10.1038/s41598-018-35823-4
   highlight: 1
   dlab: 0
@@ -914,7 +914,7 @@
   authors: L. Hawker, J. Rougier, J. Neal, P. Bates, L. Archer, D. Yamazaki
   description: 
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018WR023279
+    url: https://doi.org/10.1029/2018WR023279
     display: Water Resources Research, vol.54(10), pp.7910-7928, 2018, DOI 10.1029/2018wr023279
   highlight: 0
   dlab: 0
@@ -926,7 +926,7 @@
   authors: M. V. Bernhofen, C. Whyman, M. Trigg, P. A. Sleigh, A. M. Smith, C.C. Sampson, D. Yamazaki, P.J. Ward, R. Rudari, F. Pappenberger, F. Dottori, P. Salamon and H.C, Winsemius
   description: 
   link:
-    url: https://iopscience.iop.org/article/10.1088/1748-9326/aae014
+    url: https://doi.org/10.1088/1748-9326/aae014
     display: Environmental Research Letters, vol.13(10), 104007, 2018, DOI 10.1088/1748-9326/aae014
   highlight: 0
   dlab: 0
@@ -938,7 +938,7 @@
   authors: H. Tsujino, S. Urakawa, H.Nakano, R.J. Small, W.M. Kim, S. G. Yeager, G. Danabasoglu, T. Suzuki, J.L. Bamber, M. Bentsen, C.W. Böning, A. Bozec, E.P. Chassignet, E. Curchitser, F. B. Dias, P.J. Durack, S.M. Griffies, Y. Harada, M. Ilicake, S.A. Josey, C. Kobayashi, S. Kobayashi, Y. Komuro, W.G.Large, J.Le Sommer, S.J. Marsland, S. Masina, M. Scheinert, H. Tomita, M. Valdivieso, D. Yamazaki
   description: 
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S146350031830235X
+    url: https://doi.org/10.1016/10.1016/j.ocemod.2018.07.002
     display: Ocean Modelling, vol.130, 79-139, 2018, doi:10.1016/10.1016/j.ocemod.2018.07.002
   highlight: 0
   dlab: 0
@@ -950,7 +950,7 @@
   authors: F. Aires, C. Prigent, E. Fluet-Chouinard, D. Yamazaki, F. Papa, B. Lehner
   description: 
   link:
-    url: https://www.sciencedirect.com/science/article/abs/pii/S0034425718302931
+    url: https://doi.org/10.1016/j.rse.2018.06.015
     display: Remote Sensing of Environment, vol.216, 427-441, 2018, doi:10.1016/j.rse.2018.06.015
   highlight: 0
   dlab: 0
@@ -962,7 +962,7 @@
   authors: W.H. Lim, D. Yamazaki, S. Koirala, Y. Hirabayashi, S. Kanae, S.J. Dadson, J.W. Hall, and F. Sun
   description: 
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000671
+    url: https://doi.org/10.1002/2017EF000671
     display: Earth's Future, vol.6(7), 938-954, 2018, DOI 10.1002/2017EF000671
   highlight: 0
   dlab: 0
@@ -974,7 +974,7 @@
   authors: Suzuki K., K. Matsuno, D. Yamazaki, K. Ichii, Y. Iijima, F. Papa, T. Hayama
   description: 
   link:
-    url: https://www.mdpi.com/2072-4292/10/3/402
+    url: https://doi.org/10.3390/rs10030402
     display: Remote Sensing, vol.10, article.412, 2018, DOI 10.3390/rs10030402
   highlight: 0
   dlab: 0
@@ -986,7 +986,7 @@
   authors: Suzuki T., D. Yamazaki, H. Tsujino, Y. Komuro, H. Nakano, S. Urakawa
   description: 
   link:
-    url: https://link.springer.com/article/10.1007/s10872-017-0458-5
+    url: https://doi.org/10.1007/s10872-017-0458-5
     display: Journal of Oceanography, vol.74(4), pp.421-429, 2018. DOI 10.1007/s10872-017-0458-5
   highlight: 0
   dlab: 0
@@ -998,7 +998,7 @@
   authors: Iwahashi, J., I. Kamiya, M. Matsuoka, D. Yamazaki
   description: 
   link:
-    url: https://progearthplanetsci.springeropen.com/articles/10.1186/s40645-017-0157-2
+    url: https://doi.org/10.1186/s40645-017-0157-2
     display: Progress in Earth and Planetary Science, vol.5, article.1, 2018. DOI 10.1186/s40645-017-0157-2
   highlight: 0
   dlab: 0
@@ -1010,7 +1010,7 @@
   authors: Paltan, H., Waliser, D., Lim, W. H., Guan, B., Yamazaki, D., Pant, R., Dadson, S.
   description: 
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL074882
+    url: https://doi.org/10.1002/2017GL074882
     display: Geophysical Research Letters, vol.44, 10387-10395, 2017. DOI 10.1002/2017GL074882
   highlight: 0
   dlab: 0
@@ -1022,7 +1022,7 @@
   authors: Cherry M.R. Mateo, Dai Yamazaki, Hyungjun Kim, Adisorn Champathong, Jai Vaze, and Taikan Oki
   description: 
   link:
-    url: https://hess.copernicus.org/articles/21/5143/2017/
+    url: https://doi.org/10.5194/hess-21-5143-2017
     display: Hydrology and Earth SYstem Sciences, vol.21, pp.5143-5163, 2017, DOI 10.5194/hess-21-5143-2017
   highlight: 0
   dlab: 0
@@ -1034,7 +1034,7 @@
   authors: Fang Zhao, Ted IE Veldkamp, Katja Frieler, Jacob Schewe, Sebastian Ostberg, Sven Willner, Bernhard Schauberger, Simon N Gosling, Hannes Mueller Schmied, Felix T Portmann, Guoyong Leng, Maoyi Huang, Xingcai Liu, Qiuhong Tang, Naota Hanasaki, Hester Biemans, Dieter Gerten, Yusuke Satoh, Yadu Pokhrel, Tobias Stacke, Philippe Ciais, Jinfeng Chang, Agnes Ducharne, Matthieu Guimberteau, Yoshihide Wada, Hyungjun Kim, Dai Yamazaki
   description: 
   link:
-    url: https://iopscience.iop.org/article/10.1088/1748-9326/aa7250/meta
+    url: https://doi.org/10.1088/1748-9326/aa7250
     display: Environmental Research Letters, vol.12(7), 075003, 2017, DOI 10.1088/1748-9326/aa7250
   highlight: 0
   dlab: 0
@@ -1046,7 +1046,7 @@
   authors: Eko Siswanto, Haijun Ye, Dai Yamazaki, DanLing Tang
   description: 
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JC012276
+    url: https://doi.org/10.1002/2016JC012276
     display: Journal of Geophysical Research Oceans, vol.122, pp.2709-2723, 2017, DOI 10.1002/2016JC012276
   highlight: 0
   dlab: 0
@@ -1058,7 +1058,7 @@
   authors: M.A. Trigg, C.E. Birch, J.C. Neal, P.D. Bates, A. Smith, C.C. Sampson, D. Yamazaki, Y. Hirabayashi, F. Pappenberger, E. Dutra, P.J. Ward, H.C. Winsemius, P. Salamon, F. Dottori, R. Rudari, M.S. Kappes, A.L. Simpson, G. Hadzilacos and T.J. Fewtrell
   description: First comparison of large-scale flood risk models
   link:
-    url: https://iopscience.iop.org/article/10.1088/1748-9326/11/9/094014/meta
+    url: https://doi.org/10.1088/1748-9326/11/9/094014
     display: Environmental Research Letters, 11(9), 094014, 2016, DOI 10.1088/1748-9326/11/9/094014.
   highlight: 0
   dlab: 0
@@ -1070,7 +1070,7 @@
   authors: Fiachra E. O'Loughlin, Jeff C. Neal, Dai Yamazaki, Paul D. Bates
   description: 
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015WR018237
+    url: https://doi.org/10.1002/2015WR018237
     display: Water Resources Research, vol.52, pp.3276-3284, 2016, DOI 10.1002/2015WR018237
   highlight: 0
   dlab: 0
@@ -1082,7 +1082,7 @@
   authors: C.M. Mateo, N. Hanasaki, D. Komori, K. Tanaka, M. Kiguchi, A. Champathong, T. Sukhapunnaphan, D. Yamazaki, T. Oki
   description: 
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2013WR014845
+    url: https://doi.org/10.1002/2013WR014845
     display: Water Resources Research, vol.50, pp.7245-7266, 2014, doi:10.1002/2013WR014845
   highlight: 0
   dlab: 0
@@ -1094,7 +1094,7 @@
   authors: Nilpul K. Gunasekara, So Kazama, Dai Yamazaki, & Taikan Oki
   description: 
   link:
-    url: https://link.springer.com/article/10.1007/s11269-013-0478-x
+    url: https://doi.org/10.1007/s11269-013-0478-x
     display: Water Resources Management, vol.28(1), pp.169-184, 2013, DOI 10.1007/s11269-013-0478-x
   highlight: 0
   dlab: 0
@@ -1106,7 +1106,7 @@
   authors: Nilpul K. Gunasekara, So Kazama, Dai Yamazaki, & Taikan Oki
   description: 
   link:
-    url: https://hess.copernicus.org/articles/17/4429/2013/hess-17-4429-2013.html
+    url: https://doi.org/10.5194/hess-17-4429-2013
     display: Hydrology and Earth System Science, vol.17, pp.4429-4440, 2013, DOI 10.5194/hess-17-4429-2013
   highlight: 0
   dlab: 0
@@ -1118,7 +1118,7 @@
   authors: Yukiko Hirabayashi, Roobavannan Mahendran, Sujan Koirala, Lisako Konoshima, Dai Yamazaki, Satoshi Watanabe, Hyungjun Kim, & Shinjiro Kanae
   description: Global flood risk assessment using multiple CMIP5 climate model output.
   link:
-    url: https://www.nature.com/articles/nclimate1911
+    url: https://doi.org/10.1002/
     display: Nature Climate Change, vol.3, pp816-821, 2013, DOI 10.1038/nclimate1911
   highlight: 1
   dlab: 0
@@ -1130,7 +1130,7 @@
   authors: Augusto Getirana, Aaron Boone, Dai Yamazaki, & Nelly Mognard
   description: 
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/wrcr.20077
+    url: https://doi.org/10.1002/wrcr.20077
     display: Water Resources Research, vol.49, pp.614-629, 2013, DOI 10.1002/wrcr.20077
   highlight: 0
   dlab: 0
@@ -1142,7 +1142,7 @@
   authors: Augusto Getirana, Aaron Boone, Dai Yamazaki, Bertrand Decharme, Febrice Papa, & Nelly Mognard
   description: 
   link:
-    url: https://journals.ametsoc.org/view/journals/hydr/13/6/jhm-d-12-021_1.xml
+    url: https://doi.org/10.1175/JHM-D-12-021.1
     display: Journal of Hydrometeorology, vol.13, pp.1641-1665, 2012, DOI 10.1175/JHM-D-12-021.1
   highlight: 0
   dlab: 0
@@ -1154,7 +1154,7 @@
   authors: Daisuke Komori, Shinichirou Nakamura, Masashi Kiguchi, Asako Nishijima, Dai Yamazaki, Satoshi Suzuki, Akiyuki Kawasaki, Kazuo Oki, & Taikan Oki
   description: 
   link:
-    url: http://www.hrljournal.org/archives/887
+    url: http://doi.org/10.3178/hrl.6.41
     display: Hydrological Research Letters, vol.6, pp.41-46, 2012, DOI 10.3178/hrl.6.41
   highlight: 0
   dlab: 0
@@ -1166,7 +1166,7 @@
   authors: Hyongki Lee, R. Edward Beighley, Douglas Alsdorf, Hahn Chul Jung, C.K. Shum, Jianbin Duan, Junyi Guo, Dai Yamazaki, & Konstantinos Andreadis
   description: 
   link:
-    url: https://www.sciencedirect.com/science/article/abs/pii/S0034425711003178
+    url: https://doi.org/10.1016/j.rse.2011.08.015
     display: Remote Sensing of Environment, vol.115(12), 3530-3538, 2011, DOI 10.1016/j.rse.2011.08.015
   highlight: 0
   dlab: 0
@@ -1178,7 +1178,7 @@
   authors: Bin He, Taikan Oki, Fubao Sun, Daisuke Komori, Shinjiro Kanae, Y Wang, Hyungjun Kim, Dai Yamazaki
   description: 
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S0301479710003002 
+    url: https://doi.org/10.1016/j.jenvman.2010.09.014
     display: Journal of Environmental Management, vol.92(1), pp.172-177, 2011, DOI 10.1016/j.jenvman.2010.09.014
   highlight: 0
   dlab: 0
@@ -1190,7 +1190,7 @@
   authors: Watanabe M., T. Suzuki, R. O'ishi, Y. Komuro, S. Watanabe, S. Emori, T. Takemura, M. Chikira, T. Ogura, M. Sekiguchi, K. Takata, D. Yamazaki, T. Yokohata, T. Nozawa, H. Hasumi, H. Tatebe, M. Kimoto
   description: 
   link:
-    url: https://journals.ametsoc.org/view/journals/clim/23/23/2010jcli3679.1.xml
+    url: https://doi.org/10.1175/2010JCLI3679.1
     display: Journal of Climate, vol.23, pp.6312-6335, 2010, DOI 10.1175/2010JCLI3679.1
   highlight: 0
   dlab: 0
@@ -1205,7 +1205,7 @@
   authors: Ikegawa M., T. Hascoet , V. Pellet, M. Watanabe, X. Zhou, Y. Tanaka, T. Takiguchi, D. Yamazaki
   description: 
   link:
-    url: https://ieeexplore.ieee.org/document/9884228
+    url: https://doi.org/10.1109/IGARSS46834.2022.9884228
     display: IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium, 2022, pp. 2765-2768, DOI 10.1109/IGARSS46834.2022.9884228
   highlight: 0
   dlab: 2
@@ -1217,7 +1217,7 @@
   authors: Giuseppe Amatulli, Sami Domisch, Jens Kiesel, Tushar Sethi, Dai Yamazaki, Peter Raymond
   description: 
   link:
-    url: https://peerj.com/preprints/27109/
+    url: https://doi.org/10.7287/peerj.preprints.27109v1
     display: Proceedings of Geomorphometry 2018, PeerJ Preprint, doi:10.7287/peerj.preprints.27109v1, Published 11 Aug 2018
   highlight: 0
   dlab: 2
@@ -1267,7 +1267,7 @@
   authors: Huan Wu,Jing Tao,Dai Yamazaki,Weitian Chen,Zequn Huang,Chaoqun Li,John Kimball
   description:
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/9781119427339.ch12
+    url: https://doi.org/10.1002/9781119427339.ch12
     display: In AGU Book; Global Drought and Flood (eds H. Wu, D.P. Lettenmaier, Q. Tang and P.J. Ward), 2021, DOI 10.1002/9781119427339.ch12
     highlight: 0
   dlab: 3
@@ -1279,7 +1279,7 @@
   authors: Trigg, M.A., Bernhofen, M., Marechal, D., Alfieri, L., Dottori, F., Hoch, J., Horritt, M., Sampson, C., Smith, A., Yamazaki, D. and Li, H
   description:
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119427339.ch10
+    url: https://doi.org/10.1002/9781119427339.ch10
     display: In AGU Book; Global Drought and Flood (eds H. Wu, D.P. Lettenmaier, Q. Tang and P.J. Ward), 2021, DOI 10.1002/9781119427339.ch10
     highlight: 0
   dlab: 3
@@ -1291,7 +1291,7 @@
   authors: Dai Yamazaki, Yukiko Hirabayashi, & Satoshi Watanabe
   description: 
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119217886.ch11
+    url: https://doi.org/10.1002/9781119217886.ch11
     display: AGU Book "Global Flood Hazard" (AGU Wiley), Ch.11, pp.185-203, 2018.
   highlight: 0
   dlab: 3
@@ -1303,7 +1303,7 @@
   authors: D. Yamazaki & M.A. Trigg
   description: 
   link:
-    url: http://www.nature.com/nature/journal/v540/n7633/abs/nature21100.html
+    url: http://doi.org/10.1038/nature21100
     display: Nature, vol.540, pp.348-349, 2016, doi:10.1038/nature21100
   highlight: 0
   dlab: 3

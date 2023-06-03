@@ -59,7 +59,7 @@
   authors: "山崎大"
   description:
   link:
-    url: ""
+    url: https://orsj.org/wp-content/corsj/or66-12/or66_12_828.pdf
     display: "オペレーションズ・リサーチ, vol.66(12), 828-824, 2021"
   dlab: 1
 
@@ -69,8 +69,8 @@
   authors: "浜田 光太郎, 山崎 大, 新田 友子"
   description:
   link:
-    url: ""
-    display:  "土木学会論文集B1(水工学), vol.77(2), I_229-I_234, 2021"
+    url: https://doi.org/10.2208/jscejhe.77.2_I_229
+    display:  "土木学会論文集B1(水工学), vol.77(2), I_229-I_234, 2021, DOI:10.2208/jscejhe.77.2_I_229"
   dlab: 1
 
 - ID: JY10)
@@ -79,8 +79,8 @@
   authors: "足立 幸太, 山崎 大, 新田 友子"
   description:
   link:
-    url: ""
-    display:  "土木学会論文集B1(水工学), vol.77(2), I_223-I_228, 2021"
+    url: https://doi.org/10.2208/jscejhe.77.2_I_223
+    display:  "土木学会論文集B1(水工学), vol.77(2), I_223-I_228, 2021, DOI:10.2208/jscejhe.77.2_I_223"
   dlab: 1
 
 - ID: JY9)
@@ -89,8 +89,8 @@
   authors: "山田 利紀, 藤田 凌, 田上 雅浩, 山崎 大, 平林 由希子"
   description:
   link:
-    url: ""
-    display:  "土木学会論文集G(環境), vol.77(5), I_27-I_32, 2021"
+    url: https://doi.org/10.2208/jscejer.77.5_I_27
+    display:  "土木学会論文集G(環境), vol.77(5), I_27-I_32, 2021, DOI:10.2208/jscejer.77.5_I_27"
   dlab: 1
 
 - ID: JY8)
@@ -99,8 +99,8 @@
   authors: "渡辺恵, 吉川沙耶花, 山崎大, 鼎信次郎"
   description: 
   link:
-    url: ""
-    display:  "土木学会論文集B1(水工学), vol.75(2), I_1129-I_1134, 2019"
+    url: https://doi.org/10.2208/jscejhe.75.2_I_1129
+    display:  "土木学会論文集B1(水工学), vol.75(2), I_1129-I_1134, 2019, DOI:10.2208/jscejhe.75.2_I_1129"
   dlab: 1
 
 - ID: JY7)
@@ -109,8 +109,8 @@
   authors: "兎澤知浩, 山崎大, 沖大幹"
   description: 
   link:
-    url: ""
-    display:  "土木学会論文集B1(水工学) vol.75(2), I_1265-I_1270, 2019"
+    url: https://doi.org/10.2208/jscejhe.75.2_I_265
+    display:  "土木学会論文集B1(水工学) vol.75(2), I_1265-I_1270, 2019, DOI:10.2208/jscejhe.75.2_I_265"
   dlab: 1
 
 - ID: JY6)
@@ -119,8 +119,8 @@
   authors: "田中良明, 山崎大"
   description: 
   link:
-    url: ""
-    display:  "土木学会論文集B1(水工学) vol.75(2), I_1099-I_1104, 2019"
+    url: https://doi.org/10.2208/jscejhe.75.2_I_1099
+    display:  "土木学会論文集B1(水工学) vol.75(2), I_1099-I_1104, 2019, DOI:10.2208/jscejhe.75.2_I_1099"
   dlab: 1
 
 - ID: JY5)
@@ -128,8 +128,8 @@
   e-title: "Estimation Of The River Bankfull Depth By The Integration Of A Satellite Observation And A River Routing Model"
   authors: "塩澤拓斗, 山崎大"
   link:
-    url: ""
-    display:  "土木学会論文集 (B1) Vol.75(2), I_259-I_264, 2019"
+    url: https://doi.org/10.2208/jscejhe.75.2_I_259
+    display:  "土木学会論文集 (B1) Vol.75(2), I_259-I_264, 2019, DOI:10.2208/jscejhe.75.2_I_259"
   dlab: 1
 
 
@@ -138,17 +138,17 @@
   e-title: "High-resolution flow direction map of Japan"
   authors: "山崎大, 冨樫冴佳, 竹島彰, 佐山敬洋"
   link:
-    url: ""
-    display:  "土木学会論文集B1(水工学), Vol.74(5), I_163-I_168, 2018"
+    url: https://doi.org/10.2208/jscejhe.74.5_I_163
+    display:  "土木学会論文集B1(水工学), Vol.74(5), I_163-I_168, 2018, DOI:10.2208/jscejhe.74.5_I_163"
   dlab: 1
 
 - ID: JY3)
-  title: "[研究ノート局所慣性方程式の導入による洪水氾濫計算の安定化と高速化"
+  title: "[研究ノート] 局所慣性方程式の導入による洪水氾濫計算の安定化と高速化"
   e-title: "Rapid and stable flood inundation modelling using the local inertial equation"
   authors: "山崎大，田中智大，Paul D. Bates"
   link:
-    url: ""
-    display:  "水文・水資源学会論文集, vol.28 (3), pp.124-130, 2015"
+    url: https://doi.org/10.3178/jjshwr.28.124
+    display:  "水文・水資源学会論文集, vol.28 (3), pp.124-130, 2015, DOI: 10.3178/jjshwr.28.124"
   dlab: 1
 
 - ID: JY2)
@@ -214,7 +214,7 @@
   e-title: "Toward the global-scale estimation of water resources with a coupled model framework of hydro- and thermodynamics in rivers and lakes"
   authors: "徳田 大輔, 金 炯俊, 山崎 大, 沖 大幹"
   link:
-    url: ""
+    url: https://doi.org/10.2208/jscejhe.77.2_I_241
     display:  "土木学会論文集B1(水工学), vol.77, no.2, I_241-I_246, 2021"
   dlab: 0
 
@@ -223,7 +223,7 @@
   e-title: "Possibility of high-frequency observation of inundation area by small sar satellites constellation"
   authors: "北島夏実, 瀬戸里枝, 山崎大, Xudong ZHOU, Wenchao MA, 鼎信次郎"
   link:
-    url: ""
+    url: https://doi.org/10.2208/jscejhe.76.2_I_535
     display:  "土木学会論文集B1(水工学), vol.76, no.2, I_535-I_540, 2020"
   dlab: 0
 
@@ -232,7 +232,7 @@
   e-title: ""
   authors: "Haireti ALIFU, Dai YAMAZAKI, Ji LUYAN, and Yukiko HIRABAYASHI"
   link:
-    url: ""
+    url: https://doi.org/10.2208/jscejhe.75.2_I_163
     display:  "土木学会論文集 (B1) vol.75(2), I_163-I_168, 2019"
   dlab: 0
 
@@ -241,7 +241,7 @@
   e-title: "Application Of Databank-based Data Assimilation To Urban Inundation Model For Improved Accuracy And Sensitivity Analysis Of Pumping Operation"
   authors: "渋尾欣弘, 呉連慧, 田島芳満, 山崎大, 佐貫宏, 古米弘明"
   link:
-    url: ""
+    url: https://doi.org/10.2208/jscejhe.75.2_I_199
     display:  "土木学会論文集 (B1) vol.75(2), I_199-I_204, 2019"
   dlab: 0
 
@@ -250,7 +250,7 @@
   e-title: "Implementing Reservoir Operation In A Probabilistic Flood Forecast System And Its Application To 2015 Kinu River Flood"
   authors: "花崎梨紗, 石塚悠太, 山崎大, 芳村圭"
   link:
-    url: ""
+    url: https://doi.org/10.2208/jscejhe.75.2_I_151
     display:  "土木学会論文集 (B1) vol.75(2), I_151-I_156, 2019"
   dlab: 0
 
@@ -259,7 +259,7 @@
   e-title: "Frontiers in Hydrology and Water Resources Research : WACCA Generation's Challenges"
   authors: "田中智大, 渡部哲史, 小槻峻司, 林義晃, 丸谷靖幸, 峠嘉哉, 山崎大, 木村匡臣, 田上雅浩, 江草智弘, 橋本雅和, 仲吉信人"
   link:
-    url: ""
+    url: https://doi.org/10.3178/jjshwr.31.509
     display:  "水文・水資源学会誌, vol.31(6), 365-396, 2018"
   dlab: 0
 
@@ -268,7 +268,7 @@
   e-title: ""
   authors: "M. REVEL, D. YAMAZAKI, and Shinjiro KANAE"
   link:
-    url: ""
+    url: https://doi.org/10.2208/jscejhe.74.5_I_157
     display:  "土木学会論文集 (B1) Vol.74(4), I_307-I_312, 2018"
   dlab: 0
 
@@ -277,7 +277,7 @@
   e-title: ""
   authors: "M. REVEL, D. YAMAZAKI, and Shinjiro KANAE"
   link:
-    url: ""
+    url: https://doi.org/10.2208/jscejhe.74.I_307
     display:  "土木学会論文集 (B1) Vol.74(4), I_307-I_312, 2018"
   dlab: 0
 
@@ -286,7 +286,7 @@
   e-title: "DEVELOPMENT OF GLOBAL TERRESTRIAL MODEL INCLUDING SUB-GRID HILLSLOPE PROCESSES"
   authors: "兎澤知浩, 山崎大, 佐山敬洋, 沖大幹"
   link:
-    url: ""
+    url: https://doi.org/10.2208/jscejhe.74.I_991
     display:  "土木学会論文集 (B1) Vol.74(4), I_991-I_996, 2018"
   dlab: 0
 
@@ -295,7 +295,7 @@
   e-title: "DETERMINANTS OF WATER TEMPERATURE IN THE RIVERS OVER LOW-LATITUDE REGIONS"
   authors: "徳田大輔，金炯俊，山崎大，沖大幹"
   link:
-    url: ""
+    url: https://doi.org/10.2208/jscejhe.74.I_583
     display:  "土木学会論文集 (B1) Vol.74(4), I_583-I_588, 2018"
   dlab: 0
 
@@ -304,7 +304,7 @@
   e-title: "Interdisciplinary Perspective of Surface Water Flow Numerical Analysis"
   authors: "木村匡臣, 田中智大, 安瀬地一作, 中谷加奈, 山崎大, 吉岡秀和"
   link:
-    url: ""
+    url: https://doi.org/10.3178/jjshwr.30.307
     display:  "水文・水資源学会誌, vol.30, no.5, pp. 307-334, 2017"
   dlab: 0
 
@@ -313,7 +313,7 @@
   e-title: "Application of data assimilation for a global river model: a virtual experiment at the amazon basin"
   authors: "池嶋大樹, 山崎大，鼎信次郎"
   link:
-    url: ""
+    url: https://doi.org/10.2208/jscejhe.73.I_175
     display:  "土木学会論文集 (B1) vol.73(4), pp.175-180, 2017"
   dlab: 0
 
@@ -322,7 +322,7 @@
   e-title: "Numerical stability analysis of local inertial equations considering the friction term"
   authors: "田中智大, 吉岡秀和, 木村匡臣, 山崎大"
   link:
-    url: ""
+    url: https://doi.org/10.2208/jscejhe.73.I_577
     display:  "土木学会論文集 (B1) vol.73(4), pp.577-582, 2017"
   dlab: 0
 
@@ -342,7 +342,7 @@
   e-title: "Impact assessment of high resolution river inundation precesses in a climate model"
   authors: "鳩野美佐子, 芳村圭, 荒川隆, 山崎大, 沖大幹"
   link:
-    url: ""
+    url: https://doi.org/10.2208/jscejhe.73.I_1213
     display:  "土木学会論文集 (B1) vol.72(4), pp.115-120, 2016"
   dlab: 0
 
@@ -352,7 +352,7 @@
   e-title: "The spatial resolution improvement of global water body map using multi-temporal Landsat data"
   authors: "池嶋大樹, 山崎大，吉川沙耶花，鼎信次郎"
   link:
-    url: ""
+    url: https://doi.org/10.2208/jscejhe.72.I_421
     display:  "土木学会論文集 (B1) vol.72(4), pp.421-426, 2016"
   dlab: 0
 
@@ -361,7 +361,7 @@
   e-title: ""
   authors: "Tomoko Sato, Dai Yamazaki, Wee Ho Lim, Sujan Koirala, & Shinjiro Kanae"
   link:
-    url: ""
+    url: https://doi.org/10.2208/jscejhe.70.I_103
     display:  "土木学会論文集 (B1) vol.70, pp.103-108, 2014"
   dlab: 0
 
@@ -370,7 +370,7 @@
   e-title: "Development of a global flood affected population real-time calculation system with a land surface-flood inundation model"
   authors: "鳩野美佐子，芳村圭，山崎大，沖大幹"
   link:
-    url: ""
+    url: https://doi.org/10.2208/jscejhe.70.I_1519
     display:  "土木学会論文集 (B1), vol.70, pp.1519-1524, 2014"
   dlab: 0
 
