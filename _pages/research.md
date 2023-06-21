@@ -16,9 +16,17 @@ If you are interested in detail: please also visit the [list of publications](..
 
 {% include products.html %}
 
-## Targets and Methods
+## Research Topics
 
-Here are some themes and techniques that we currently work on:
+### Detailed research topic explanation
+
+- [Global hydrodynamic modelling](../res_modelling/).
+- [Global hydro-topography datasets](../res_topography/).
+
+
+### Overview of research topics
+
+Here are overview of some research topics we currently work on:
 
 #### **Global River Hydrodynamics Modelling (CaMa-Flood)** 
 River is an important component of the global hydrological cycle, and it interacts with Earth's climate and biogeochemical systems by transferring water and other materials from land to oceans. It also affects human society by providing water resources, while too much or too small river discharge causes disasters (i.e. flood, drought). Understanding and predicting river water dynamics is essential for representing rivers within global climate models and also for water resource planning and water-related disaster mitigation. However, modelling of river hydrodynamics on the global scale is difficult because of its multi-scale nature. While we have to consider the basin-wide water budget of continental rivers (spatial scale: >1000km), the water movement is regulated by detailed topography of river channels and floodplains (spatial stale: <100m). To overcome this difficulty, we are working on developing a global river model [CaMa-Flood](http://hydro.iis.u-tokyo.ac.jp/~yamadai/cama-flood/), which can simulate river hydrodynamics very efficiently by representing flood inundation as sub-grid scale physics.
