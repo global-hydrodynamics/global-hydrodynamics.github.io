@@ -20,8 +20,12 @@ If you are interested in detail: please also visit the [list of publications](..
 
 ### Detailed research topic explanation
 
+- [Research Topic Overview](../research/).
 - [Global hydrodynamic modelling](../res_modelling/).
+- [Satellite Monitoring of Global Hydrodynamics](../res_satellite/).
 - [Global hydro-topography datasets](../res_topography/).
+- [Global flood risk assessment](../res_floodrisk/).
+
 
 
 ### Overview of research topics

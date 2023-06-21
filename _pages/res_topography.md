@@ -12,7 +12,10 @@ Our research goal is to understand and predict the dynamics of land waters from 
 
 - [Research Topic Overview](../research/).
 - [Global hydrodynamic modelling](../res_modelling/).
+- [Satellite Monitoring of Global Hydrodynamics](../res_satellite/).
 - [Global hydro-topography datasets](../res_topography/).
+- [Global flood risk assessment](../res_floodrisk/).
+
 
 
 If you are interested in detail: please also visit the [list of publications](../publications/).
