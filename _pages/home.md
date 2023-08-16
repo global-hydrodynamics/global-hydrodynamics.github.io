@@ -26,6 +26,7 @@ If you are interested in our team, please visit the below pages:
 Our research activity is summarized in:
 - [Research targets and methods](./research/)
 - [Publications and outcome](./publications/)
+- [PI: Yamazaki's Google Scholar](https://scholar.google.com/citations?hl=en&user=2c_Vf3cAAAAJ)
 - [List of student academic thesis](./student_thesis/)
 - [List of awards](./award/)
 
