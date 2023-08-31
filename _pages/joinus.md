@@ -66,7 +66,8 @@ Yamazaki Lab workspace in IIS Komaba-2 Campus
 山崎研究室に修士/博士学生として加わりたい場合は、**工学系研究科 社会基盤学専攻**の [大学院入試を受験](http://www.civil.t.u-tokyo.ac.jp/graduate_school/) するか、**総合文化研究科 国際環境学プログラム**に[出願](https://gpes.c.u-tokyo.ac.jp/how-to-apply/index.html)してください。研究室見学は随時受け付けています。
 
 学部生として卒論研究を行いたい場合は、社会基盤学科の水圏環境グループから研究室に加わることができます。
-東大の教養学部前期課程（駒場生）は、全学自由研究ゼミナール「[UROP:学部学生のための研究入門コース](http://www.oshimalab.iis.u-tokyo.ac.jp/UROP/)」に参加することで、山崎研究室での研究活動を体験できます。
+
+東大の教養学部前期課程（駒場生）では、全学自由研究ゼミナール「[UROP:学部学生のための研究入門コース](http://www.oshimalab.iis.u-tokyo.ac.jp/UROP/)」に参加することで、山崎研究室での研究活動を体験できます。
 
 山崎研究室で取り組むことのできる研究例として、以下のリストを参考にしてください。
 - [研究テーマと手法](../research/)
