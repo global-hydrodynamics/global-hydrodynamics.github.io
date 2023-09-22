@@ -1,5 +1,17 @@
 ## Yamazaki Lab work
 
+- ID: Y32)
+  title: "Res-CN (Reservoir dataset in China): hydrometeorological time series and landscape attributes across 3254 Chinese reservoirs."
+  image:
+  authors: "Youjiang Shen, Karina Nielsen, Menaka Revel, Dedi Liu, Dai Yamazaki"
+  description:
+  link:
+    url: https://doi.org/10.5194/essd-15-2781-2023
+    display: "Earth System Science Data, 15, 2781–2808, 2023, DOI 10.5194/essd-15-2781-2023"
+  highlight: 0
+  dlab: 1
+  news2:
+  
 - ID: Y31)
   title: "Flood Defense Standard Estimation Using Machine Learning and Its Representation in Large-Scale Flood Hazard Modeling"
   image:
@@ -386,7 +398,31 @@
 ######################################################################################
 ### Collaboration work ###
 
-## FY23023
+- ID: C70)
+  title: "Reversal of the Levee Effect Towards Sustainable Floodplain Management in the contiguous United States"
+  image:
+  authors: "Meng Ding, Peirong Lin, Shang Gao, Jida Wang, Zhenzhong Zeng, Kaihao Zheng, Xudong Zhou, Dai Yamazaki, Yige Gao,Yu Liu"
+  description:
+  link:
+    url: https://doi.org/10.1038/s41893-023-01202-9
+    display: "Nature Sustainability, 18, 034024, 2023, DOI 10.1038/s41893-023-01202-9"
+  highlight: 0
+  dlab: 0
+  news2:
+
+- ID: C69)
+  title: "Lake-TopoCat: a global lake drainage topology and catchment database"
+  image:
+  authors: "Md Safat Sikder, Jida Wang, George H. Allen, Yongwei Sheng, Dai Yamazaki, Chunqiao Song, Meng Ding, Jean-François Crétaux, and Tamlin M. Pavelsky"
+  description:
+  link:
+    url: https://doi.org/10.5194/essd-15-3483-2023
+    display: "Earth Syst. Sci. Data, 15, 3483–3511, 2023 DOI 10.5194/essd-15-3483-2023"
+  highlight: 0
+  dlab: 0
+  news2:
+
+## FY2023
 ## FY2022
 
 
