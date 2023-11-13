@@ -108,6 +108,22 @@ All research staff members belong to  [Institute of Industrial Science](https://
   <li> {{ member.description3 }} </li>
   {% endif %}
 
+  {% if member.number_desc == "4" %}
+  <li> {{ member.description1 }} </li>
+  <li> {{ member.description2 }} </li>
+  <li> {{ member.description3 }} </li>
+  <li> {{ member.description4 }} </li>
+  {% endif %}
+
+  {% if member.number_desc == "5" %}
+  <li> {{ member.description1 }} </li>
+  <li> {{ member.description2 }} </li>
+  <li> {{ member.description3 }} </li>
+  <li> {{ member.description4 }} </li>
+  <li> {{ member.description5 }} </li>
+  {% endif %}
+
+
   </ul>
 </div>
 
