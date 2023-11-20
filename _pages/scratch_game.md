@@ -13,7 +13,8 @@ permalink: /scratch_game/
 
 降雨-流出モデルの地表面状態を変えて、シミュレーションされる流出パターンを「ターゲット」に合わせるゲームです。
 
-ゲームを遊びながら、降雨-流出プロセスを学んでみましょう。(緑旗のボタンを押すとゲームがスタートします)
+ゲームを遊びながら、降雨-流出プロセスを学んでみましょう。<br>
+緑旗のボタンを押すとゲームがスタートします。（注：音がでます）
 
 <iframe src="https://scratch.mit.edu/projects/864115525/embed" allowtransparency="true" width="720" height="460" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
