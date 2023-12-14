@@ -2,7 +2,7 @@
 title: "Yamazaki Lab - Game"
 layout: pagelay
 excerpt: "Yamazaki Lab -- Game"
-permalink: /game/
+permalink: /game_e/
 ---
 
 # Rainfall-runoff modelling game on *Scratch*
