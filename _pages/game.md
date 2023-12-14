@@ -2,7 +2,7 @@
 title: "Yamazaki Lab - Game"
 layout: pagelay
 excerpt: "Yamazaki Lab -- Game"
-permalink: /scratch_game/
+permalink: /game/
 ---
 
 # Rainfall-runoff modelling game on *Scratch*
@@ -147,7 +147,7 @@ permalink: /scratch_game/
 以下に簡単なガイドラインを示します。
 
 - **学校教育や大学オープンキャンパスで降雨流出ゲームを用いたい場合**は、出典を明示した上で自由に利用いただいて構いません。必須ではありませんが、利用する場合はメールにて連絡いただけると嬉しいです。<br>
-  *出典の記載方法：「東京大学生産技術研究所 山崎研究室が開発」もしくはWebPage情報「UTokyo-IIS Yamazaki Lab: [https://global-hydrodynamics.github.io/scratch_game/](https://global-hydrodynamics.github.io/scratch_game/)」を記載してください。*
+  *出典の記載方法：「東京大学生産技術研究所 山崎研究室が開発」と記載してください。可能であれば、WebPage URL「UTokyo-IIS Yamazaki Lab: [https://global-hydrodynamics.github.io/scratch_game/](https://global-hydrodynamics.github.io/scratch_game/)」*　も示してください。
 - **この降雨流出モデリングゲームを用いて教育効果実証などの研究活動を行いたい場合**は、事前にメール連絡してください。（共同研究を歓迎します）
 - **このゲームを発展させて教育ツールや研究ツールを開発したい場合**も、メールにて相談してください。（共同開発者や共同事業者となってくれる方を探しています）
 
