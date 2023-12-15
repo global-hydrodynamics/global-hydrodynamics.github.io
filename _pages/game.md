@@ -6,6 +6,7 @@ permalink: /game/
 ---
 
 # Rainfall-runoff modelling game on *Scratch*
+[English webpage is here](../game_e/)
 
 #### 降雨-流出プロセスをゲームで学ぼう！
 雨が降ってから河川に水が流れ出るまでの仕組みを「降雨-流出プロセス」と言います。<br>
