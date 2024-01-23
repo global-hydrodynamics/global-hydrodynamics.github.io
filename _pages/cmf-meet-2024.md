@@ -51,7 +51,7 @@ Any foreign visitor entering Japan must have a valid passport for the duration o
 For visa information for a stay of up to 90 days for tourism, business, visiting friends or relatives, etc. that does not include remunerative activities, visit https://www.mofa.go.jp/j_info/visit/visa/index.html.
 An overview of countries that are visa exempt can be found here.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/Picture/IIS-campus.jpg" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picture/IIS-campus.jpg" />
 
 ### Program
 We are thinking about having the below sessions.
