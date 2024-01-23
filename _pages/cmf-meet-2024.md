@@ -1,7 +1,7 @@
 ---
-title: "Yamazaki Lab - Game"
+title: "CaMa-Flood meeting 2024"
 layout: pagelay
-excerpt: "Yamazaki Lab -- Game"
+excerpt: "CaMa-Flood meeting 2024"
 permalink: /cmf-meet-2024/
 ---
 
