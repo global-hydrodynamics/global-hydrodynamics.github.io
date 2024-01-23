@@ -19,10 +19,15 @@ We'd like to have the very first international meeting among the CaMa-Flood deve
 
 All CaMa-Flood developers and users are welcome to join. We are also happy to welcome potential new collaborators who are interested in CaMa-Flood model.
 
-### Date and location
-We will have the CaMa-Flood meeting on *5-6th July 2024*.
+<img src="{{ site.url }}{{ site.baseurl }}/images/slider/CaMa_model.jpg" />
 
-The venue is a conference hall in the Institute of Industrial Science, The University of Tokyo. It's in UTokyo Komaba-2 Research Campus (very near from Shibuya, central Tokyo).
+### Meeting Info
+
+#### Date and location
+We will have the CaMa-Flood meeting on **5-6th July 2024**.
+
+The venue is a conference hall in the **Institute of Industrial Science, The University of Tokyo**. <br>
+It's in UTokyo Komaba-2 Research Campus (very near from Shibuya, central Tokyo).
 
 #### Address
 4-6-1 Komaba, Meguro-Ku, Tokyo, 153-8505, Japan<br/>
@@ -30,17 +35,23 @@ The venue is a conference hall in the Institute of Industrial Science, The Unive
 
 #### Schedule (tentative)
 
-Feb 2024: Registration and abstract submission
-Mar 2024: Abstract submission close
-May 2024: Announcement of the program
-5-6 July 2024: CaMa-Flood international meeting
+- Feb 2024: Registration and abstract submission
+- Mar 2024: Abstract submission close
+- May 2024: Announcement of the program
+- 5-6 July 2024: CaMa-Flood international meeting
 
-Registration form is to be open soon in February.
+Registration Form is to be open soon in February.
 
 #### Registration Fee
-There is no registration fee for the meeting.<br>
-And unfortunately, we cannot offer any travel expense support as we have no sponsor yet. Please manage your travel and accommodation by yourself.
+There is **no registration fee** for the meeting.<br>
+But unfortunately, we cannot offer any travel expense support as we have no sponsor yet. Please manage your travel and accommodation by yourself.
 
+#### VISA for Japan
+Any foreign visitor entering Japan must have a valid passport for the duration of their stay, and all visitors must comply with the conditions of their visas.
+For visa information for a stay of up to 90 days for tourism, business, visiting friends or relatives, etc. that does not include remunerative activities, visit https://www.mofa.go.jp/j_info/visit/visa/index.html.
+An overview of countries that are visa exempt can be found here.
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/Picture/IIS-campus.jpg" />
 
 ### Program
 We are thinking about having the below sessions.
@@ -51,10 +62,22 @@ We are thinking about having the below sessions.
 - Poster session on the Friday evening (tentatively 4:30-6:30pm).
 - Some interactive discussion session
 
-### Organizing Committee
-(Local organizing Committee)
+#### Related Meeting
+9th GEWEX conference (Global Energy and Water Exchanges open science conference) is to be held thtough 7-12 July 2024 in Sapporo, Japan.
+Please also consider to join the GEWEX conference to your visit to Japan more productive! (abstract submission deadline for GWEWEX is 1st Feb 2024).
+[https://www.gewexevents.org/meetings/gewex-osc2024/](https://www.gewexevents.org/meetings/gewex-osc2024/)
 
-Dai Yamazaki, Zhou Xudong, Gang Zhao, Taishi Yazawa, Minako Yokoyama, Yuki Tsukada
+<img src="{{ site.url }}{{ site.baseurl }}/images/slider/CaMa_Mekong.jpg" />
+
+### Organizing Committee
+As of Jan 2024
+- Dai Yamazaki (Chair, UTokyo)
+- Zhou Xudong  (Nimbo Univ)
+- Gang Zhao    (UTokyo)
+- Taishi Yazawa (UTokyo)
+- Minako Yokoyama (Secretary, UTokyo)
+- Yuki Tsukada (Secretary, UTokyo)
 
 Please email to Dai Yamazaki ( yamadai [at] iis.u-tokyo.ac.jp ) for question about the meeting.
 
+<p> &nbsp; </p>
