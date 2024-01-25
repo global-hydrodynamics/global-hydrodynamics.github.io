@@ -7,27 +7,28 @@ permalink: /cmf-meet-2024/
 
 # CaMa-Flood developer/user international meeting 2024
 
-5-6th July 2024 (Fri-Sat) @ Institute of Industrial Science, The University of Tokyo
+**We will be hosting the first-ever international meeting on CaMa-Flood and global hydrodynamics <br>
+on 5th and 6th July, 2024 (Friday and Saturday) at the Institute of Industrial Science, The University of Tokyo.**
 
-Note: We are organizing the meeting now. The registration form and detailed program will be announced later (expected in February 2024). There might be some changes in a future.
+*We are currently organizing the meeting. Registration information and a detailed program will be announced later, expectedly in February 2024.*
 
 
 ### About the meeting
-During 15 years since the initial development, the global river model CaMa-Flood has been advanced significantly. We have developed many new model schemes, new baseline topography datasets, and detailed analysis methods. Also, CaMa-Flood is now widely used for various applications, such as flood risk assessment, Earth's climate system modelling, data assimilation. 
+Over the past 15 years since its initial development, the global river model CaMa-Flood has undergone significant advancements. We have introduced numerous new model schemes, incorporated new baseline topography datasets, and refined our analysis methods. Furthermore, CaMa-Flood has become widely utilized for various applications, including flood risk assessment, Earth's climate system modeling, and data assimilation.
 
-We'd like to have the very first international meeting among the CaMa-Flood developers and users, so share our knowledge and knowhow, and to discuss about future developments and applications. 
+We are excited to announce the first-ever international meeting for CaMa-Flood developers and users. This gathering aims to facilitate the exchange of knowledge and expertise, allowing participants to share insights, discuss current advancements, and explore future developments and applications of CaMa-Flood.
 
-All CaMa-Flood developers and users are welcome to join. We are also happy to welcome potential new collaborators who are interested in CaMa-Flood model.
+All CaMa-Flood developers and users are cordially invited to participate in the meeting. Moreover, we extend a warm welcome to all researchers interested in global river hydrodynamics, regardless of whether they are currently using CaMa-Flood. We look forward to fostering a diverse and enriching exchange of ideas and collaborations during the event.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/slider/CaMa_model.jpg" />
 
 ### Meeting Info
 
 #### Date and location
-We will have the CaMa-Flood meeting on **5-6th July 2024**.
+The CaMa-Flood meeting will take place **on 5th and 6th July, 2024 (Friday and Saturday)**.
 
-The venue is a conference hall in the **Institute of Industrial Science, The University of Tokyo**. <br>
-It's in UTokyo Komaba-2 Research Campus (very near from Shibuya, central Tokyo).
+The venue will be a conference hall located at the **Institute of Industrial Science, The University of Tokyo**.<br>
+The institute is situated within UTokyo Komaba-2 Research Campus, which is conveniently close to Shibuya, in central Tokyo.
 
 #### Address
 4-6-1 Komaba, Meguro-Ku, Tokyo, 153-8505, Japan<br/>
@@ -35,36 +36,47 @@ It's in UTokyo Komaba-2 Research Campus (very near from Shibuya, central Tokyo).
 
 #### Schedule (tentative)
 
-- Feb 2024: Registration and abstract submission
-- Mar 2024: Abstract submission close
-- May 2024: Announcement of the program
-- 5-6 July 2024: CaMa-Flood international meeting
+- Feb 2024: Registration and abstract submission open.
+- Mar 2024: Abstract submission deadline.
+- May 2024: Announcement of the program.
+- 5-6th July 2024: CaMa-Flood meeting.
 
-Registration Form is to be open soon in February.
+
+The registration form will be open soon, in February. Thank you for your patience.
 
 #### Registration Fee
 There is **no registration fee** for the meeting.<br>
-But unfortunately, we cannot offer any travel expense support as we have no sponsor yet. Please manage your travel and accommodation by yourself.
+
+Please note that we are unable to offer any financial support for travel expenses at this time, as we do not have any sponsors secured yet. <br>
+We kindly ask participants to make their own arrangements for travel and accommodation. Thank you for your understanding.<br>
 
 #### VISA for Japan
-Any foreign visitor entering Japan must have a valid passport for the duration of their stay, and all visitors must comply with the conditions of their visas.
-For visa information for a stay of up to 90 days for tourism, business, visiting friends or relatives, etc. that does not include remunerative activities, visit https://www.mofa.go.jp/j_info/visit/visa/index.html.
-An overview of countries that are visa exempt can be found here.
+Please note that any foreign visitor entering Japan must possess a valid passport for the duration of their stay, and all visitors must adhere to the conditions of their visas.
+
+For visa information regarding stays of up to 90 days for purposes such as tourism, business, visiting friends or relatives, etc., which do not involve remunerative activities, please visit the Ministry of Foreign Affairs of Japan website at [https://www.mofa.go.jp/j_info/visit/visa/index.html](https://www.mofa.go.jp/j_info/visit/visa/index.html).
+
+Additionally, an overview of countries that are exempt from visa requirements can be found on the same website.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/picture/IIS-campus.jpg" />
 
 ### Program
-We are thinking about having the below sessions.
 
-- Opening key notes & icebreaker
-- Oral presentation session about CaMa-Flood development
-- Oral presentation session about CaMa-Food applications
-- Poster session on the Friday evening (tentatively 4:30-6:30pm).
-- Some interactive discussion session
+We are considering the following sessions for the CaMa-Flood meeting:
+
+- Opening keynote speeches & icebreaker session
+- Oral presentation session focusing on CaMa-Flood development
+- Oral presentation session highlighting CaMa-Flood applications
+- Poster session scheduled for Friday evening (tentatively from 4:30 to 6:30 pm on Friday)
+- Interactive discussion sessions
+
+These sessions aim to facilitate comprehensive discussions, knowledge sharing, and networking opportunities among participants.
 
 #### Related Meeting
-9th GEWEX conference (Global Energy and Water Exchanges open science conference) is to be held thtough 7-12 July 2024 in Sapporo, Japan.
-Please also consider to join the GEWEX conference to your visit to Japan more productive! (abstract submission deadline for GWEWEX is 1st Feb 2024).
+9th GEWEX conference (Global Energy and Water Exchanges open science conference) is to be held thtough 7-12th July 2024 in Sapporo, Japan.
+
+Participants of the CaMa-Flood meeting are encouraged to consider attending the GEWEX conference to maximize the productivity of their visit to Japan. The abstract submission deadline for the GEWEX conference is February 1st, 2024. This presents an excellent opportunity for attendees to engage with a broader community of researchers and exchange insights on global energy and water exchanges.
+
+For more information about the GEWEX conference and abstract submission, please visit the conference website at
 [https://www.gewexevents.org/meetings/gewex-osc2024/](https://www.gewexevents.org/meetings/gewex-osc2024/)
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/slider/CaMa_Mekong.jpg" />
@@ -72,7 +84,7 @@ Please also consider to join the GEWEX conference to your visit to Japan more pr
 ### Organizing Committee
 As of Jan 2024
 - Dai Yamazaki (Chair, UTokyo)
-- Zhou Xudong  (Nimbo Univ)
+- Zhou Xudong  (Ningbo Univ)
 - Gang Zhao    (UTokyo)
 - Taishi Yazawa (UTokyo)
 - Minako Yokoyama (Secretary, UTokyo)
