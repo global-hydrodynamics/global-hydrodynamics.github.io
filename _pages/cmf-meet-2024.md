@@ -10,7 +10,7 @@ permalink: /cmf-meet-2024/
 **We will be hosting the first-ever international meeting on CaMa-Flood and global hydrodynamics <br>
 on 5th and 6th July, 2024 (Friday and Saturday) at the Institute of Industrial Science, The University of Tokyo.**
 
-*We are currently organizing the meeting. Registration information and a detailed program will be announced later, expectedly in February 2024.*
+*We are currently organizing the meeting. There might be some changes on a detailed program.*
 
 
 ### About the meeting
@@ -36,13 +36,17 @@ The institute is situated within UTokyo Komaba-2 Research Campus, which is conve
 
 #### Schedule (tentative)
 
-- Feb 2024: Registration and abstract submission open.
-- Mar 2024: Abstract submission deadline.
+- 5  Feb 2024: Registration and abstract submission open.
+- 15 Mar 2024: Abstract submission deadline.
 - May 2024: Announcement of the program.
 - 5-6th July 2024: CaMa-Flood meeting.
 
+#### Registration Form & Deadline
+The deadline to register for the meeting is March 15, 2024. If you plan to attend, please complete the registration form provided. Timely registration is crucial for us to ensure the best possible experience for all attendees.
 
-The registration form will be open soon, in February. Thank you for your patience.
+**[Registration on Google Form](https://forms.gle/PjM6u6KPhpZvVZMaA)**
+
+We highly welcome you to make a presentation in the workshop. Please prepare your presentation title and abstract (up to 600 words). You may also include supplementary material (Figures, Extended documents) if needed. Note that making presentation is not mandatory.
 
 #### Registration Fee
 There is **no registration fee** for the meeting.<br>
@@ -74,7 +78,7 @@ These sessions aim to facilitate comprehensive discussions, knowledge sharing, a
 #### Related Meeting
 9th GEWEX conference (Global Energy and Water Exchanges open science conference) is to be held thtough 7-12th July 2024 in Sapporo, Japan.
 
-Participants of the CaMa-Flood meeting are encouraged to consider attending the GEWEX conference to maximize the productivity of their visit to Japan. The abstract submission deadline for the GEWEX conference is February 1st, 2024. This presents an excellent opportunity for attendees to engage with a broader community of researchers and exchange insights on global energy and water exchanges.
+Participants of the CaMa-Flood meeting are encouraged to consider attending the GEWEX conference to maximize the productivity of their visit to Japan. The abstract submission deadline for the GEWEX conference is February 19th 2024 (extended). This presents an excellent opportunity for attendees to engage with a broader community of researchers and exchange insights on global energy and water exchanges.
 
 For more information about the GEWEX conference and abstract submission, please visit the conference website at
 [https://www.gewexevents.org/meetings/gewex-osc2024/](https://www.gewexevents.org/meetings/gewex-osc2024/)
@@ -84,12 +88,12 @@ For more information about the GEWEX conference and abstract submission, please 
 ### Organizing Committee
 As of Jan 2024
 - Dai Yamazaki (Chair, UTokyo)
-- Zhou Xudong  (Ningbo Univ)
 - Gang Zhao    (UTokyo)
+- Zhou Xudong  (Ningbo Univ)
 - Taishi Yazawa (UTokyo)
 - Minako Yokoyama (Secretary, UTokyo)
 - Yuki Tsukada (Secretary, UTokyo)
 
-Please email to Dai Yamazaki ( yamadai [at] iis.u-tokyo.ac.jp ) for question about the meeting.
+Please email to Dai Yamazaki ( yamadai [at] iis.u-tokyo.ac.jp ) and/or Gang Zhao (gangzhao [at] rainbow.iis.u-tokyo.ac.jp ) for question about the meeting.
 
 <p> &nbsp; </p>
