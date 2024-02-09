@@ -153,5 +153,16 @@ All research staff members belong to  [Institute of Industrial Science](https://
 
 Please also visit the [list of student thesis](../student_thesis/) (PhD/MA/BA thesis)
 
+## Former Visitors
+<div class="row">
+
+{% for member in site.data.former_visitors %}
+<div class="col-sm-4 clearfix">
+{{ member.name }} : {{ member.native }} <br/> {{ member.info }}, {{ member.duration }}
+</div>
+{% endfor %}
+
+</div>
+
 ## Administrative Support
 Minako Yokoyama (m-yoko [at] iis.u-tokyo.ac.jp) and Yuki Tsukada (tsuka [at] rainbow.iis.u-tokyo.ac.jp) are helping us (and other groups) with administration.
