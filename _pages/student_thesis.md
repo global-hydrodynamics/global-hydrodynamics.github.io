@@ -1,13 +1,13 @@
 ---
 title: "Yamazaki Lab - Thesis"
 layout: pagelay
-excerpt: "Yamazaki Lab -- Student Thesis"
 sitemap: false
 permalink: /student_thesis/
 ---
 
-
 # Student Academic Thesis
+
+
 
 ( For a list of journal papers, please go to [publication page](../publications/) )
 

@@ -1,7 +1,6 @@
 ---
 title: "Yamazaki Lab - Research"
 layout: pagelay
-excerpt: "Yamazaki Lab -- Research"
 sitemap: false
 permalink: /res_floodrisk/
 ---

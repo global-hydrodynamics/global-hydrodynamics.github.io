@@ -1,7 +1,6 @@
 ---
 title: "Yamazaki Lab - Team"
 layout: pagelay
-excerpt: "Yamazaki Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -9,6 +8,8 @@ permalink: /team/
 # Group Members
 
  **We are  looking for new Postdoc, PhD students, and Master/Bachelor students to join the team** [(see Join Us page)]({{ site.url }}{{ site.baseurl }}/joinus) **!**
+
+
 
 ## Staff / Students
 

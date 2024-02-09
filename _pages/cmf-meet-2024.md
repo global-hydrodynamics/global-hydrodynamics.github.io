@@ -1,11 +1,11 @@
 ---
 title: "CaMa-Flood meeting 2024"
 layout: pagelay
-excerpt: "CaMa-Flood meeting 2024"
 permalink: /cmf-meet-2024/
 ---
 
 # CaMa-Flood developer/user international meeting 2024
+
 
 **We will be hosting the first-ever international meeting on CaMa-Flood and global hydrodynamics <br>
 on 5th and 6th July, 2024 (Friday and Saturday) at the Institute of Industrial Science, The University of Tokyo.**

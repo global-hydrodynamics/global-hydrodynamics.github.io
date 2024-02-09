@@ -1,7 +1,6 @@
 ---
 title: "Yamazaki Lab - Join Us"
 layout: pagelay
-excerpt: "Join Us"
 sitemap: false
 permalink: /joinus/
 ---
@@ -9,6 +8,7 @@ permalink: /joinus/
 # How to join us?
 
 We are always looking for new group members with passion, talent and grit. If you love nature and the Earth and want to understand it with data and model, please consider to join us!
+
 
 You will have the chance to work on frontier science challenges on global hydrodynamics, combining the model, remote sensing and data integration approach. We are happy to work with you to understand, describe and predict the dynamics of land waters across various spaiial and temporal scales.
 

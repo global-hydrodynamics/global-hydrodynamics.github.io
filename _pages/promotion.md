@@ -1,13 +1,14 @@
 ---
 title: "Yamazaki Lab - Promotion"
 layout: pagelay
-excerpt: "Yamazaki Lab -- Promotion"
 permalink: /promotion/
 ---
 
 # Promotion
 
 Highlight from our lab activity! If you are interested in, please consider to [join us]({{ site.url }}{{ site.baseurl }}/joinus/)!
+
+
 
 <p> &nbsp; </p>
 

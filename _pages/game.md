@@ -1,11 +1,12 @@
 ---
 title: "Yamazaki Lab - Game"
 layout: pagelay
-excerpt: "Yamazaki Lab -- Game"
 permalink: /game/
 ---
 
 # Rainfall-runoff modelling game on *Scratch*
+
+
 [English version is here](../game_e/)
 
 #### 降雨-流出プロセスをゲームで学ぼう！
