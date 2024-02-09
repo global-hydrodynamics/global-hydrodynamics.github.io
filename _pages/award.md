@@ -1,10 +1,11 @@
 ---
 title: "Yamazaki Lab - Award"
 layout: pagelay
-excerpt: "Yamazaki Lab -- Award"
 sitemap: false
 permalink: /award/
 ---
+
+<!-- excerpt: "Yamazaki Lab -- Award" -->
 
 
 # List of Awards for Yamazaki lab members
