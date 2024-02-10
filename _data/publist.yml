@@ -1,5 +1,53 @@
 ## Yamazaki Lab work
 
+- ID: Y36)
+  title: "Improving river routing algorithms to efficiently implement canal water diversion schemes into global hydrological models"
+  image:
+  authors: "Naho Yoden, Dai Yamazaki, Naota Hanasaki"
+  description:
+  link:
+    url: TBD
+    display: "Hydrological Research Letters, accepted, 2024"
+  highlight: 0
+  dlab: 1
+  news2:
+
+- ID: Y35)
+  title: "A 60-cm water body map obtained using aerial photography: Application to the Tama and Tsurumi rivers"
+  image:
+  authors: "Megumi Watanabe, Dai Yamazaki"
+  description:
+  link:
+    url: https://doi.org/10.3178/hrl.18.1
+    display: "Hydrological Research Letters, 18(1), 1-6, 2024, DOI 10.3178/hrl.18.1"
+  highlight: 0
+  dlab: 1
+  news2:
+
+- ID: Y34)
+  title: "AltiMaP: altimetry mapping procedure for hydrography data"
+  image:
+  authors: "Menaka Revel, Xudong Zhou, Prakat Modi, Jean-François Cretaux, Stephane Calmant, Dai Yamazaki"
+  description:
+  link:
+    url: https://doi.org/10.5194/essd-16-75-2024
+    display: "Earth System Science Data, 16, 75-85, 2024, DOI 10.5194/essd-16-75-2024"
+  highlight: 0
+  dlab: 1
+  news2:
+
+- ID: Y33)
+  title: "Quantifying the relative contributions of climate change and ENSO to flood occurrence in Bangladesh"
+  image:
+  authors: "Shahab Uddin, Menaka Revel, Prakat Modi, Dai Yamazaki"
+  description:
+  link:
+    url: https://doi.org/10.1088/1748-9326/acfa11
+    display: "Environmental Research Letters, 18, 104027, 2023, DOI 10.1088/1748-9326/acfa11"
+  highlight: 0
+  dlab: 1
+  news2:
+
 - ID: Y32)
   title: "Res-CN (Reservoir dataset in China): hydrometeorological time series and landscape attributes across 3254 Chinese reservoirs."
   image:
@@ -398,14 +446,39 @@
 ######################################################################################
 ### Collaboration work ###
 
-- ID: C70)
+- ID: C72)
   title: "Reversal of the Levee Effect Towards Sustainable Floodplain Management in the contiguous United States"
   image:
   authors: "Meng Ding, Peirong Lin, Shang Gao, Jida Wang, Zhenzhong Zeng, Kaihao Zheng, Xudong Zhou, Dai Yamazaki, Yige Gao,Yu Liu"
   description:
   link:
     url: https://doi.org/10.1038/s41893-023-01202-9
-    display: "Nature Sustainability, 18, 034024, 2023, DOI 10.1038/s41893-023-01202-9"
+    display: "Nature Sustainability, 6, 1578-1586, 2023, DOI 10.1038/s41893-023-01202-9"
+  highlight: 0
+  dlab: 0
+  news2:
+
+- ID: C71)
+  title: "Substantial increase in future fluvial flood risk projected in China’s major urban agglomerations"#
+  image:
+  authors: "Ruijie Jiang, Hui Lu, Kun Yang, Deliang Chen, Jiayue Zhou, Dai Yamazaki, Ming Pan, Wenyu Li, Nan Xu, Yuan Yang, Dabo Guan & Fuqiang Tian"
+  description:
+  link:
+    url: https://doi.org/10.1038/s43247-023-01049-0
+    display: "Communications Earth & Environment , 4, 389, 2023, DOI 10.1038/s43247-023-01049-0"
+  highlight: 0
+  dlab: 0
+  news2:
+
+
+- ID: C70)
+  title: "Enhancing Renewable Energy Systems, Contributing to Sustainable Development Goals of United Nation and Building Resilience Against Climate Change Impacts"
+  image:
+  authors: "Kai Ernn Gan, Oki Taikan, Thian Yew Gan, Tim Weis, Dai Yamazaki, Holger Schüttrumpf"
+  description:
+  link:
+    url: https://doi.org/10.1002/ente.202300275
+    display: "Energy Technology, 11(11), 2300275, 2023, DOI 10.1002/ente.202300275"
   highlight: 0
   dlab: 0
   news2:

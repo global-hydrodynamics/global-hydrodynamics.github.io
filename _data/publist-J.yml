@@ -1,4 +1,32 @@
 ## Yamazaki Lab work
+
+- ID: JY19)
+  title: "教育用プログラム言語Scratchを用いた降雨流出モデリングゲームの開発とその水文学教育への利用可能性
+"
+  e-title: "Incorporating Aqueducts Transfer Through Indus Basin Irrigation System To Global Hydrological Model"
+  authors: "山崎 大, 岡田 実奈美, 矢澤 大志"
+  description:
+  link:
+    url: https://doi.org/10.3178/jjshwr.37.1826
+    display: "水文・水資源学会誌, 印刷中, 2024, DOI: 10.3178/jjshwr.37.1826"
+  dlab: 1
+
+## FY2024
+## FY2023
+
+- ID: JY18)
+  title: "局所慣性方程式の安定性解析の進展"
+  e-title: "Advancement of the local inertial equation for fast and stable flood inundation modelling"
+  authors: "田中 智大, 山崎 大, 吉岡 秀和, 木村 匡臣"
+  description:
+  link:
+    url: https://doi.org/10.3178/jjshwr.37.1817
+    display: "水文・水資源学会誌, 印刷中, 2024, DOI:10.3178/jjshwr.37.1817 "
+  dlab: 1
+
+## FY2023
+## FY2022
+
 - ID: JY17)
   title: "インダス川流域の運河網による遠隔導水の全球水資源モデルへの実装"
   e-title: "Incorporating Aqueducts Transfer Through Indus Basin Irrigation System To Global Hydrological Model"
@@ -393,7 +421,7 @@
   dlab: 0
 
 
-## Collaboration work
+## Other Articles
 - ID: JO1)
   title: "気候リスク情報開示への広域洪水モデルの活用と流域治水への展開"
   e-title: "Use of Global Flood Models for Climate-related Risk Disclosure and Its Potential Application to River Basin Management"
