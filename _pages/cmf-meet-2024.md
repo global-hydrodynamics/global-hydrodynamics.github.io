@@ -21,7 +21,8 @@ We are excited to announce the first-ever international meeting for CaMa-Flood d
 All CaMa-Flood developers and users are cordially invited to participate in the meeting. Moreover, we extend a warm welcome to all researchers interested in global river hydrodynamics, regardless of whether they are currently using CaMa-Flood. We look forward to fostering a diverse and enriching exchange of ideas and collaborations during the event.
 
 #### **Registration Form & Deadline**
-**The deadline to register for the meeting is March 15, 2024. If you plan to attend, please complete the registration form provided. Timely registration is crucial for us to ensure the best possible experience for all attendees.**
+**~~The deadline to register for the meeting is March 15, 2024.~~ <br>
+<span style="color: red; ">Registration deadline is postponed to 7th April 2024.</span> If you plan to attend, please complete the registration form below. Timely registration is crucial for us to ensure the best possible experience for all attendees.**
 
 **[Registration on Google Form](https://forms.gle/PjM6u6KPhpZvVZMaA)**
 
