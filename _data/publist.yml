@@ -1,5 +1,17 @@
 ## Yamazaki Lab work
 
+- ID: Y37)
+  title: "A self-adjusting method to generate daily consistent nighttime light data for the detection of short-term rapid human activities"
+  image:
+  authors: "Yang Hu, Xudong Zhou, Dai Yamazaki, Jin Chen"
+  description:
+  link:
+    url: https://10.1016/j.rse.2024.114077
+    display: "Remote Sensing of Environment, 304, 114077, 2024, DOI 10.1016/j.rse.2024.114077"
+  highlight: 0
+  dlab: 1
+  news2:
+
 - ID: Y36)
   title: "Improving river routing algorithms to efficiently implement canal water diversion schemes into global hydrological models"
   image:
