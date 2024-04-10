@@ -21,8 +21,8 @@ We are excited to announce the first-ever international meeting for CaMa-Flood d
 All CaMa-Flood developers and users are cordially invited to participate in the meeting. Moreover, we extend a warm welcome to all researchers interested in global river hydrodynamics, regardless of whether they are currently using CaMa-Flood. We look forward to fostering a diverse and enriching exchange of ideas and collaborations during the event.
 
 #### **Registration Form & Deadline**
-**~~The deadline to register for the meeting is March 15, 2024.~~ <br>
-<span style="color: red; ">Registration deadline is postponed to 7th April 2024.</span> If you plan to attend, please complete the registration form below. Timely registration is crucial for us to ensure the best possible experience for all attendees.**
+**~~<span style="color: red; ">The deadline to register for the meeting is April 7th 2024.</span>~~ <br>
+Official registration period was over. If you are considering to join the meeting, please contact the organizing team. We may be able to accept late registration.**
 
 **[Registration on Google Form](https://forms.gle/PjM6u6KPhpZvVZMaA)**
 
@@ -61,6 +61,8 @@ Please note that any foreign visitor entering Japan must possess a valid passpor
 For visa information regarding stays of up to 90 days for purposes such as tourism, business, visiting friends or relatives, etc., which do not involve remunerative activities, please visit the Ministry of Foreign Affairs of Japan website at [https://www.mofa.go.jp/j_info/visit/visa/index.html](https://www.mofa.go.jp/j_info/visit/visa/index.html).
 
 Additionally, an overview of countries that are exempt from visa requirements can be found on the same website.
+
+Note: we sent information on VISA issuing procedure via email to registered participants.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/picture/IIS-campus.jpg" />
 
