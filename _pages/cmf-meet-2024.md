@@ -64,6 +64,23 @@ Additionally, an overview of countries that are exempt from visa requirements ca
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/picture/IIS-campus.jpg" />
 
+#### Reccomended hotels
+List of reccomended hotels near by the Komaba-2 Campus
+
+**Around 30,000yen**
+- Shibuya Excel Hotel Tokyo 
+- JR EAST HOTEL METS SHIBUYA
+- Shibuya Tokyu REI Hotel
+- Sequence MIYASHITA PARK shibuya
+
+**Around 20,000 yen**
+- Shibuya Granbell Hotel
+- Shibuya Tobu Hotel 
+
+**Around 15,000 yen**
+- Shinjuku Washington Hotel Main Building
+- Shinjuku Granbell Hotel
+
 ### Program
 
 We are considering the following sessions for the CaMa-Flood meeting:
@@ -79,9 +96,9 @@ These sessions aim to facilitate comprehensive discussions, knowledge sharing, a
 #### Related Meeting
 9th GEWEX conference (Global Energy and Water Exchanges open science conference) is to be held thtough 7-12th July 2024 in Sapporo, Japan.
 
-Participants of the CaMa-Flood meeting are encouraged to consider attending the GEWEX conference to maximize the productivity of their visit to Japan. The abstract submission deadline for the GEWEX conference is February 19th 2024 (extended). This presents an excellent opportunity for attendees to engage with a broader community of researchers and exchange insights on global energy and water exchanges.
+Participants of the CaMa-Flood meeting are encouraged to consider attending the GEWEX conference to maximize the productivity of their visit to Japan. This presents an excellent opportunity for attendees to engage with a broader community of researchers and exchange insights on global energy and water exchanges.
 
-For more information about the GEWEX conference and abstract submission, please visit the conference website at
+For more information about the GEWEX conference, please visit the conference website at
 [https://www.gewexevents.org/meetings/gewex-osc2024/](https://www.gewexevents.org/meetings/gewex-osc2024/)
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/slider/CaMa_Mekong.jpg" />
