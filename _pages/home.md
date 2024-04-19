@@ -63,6 +63,18 @@ It's a joint seminar organized by UTokyo Hydrosphere Environment Group. Anyone i
 <img src="{{ site.url }}{{ site.baseurl }}/images/picture/HSS_seminar.png" width="80%"/>
 
 
+## Rainfall-Runoff Modelling Game
+We have created a **rainfall-runoff modeling game** that allows you to enjoyably learn hydrological process through simulation. Please visit our webpage to play the game and learn hydrological processes.
+
+雨が降ってから河川に水が流れ出るまでの仕組みを「降雨-流出プロセス」をシミュレーションで楽しく学べる**降雨-流出モデリングゲーム**を作りました。WebPageでゲームを公開しているので、遊んでみてください。
+
+- [Rainfall-Runoff Game](./game/)
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/scratch/Scratch_fig01.jpg" width="50%"/>
+
+
+
+
 ## (In Japanese)
 
 我々のテーマである“全球陸域水動態”は、地球全域で陸域の水の流れを研究します。河川・湖沼・湿地・土壌水分・地下水といった陸水の貯留と輸送の詳細を、ローカルからグローバルまで幅広いスケールで解明することが我々の目的です。陸水そのものだけでなく、関連する降水・蒸発散・沿岸海洋・地球生物科学・気候システムとの相互作用も研究対象にしています。地球全域をカバーするために研究手法は主にモデリング・リモートセンシング・データ等融合ですが、全球陸域水動態における重要なプロセスを特定し、またモデルのロバストさを担保するためにも、現地観測などに基づく詳細な水文研究も尊重しています。また、自然の水文循環に加えて、その変動が人間にあたえる影響（洪水・水資源・生態系サービス）の評価にも取り組んでおり、また水文プロセスと人間社会との相互作用も理解したいと考えています。
@@ -83,4 +95,3 @@ It's a joint seminar organized by UTokyo Hydrosphere Environment Group. Anyone i
 産学連携で洪水リスクの理解と低減に取り組むための情報交換と議論の場として「洪水リスク研究会」を開催しております。詳しくは下記をご覧ください。
 - [洪水リスク研究会　説明PDF](http://www.iis.u-tokyo.ac.jp/shourei/ResearchCommitte/RC_gazou/rc2022/2022RC-98.pdf)
 - 参加方法については、[生産技術研究奨励会のWebPage](http://www.iis.u-tokyo.ac.jp/shourei/ResearchCommitte/rc-index.html)をご確認ください。
-

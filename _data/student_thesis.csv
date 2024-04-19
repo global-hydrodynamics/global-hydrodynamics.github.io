@@ -1,4 +1,5 @@
 ﻿sort,name,native,degree,year,award,title,title2
+210,Shun Wakamatsu,若松 駿,BA,2024 Mar,,渓流域での3次元地形データを用いた水理シミュレーションによる水位流量曲線の作成,Creation of stage-discharge curve in a mountainous headwater river using 3D topography data and hydraulic simulation
 200,Naho Yoden,余田 奈穂,MA,2024 Mar,,全球水文モデルへの流域間導水の実装,Implementing inter-basin water transfers into global hydrological models
 190,Shoji Takeshi,庄司 健,MA,2024 Mar,古市賞,洪水によるインフラ途絶影響を考慮した産業セクター別営業停止損失の広域推定,The global estimation of sector-classified business interruption loss considering the process of infrastructure disruption caused by flood
 180,Yining Sun,孙 一宁,BA,2023 Sep,,Estimation of Extreme Floods Time Series with Limited Sample Size: Analyzing Outlier-removal Approaches Based on Synthetic Data,限られたサンプルサイズでの極端洪水時系列の推定: 仮想データを用いた異常値除去手法の適用
