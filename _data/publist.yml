@@ -6,7 +6,7 @@
   authors: "Shuping Li, Dai Yamazaki, Xudong Zhou, Gang Zhao"
   description:
   link:
-    url: https://10.1029/2023WR036214
+    url: https://doi.org/10.1029/2023WR036214
     display: "Water Resources Research, 60(4), e2023WR036214, 2024, DOI 10.1029/2023WR036214"
   highlight: 1
   dlab: 1
@@ -20,7 +20,7 @@
   authors: "Yang Hu, Xudong Zhou, Dai Yamazaki, Jin Chen"
   description:
   link:
-    url: https://10.1016/j.rse.2024.114077
+    url: https://doi.org/10.1016/j.rse.2024.114077
     display: "Remote Sensing of Environment, 304, 114077, 2024, DOI 10.1016/j.rse.2024.114077"
   highlight: 0
   dlab: 1
@@ -292,7 +292,7 @@
   authors: Xudong Zhou, Wenchao Ma, Wataru Echizenya, and Dai Yamazaki
   description: 
   link:
-    url: https://nhess.copernicus.org/articles/21/1071/2021/
+    url: https://doi.org/10.5194/nhess-21-1071-2021
     display: Natural Hazards and Earth System Science, vol.21, p1071–1085, 2021, DOI 10.5194/nhess-21-1071-2021
   highlight: 0
   dlab: 1
@@ -379,7 +379,7 @@
   authors: Yamazaki, D., M.A. Trigg, D. Ikeshima
   description: 
   link:
-    url: http://dx.doi.org/10.1016/j.rse.2015.10.014
+    url: http://doi.org/10.1016/j.rse.2015.10.014
     display:  Remote Sensing of Environment, vol.171, pp.337-351, 2015, DOI 10.1016/j.rse.2015.10.014
   highlight: 0
   dlab: 1
@@ -1256,7 +1256,7 @@
   authors: Yukiko Hirabayashi, Roobavannan Mahendran, Sujan Koirala, Lisako Konoshima, Dai Yamazaki, Satoshi Watanabe, Hyungjun Kim, & Shinjiro Kanae
   description: Global flood risk assessment using multiple CMIP5 climate model output.
   link:
-    url: https://doi.org/10.1002/
+    url: https://doi.org/10.1038/nclimate1911
     display: Nature Climate Change, vol.3, pp816-821, 2013, DOI 10.1038/nclimate1911
   highlight: 1
   dlab: 0
