@@ -18,7 +18,8 @@ permalink: /game/
 ゲームを遊びながら、降雨-流出プロセスを学んでみましょう。<br>
 緑旗のボタンを押すとゲームがスタートします。（注：音が出ます）
 
-<iframe src="https://scratch.mit.edu/projects/864115525/embed" allowtransparency="true" width="720" height="460" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://scratch.mit.edu/projects/1011671300/embed" allowtransparency="true" width="720" height="460" frameborder="0" scrolling="no" allowfullscreen></iframe>
+Scratch Rainfall-Runoff Modeling Game (v2.0)
 
 ### ルールと遊びかた
 #### 1. ゲームの目的
@@ -35,8 +36,8 @@ permalink: /game/
 #### 2. 地表面状態の設定
 シミュレーションを開始する前に、画面中のピンク色矢印で示された部分をクリック（またはタップ）することで変更できます。
 
-- 上流から下流の４箇所の**地表面タイプ** を変更できます。森林・草地・都市の３つが選択できます。それぞれのタイプで、土壌への浸み込み方や水粒子の動き方が変わります。
-- **土壌水分（Soil Wetness）** の初期状態も変更できます。土壌水分の初期状態は 0 ~ 100の範囲で設定できます。0が土壌が乾いた状態。100が土壌が完全に湿って飽和した状態です。土壌水分も地中の水粒子の動きに影響します。
+- 上流から下流の2箇所（Stage 5以降は4箇所）の**地表面タイプ** を変更できます。森林・草地・都市の３つが選択できます。それぞれのタイプで、土壌への浸み込み方や水粒子の動き方が変わります。
+- **土壌水分（Soil Wetness）** の初期状態も変更できます。0が土壌が乾いた状態。100が土壌が完全に湿って飽和した状態です。土壌水分も地中の水粒子の動きに影響します。
 
 ハイエトグラフとハイドログラフを見比べて、最適な地表面状態を予想してください。
 
@@ -57,12 +58,12 @@ permalink: /game/
 青色のターゲット流出量とピンク色のシミュレーション流出量の類似度に基づいて、スコアが計算されます。スコアは100点満点です。
 
 ターゲットとシミュレーションがどう違うかを分析して、より高いスコアが出せるよう、試行錯誤で地表面状態を調整しましょう。<br>
-**目指せ90点以上！**
+**目指せ90点以上！パーフェクトは100点！！**
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/scratch/Scratch_fig03.jpg" width="50%"/>
 
 #### 5. ステージ選択 
-降雨とターゲット流出量のパターンが異なる３つのステージが用意されています。それぞれのステージで90点以上を目指しながら、地表面タイプや土壌水分が降雨流出プロセスにどのような影響を与えるか考えてみましょう。
+降雨とターゲット流出量のパターンが異なる５つのステージが用意されています。それぞれのステージで90点以上を目指しながら、地表面タイプや土壌水分が降雨流出プロセスにどのような影響を与えるか考えてみましょう。
 
 - 都市化すると洪水が起きやすくなるのはどうしてでしょうか？
 - 都市・草地・森林で水の動きはどう異なるでしょうか？
@@ -81,9 +82,7 @@ permalink: /game/
 <a style="cursor:pointer;">▼ ヒント1を表示</a>
 </div>
 <div id="open1" style="display:none;clear:both;">
-まずは、地表面状態を初期状態から変更せずにシミュレーションして、計算された流出量とターゲットの違いを分析してみましょう。
-
-青色とピンク色のハイドログラフの洪水ピークに着目して、計算結果がターゲットより大きいか/小さいか、遅いか/早いかを確認してみましょう。次に、少しずつ条件を変えたシミュレーションを繰り返して、地表面状態をどのように変えたら洪水ピークがターゲットに近づくかを理解を深めながら、ターゲットに近づけていきましょう。
+まずは、ゲームの内容を確認してみましょう。緑色の旗でゲームを開始したら、そのまま「Start Simulation」ボタンを押してみましょう。青色Targetとピンク色Simulationが似ていれば高い点数がでます。
 </div>
 
 #### Stage-2
@@ -91,9 +90,9 @@ permalink: /game/
 <a style="cursor:pointer;">▼ ヒント2を表示</a>
 </div>
 <div id="open2" style="display:none;clear:both;">
-基本的な解き方はStage-1と一緒です。雨のピークに対して流出のピークが小さく遅くなるのは、どのような地表面状態の時でしょうか？地表面状態を変えたシミュレーションを繰り返して、正解に近づけていきましょう。
+まずは、地表面状態を初期状態から変更せずにシミュレーションして、計算された流出量とターゲットの違いを分析してみましょう。
 
-地表面タイプだけでなく、土壌水分の初期値にも着目してみると良いかもしれません。
+青色とピンク色のハイドログラフの洪水ピークに着目して、計算結果がターゲットより大きいか/小さいか、遅いか/早いかを確認してみましょう。次に、少しずつ条件を変えたシミュレーションを繰り返して、地表面状態をどのように変えたら洪水ピークがターゲットに近づくかを理解を深めながら、ターゲットに近づけていきましょう。
 </div>
 
 #### Stage-3
@@ -101,7 +100,36 @@ permalink: /game/
 <a style="cursor:pointer;">▼ ヒント3を表示</a>
 </div>
 <div id="open3" style="display:none;clear:both;">
-難しめの問題です。雨のピークは１つなのに流出ピークが２つに分かれていることに着目しましょう。
+基本的な解き方はStage-2と一緒です。雨のピークに対して流出のピークがかなり小さくなっています。流出量を小さくするには、どのような地表面状態にすればよいでしょうか？地表面状態を変えたシミュレーションを繰り返して、正解に近づけていきましょう。
+
+地表面タイプだけでなく、土壌水分の初期値にも着目してみると良いかもしれません。
+</div>
+
+#### Stage-4
+<div onclick="obj=document.getElementById('open4').style; obj.display=(obj.display=='none')?'block':'none';">
+<a style="cursor:pointer;">▼ ヒント4を表示</a>
+</div>
+<div id="open4" style="display:none;clear:both;">
+Stage 2-3と雨のパターンは一緒ですが、ターゲットの流出パターンが異なります。Stage-2と比べて洪水ピークのタイミングは遅く、Stage-3と比べると洪水ピークは大きくなっています。洪水ピークのタイミングと大きさに着目しながら、正解を探りましょう。
+</div>
+
+#### Stage-5
+<div onclick="obj=document.getElementById('open5').style; obj.display=(obj.display=='none')?'block':'none';">
+<a style="cursor:pointer;">▼ ヒント5を表示</a>
+</div>
+<div id="open5" style="display:none;clear:both;">
+Stage-5からは、地表面タイルの数が４つに増え、土壌水分の初期値も20%刻になり、難易度が上がります。
+
+まずは、流出量の一つ目の大きいピークを再現できるように地表面状態を調節しましょう。その後で、２つ目のピークが合うように調整すると高得点を出せます。
+</div>
+
+
+#### Stage-6
+<div onclick="obj=document.getElementById('open6').style; obj.display=(obj.display=='none')?'block':'none';">
+<a style="cursor:pointer;">▼ ヒント6を表示</a>
+</div>
+<div id="open6" style="display:none;clear:both;">
+難しめの問題です。雨のピークは１つなのに流出ピークが２つに分かれていて、さらに２つ目のピークのほうが大きいことに着目しましょう。雨のパターンはStage-5と一緒です。
 
 まず、開始直後に流出量が増えてからすぐ下がるという「１つ目の流出ピーク」を、どうすれば作ることができるか考えましょう。次に、「２つ目の流出ピーク」を１つ目より大きくするには、どう工夫すればいいかを考えてみましょう。
 </div>
@@ -117,10 +145,10 @@ permalink: /game/
 #### 複雑なプロセスをアニメーションで表現
 降雨-流出プロセスは、植生や建物による遮断・土壌への浸透・表面流出と地下流出・土壌中の水移動など、様々なスケールの複数の現象が相互作用するとても複雑なものです。このゲームでは、降雨-流出プロセスのうち、以下の要素を表現しています。
 
-<div onclick="obj=document.getElementById('open4').style; obj.display=(obj.display=='none')?'block':'none';">
+<div onclick="obj=document.getElementById('Process').style; obj.display=(obj.display=='none')?'block':'none';">
 <a style="cursor:pointer;">▼ 考慮されているプロセスを表示する（問題のヒントになります）</a>
 </div>
-<div id="open4" style="display:none;clear:both;">
+<div id="Process" style="display:none;clear:both;">
 - 降雨の時間的・空間的な分布
 - 植生や建物での遮断による降雨の損失（地表面に降った雨の一部は蒸発したり貯留されたりするため、流出に寄与しません）
 - 地表から土壌への浸透（降雨の一部は土壌に浸透して、比較的ゆっくりと土中を移動します）
@@ -142,7 +170,9 @@ permalink: /game/
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/scratch/Scratch_fig05.jpg" width="50%"/>
 
-[Scratch で公開しているソースコード (https://scratch.mit.edu/projects/864115525/) にアクセスする ](https://scratch.mit.edu/projects/864115525/)<br><br>
+Scratch で公開しているソースコードにアクセスする。
+- [最新版v2.0 (https://scratch.mit.edu/projects/1011671300)](https://scratch.mit.edu/projects/1011671300)<br> 
+- [シンプル版v1.1 (https://scratch.mit.edu/projects/864115525/)](https://scratch.mit.edu/projects/864115525/)<br><br>
 
 もし「面白いステージを思いついたので紹介したい」という場合は、開発者の山崎までご連絡ください。ページの一番下にメールアドレスが書いてあります。<br><br>
 
@@ -154,7 +184,7 @@ permalink: /game/
 水文・水資源学会誌, 37巻 2号, doi: 10.3178/jjshwr.37.1826*<br>
 [https://doi.org/10.3178/jjshwr.37.1826](https://doi.org/10.3178/jjshwr.37.1826)
 
-
+注：上記論文では初期バージョンv1.0について説明しています。
 
 <p> &nbsp; </p>
 <p> &nbsp; </p>

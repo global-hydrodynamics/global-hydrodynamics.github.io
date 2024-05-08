@@ -10,14 +10,16 @@ permalink: /game_e/
 [Japanese version is here](../game/)
 
 #### Learn hydrological processes through game!
-The mechanisms of water dynamics through rainfall on land to water outflow to rivers is called  **rainfall-runoff process.** We have created a **rainfall-runoff modeling game** that allows you to enjoyably learn this process through simulation.
+The mechanisms of water dynamics through rainfall on land to water runoff to rivers is called  **rainfall-runoff process.** We have created a **rainfall-runoff modeling game** that allows you to enjoyably learn this process through simulation.
 
 Please change the surface conditions of the rainfall-runoff model and match the simulated runoff patterns to the "targets" runoff pattern.
 
 Let's learn about the rainfall-runoff process through playing the game. Press the green flag button to start the game. (Note: Sound will be played.)
 
 
-<iframe src="https://scratch.mit.edu/projects/864115525/embed" allowtransparency="true" width="720" height="460" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+<iframe src="https://scratch.mit.edu/projects/1011671300/embed" allowtransparency="true" width="720" height="460" frameborder="0" scrolling="no" allowfullscreen></iframe>
+Scratch Rainfall-Runoff Modeling Game (v2.0)
 
 ### Rules and How to Play
 #### 1. Game Objective
@@ -35,8 +37,8 @@ The game represents various processes through rainfall in the river basin to run
 #### 2. Setting Land Surface Conditions
 Before starting the simulation, you can change the land surface parts indicated by the pink arrows in the screen by clicking (or tapping).
 
-- You can change the land surface type of the four locations from upstream to downstream. You can choose from three land types: forest, grassland, and urban area. The movement of water particles varies for each type.
-- You can also change the initial state of **soil wetness**. The initial state of soil wetness can be set in the range of 0 to 100. 0 represents a dry soil condition, and 100 represents a completely wet and saturated soil condition. The soil wetness influence the movement of water particle.
+- You can change the land surface type of the 2 locations from upstream to downstream  (4 locations after stage 5). You can choose from three land types: forest, grassland, and urban area. The movement of water particles varies for each type.
+- You can also change the initial state of **soil wetness**. 0 represents a dry soil condition, and 100 represents a completely wet and saturated soil condition. The soil wetness influence the movement of water particle.
 
 Compare the hyetograph and hydrograph and try to find optimal land surface conditions to get a high score.
 
@@ -58,12 +60,12 @@ The time series data of the simulated runoff amount is displayed as a pink graph
 
 The score is calculated based on the similarity between the simulated runoff amount and the target runoff amount shown in blue. The highest score is 100 points.
 
-Analyze the differences between the target and simulation, adjust the surface conditions through trial and error, and *aim for a score of 90 or higher*.
+Analyze the differences between the target and simulation, adjust the surface conditions through trial and error. **Aim for a score of 90 or higher. Perfect score is 100!**.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/scratch/Scratch_fig03.jpg" width="50%"/>
 
 #### 5. Stage Selection
-Three stages are prepared with different patterns of rainfall and target runoff patterns. Aim for 90 points or higher score in each stage. Please considering how surface type and soil moisture affect the rainfall-runoff process.
+Five stages are prepared with different patterns of rainfall and target runoff patterns. Aim for 90 points or higher score in each stage. Please considering how surface type and soil moisture affect the rainfall-runoff process.
 
 - Why does urbanization enhances floods?
 - How does the movement of water differ in urban areas, grasslands, and forests?
@@ -83,7 +85,7 @@ If you're unsure how to clear a stage, here are some hints that may be helpful. 
 <a style="cursor:pointer;">▼ Show Hint 1</a>
 </div>
 <div id="open1" style="display:none;clear:both;">
-Start by running the simulation without changing the surface conditions from the initial state, and observe the simulation. Analyze the differences between the simulated runoff and the target runoff, focusing on the flood peaks of the blue and pink hydrographs. Check whether the simulated results are larger or smaller, and slower or faster than the target. Then, gradually change the conditions in the simulation to understand how to adjust the surface conditions to make the flood peak approach the target while deepening your understanding.
+First, let's check how game works. After you start the game with the green flag, press the "Start Simulation" button. If the blue Target and the pink Simulation are similar, you will get a high score.
 </div>
 
 #### Stage-2
@@ -91,7 +93,9 @@ Start by running the simulation without changing the surface conditions from the
 <a style="cursor:pointer;">▼ Show Hint 2</a>
 </div>
 <div id="open2" style="display:none;clear:both;">
-The basic approach is similar to Stage-1. When is the peak runoff smaller and slower in relation to the peak of rainfall? Repeat simulations by changing the surface conditions to get closer to the correct answer. Also, pay attention to both surface type and initial soil moisture values.
+First, let's run a simulation without changing the initial land surface conditions, and analyze the difference between the calculated runoff volume and the target.
+
+Focus on the flood peaks in the blue and pink hydrographs and check whether the calculation results are larger/smaller, slower/earlier than the target. Next, repeat the simulation by gradually changing the land surface conditions, and get closer to the target while deepening your understanding of how to change the ground surface conditions to bring the flood peak closer to the target.
 </div>
 
 #### Stage-3
@@ -99,9 +103,37 @@ The basic approach is similar to Stage-1. When is the peak runoff smaller and sl
 <a style="cursor:pointer;">▼ Show Hint 3</a>
 </div>
 <div id="open3" style="display:none;clear:both;">
-This is a more challenging problem. Pay attention to the fact that although there is only one peak of rainfall, the runoff peak is divided into two.
+The basic approach is the same as Stage-2. The peak of runoff is much smaller than the peak of rainfall. What kind of land surface condition should we change to reduce the amount of runoff? Repeat the simulation with different land surface conditions to get closer to the correct answer.
 
-First, think about how to create the "first runoff peak" that increases immediately after the start and then decreases quickly. Next, consider how to make the "second runoff peak" larger than the first. 
+It may be a good idea to pay attention not only to the land surface type but also to the initial soil moisture value.
+</div>
+
+#### Stage-4
+<div onclick="obj=document.getElementById('open4').style; obj.display=(obj.display=='none')?'block':'none';">
+<a style="cursor:pointer;">▼ Show Hint 4</a>
+</div>
+<div id="open4" style="display:none;clear:both;">
+The rainfall pattern is the same as Stages 2-3, but the target runoff pattern is different. The timing of the flood peak is later than Stage-2, and the flood peak magnitude is larger than Stage-3. Focus on the timing and magnitude of the flood peak to find the correct answer.
+</div>
+
+#### Stage-5
+<div onclick="obj=document.getElementById('open5').style; obj.display=(obj.display=='none')?'block':'none';">
+<a style="cursor:pointer;">▼ Show Hint 5</a>
+</div>
+<div id="open5" style="display:none;clear:both;">
+From Stage-5 onwards, the number of land surface tiles increases to four, and the initial soil moisture value is in 20% increments, making the game more difficult.
+
+First, adjust the land surface conditions so that the first large peak in runoff is reproduced. After that, adjust so that the second peak matches up to get a high score.
+</div>
+
+#### Stage-6
+<div onclick="obj=document.getElementById('open6').style; obj.display=(obj.display=='none')?'block':'none';">
+<a style="cursor:pointer;">▼ Show Hint 6</a>
+</div>
+<div id="open6" style="display:none;clear:both;">
+This is a difficult problem. Notice that while there is one rainfall peak, the runoff peak is divided into two, and the second peak is larger. The rain pattern is the same as in Stage-5.
+
+First, think about how to create the "first runoff peak" where the runoff increases immediately after the start and then immediately drops. Next, think about how to make the "second runoff peak" larger than the first one.
 </div>
 
 <p> &nbsp; </p>
@@ -114,10 +146,10 @@ First, think about how to create the "first runoff peak" that increases immediat
 #### Representing complex processes through animation
 The rainfall-runoff process involves various phenomena at multiple scales, such as obstruction by vegetation and buildings, infiltration into the soil, surface runoff and subsurface flow, and water movement in the soil. It is a very complex process. The below rainfall-runoff processes are considered in the game.
 
-<div onclick="obj=document.getElementById('open4').style; obj.display=(obj.display=='none')?'block':'none';">
+<div onclick="obj=document.getElementById('Process').style; obj.display=(obj.display=='none')?'block':'none';">
 <a style="cursor:pointer;">▼ Show Considered Processes (Hint for the problem)</a>
 </div>
-<div id="open4" style="display:none;clear:both;">
+<div id="Process" style="display:none;clear:both;">
 - Temporal and spatial distribution of rainfall
 - Loss of rainfall due to interception by vegetation and buildings (some of the rain that falls on land evaporates or is retained, not contributing to runoff)
 - Infiltration from the ground surface to the soil (some of the rainfall infiltrates into the soil and moves relatively slowly within the soil)
@@ -136,7 +168,9 @@ The rainfall-runoff modeling game was developed using the educational programmin
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/scratch/Scratch_fig05e.jpg" width="50%"/>
 
-[Access the source code published on Scratch](https://scratch.mit.edu/projects/864115525/)<br><br>
+Access the source code published on Scratch
+- [Latest v2.0 (https://scratch.mit.edu/projects/1011671300)](https://scratch.mit.edu/projects/1011671300)<br> 
+- [Simple v1.1 (https://scratch.mit.edu/projects/864115525/)](https://scratch.mit.edu/projects/864115525/)<br><br>
 
 If you have ideas for interesting stages and would like to share them, please contact Professor Yamazaki. His email address is provided at the bottom of the page.<br><br>
 
@@ -147,6 +181,8 @@ The development of the rainfall-runoff modeling game has been presented as an ac
 Development of Rainfall-Runoff Modeling Game using the Educational Programming Language Scratch, and its Potential for Hydrological Education<br>
 Journal of Japan Society of Hydrology and Water Resources, Vol 37(2), doi: 10.3178/jjshwr.37.1826*<br>
 [https://doi.org/10.3178/jjshwr.37.1826](https://doi.org/10.3178/jjshwr.37.1826)
+
+Note: This paper is based on the initial version v1.0.
 
 <p> &nbsp; </p>
 <p> &nbsp; </p>
