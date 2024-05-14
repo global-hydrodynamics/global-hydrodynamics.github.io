@@ -11,7 +11,9 @@ Yamazaki lab is in U-Tokyo Komaba-2 Research Campus (<a href="https://goo.gl/map
 
 Our studies mainly focus on the dynamics of land waters on the global scale, using modelling, remote sensing, and data integration approach.
 
-
+NEWS:<br>
+**We will be hosting <span style="color: red; ">CaMa-Flood user/developer meeting</span> on 5th and 6th July, 2024 (Friday and Saturday) at the Institute of Industrial Science, The University of Tokyo.**<br>
+[Meeting webpage is here](./cmf-meet-2024/)
 
 東京大学 [グローバル水文学グループ](http://hydro.iis.u-tokyo.ac.jp/)の一部である山崎研究室（全球陸域水動態研究室）のWebPageです。
 （ページ下部に日本語情報があります）

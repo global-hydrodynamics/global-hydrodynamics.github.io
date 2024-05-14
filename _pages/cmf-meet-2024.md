@@ -44,6 +44,8 @@ The institute is situated within UTokyo Komaba-2 Research Campus, which is conve
 
 #### Schedule (tentative)
 
+Conference Tentative Timetable is [here](https://hydro.iis.u-tokyo.ac.jp/~yamadai/cmf-meet-2024/CaMa-Meeting_program_0507_v0.pdf)
+
 - 5  Feb 2024: Registration and abstract submission open.
 - 15 Mar 2024: Abstract submission deadline.
 - May 2024: Announcement of the program.
