@@ -19,7 +19,8 @@ permalink: /game/
 緑旗のボタンを押すとゲームがスタートします。（注：音が出ます）
 
 <iframe src="https://scratch.mit.edu/projects/1011671300/embed" allowtransparency="true" width="720" height="460" frameborder="0" scrolling="no" allowfullscreen></iframe>
-Scratch Rainfall-Runoff Modeling Game (v2.0)
+Scratch Rainfall-Runoff Modeling Game (v2.0)<br>
+[Scratchのソースコードにアクセスする:  https://scratch.mit.edu/projects/1011671300](https://scratch.mit.edu/projects/1011671300)<br> 
 
 ### ルールと遊びかた
 #### 1. ゲームの目的

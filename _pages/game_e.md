@@ -19,7 +19,8 @@ Let's learn about the rainfall-runoff process through playing the game. Press th
 
 
 <iframe src="https://scratch.mit.edu/projects/1011671300/embed" allowtransparency="true" width="720" height="460" frameborder="0" scrolling="no" allowfullscreen></iframe>
-Scratch Rainfall-Runoff Modeling Game (v2.0)
+Scratch Rainfall-Runoff Modeling Game (v2.0)<br>
+[Access to source code on Scratch webpage: https://scratch.mit.edu/projects/1011671300](https://scratch.mit.edu/projects/1011671300)<br> 
 
 ### Rules and How to Play
 #### 1. Game Objective
