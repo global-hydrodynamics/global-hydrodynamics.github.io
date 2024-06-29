@@ -10,8 +10,8 @@ permalink: /cmf-meet-2024/
 **We will be hosting the first-ever international meeting on CaMa-Flood and global hydrodynamics <br>
 on 5th and 6th July, 2024 (Friday and Saturday) at the Institute of Industrial Science, The University of Tokyo.**
 
-Meeting program is available here:
-[here](https://hydro.iis.u-tokyo.ac.jp/~yamadai/cmf-meet-2024/CMF-meet2024_Program_0624.pdf)
+**<span style="color: red; ">Meeting program is available 
+[here](https://hydro.iis.u-tokyo.ac.jp/~yamadai/cmf-meet-2024/CMF-meet2024_Program_0624.pdf)</span>**
 
 
 ### About the meeting
