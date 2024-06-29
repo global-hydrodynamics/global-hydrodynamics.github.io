@@ -10,7 +10,8 @@ permalink: /cmf-meet-2024/
 **We will be hosting the first-ever international meeting on CaMa-Flood and global hydrodynamics <br>
 on 5th and 6th July, 2024 (Friday and Saturday) at the Institute of Industrial Science, The University of Tokyo.**
 
-*We are currently organizing the meeting. There might be some changes on a detailed program.*
+Meeting program is available here:
+[here](https://hydro.iis.u-tokyo.ac.jp/~yamadai/cmf-meet-2024/CMF-meet2024_Program_0624.pdf)
 
 
 ### About the meeting
@@ -23,8 +24,6 @@ All CaMa-Flood developers and users are cordially invited to participate in the 
 #### **Registration Form & Deadline**
 **~~<span style="color: red; ">The deadline to register for the meeting is April 7th 2024.</span>~~ <br>
 Official registration period was over. If you are considering to join the meeting, please contact the organizing team. We may be able to accept late registration.**
-
-**[Registration on Google Form](https://forms.gle/PjM6u6KPhpZvVZMaA)**
 
 We highly welcome you to make a presentation in the workshop. Please prepare your presentation title and abstract (up to 600 words). You may also include supplementary material (Figures, Extended documents) if needed. Note that making presentation is not mandatory.
 
@@ -42,9 +41,7 @@ The institute is situated within UTokyo Komaba-2 Research Campus, which is conve
 4-6-1 Komaba, Meguro-Ku, Tokyo, 153-8505, Japan<br/>
 (<a href="https://goo.gl/maps/SNCw9DrqL6Rzs4XM9">Maps</a>, <a href="https://www.iis.u-tokyo.ac.jp/en/access/">Directions</a>)
 
-#### Schedule (tentative)
-
-Conference Tentative Timetable is [here](https://hydro.iis.u-tokyo.ac.jp/~yamadai/cmf-meet-2024/CaMa-Meeting_program_0507_v0.pdf)
+#### Schedule
 
 - 5  Feb 2024: Registration and abstract submission open.
 - 15 Mar 2024: Abstract submission deadline.
@@ -92,8 +89,7 @@ We are considering the following sessions for the CaMa-Flood meeting:
 - Opening keynote speeches & icebreaker session
 - Oral presentation session focusing on CaMa-Flood development
 - Oral presentation session highlighting CaMa-Flood applications
-- Poster session scheduled for Friday evening (tentatively from 4:30 to 6:30 pm on Friday)
-- Interactive discussion sessions
+- Poster session scheduled for Friday evening
 
 These sessions aim to facilitate comprehensive discussions, knowledge sharing, and networking opportunities among participants.
 
