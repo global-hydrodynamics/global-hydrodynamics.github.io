@@ -7,12 +7,12 @@ permalink: /cmf-meet-2024/
 # CaMa-Flood developer/user international meeting 2024
 
 
-**We will be hosting the first-ever international meeting on CaMa-Flood and global hydrodynamics <br>
+**We had the first-ever international meeting on CaMa-Flood and global hydrodynamics <br>
 on 5th and 6th July, 2024 (Friday and Saturday) at the Institute of Industrial Science, The University of Tokyo.**
 
-**<span style="color: red; ">Meeting program is available 
-[here](https://hydro.iis.u-tokyo.ac.jp/~yamadai/cmf-meet-2024/CMF-meet2024_Program_0703.pdf)</span>**
+**Meeting program is available [here](https://hydro.iis.u-tokyo.ac.jp/~yamadai/cmf-meet-2024/CMF-meet2024_Program_0703.pdf)**
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/picture/cmf-meet2024.jpg" />
 
 ### About the meeting
 Over the past 15 years since its initial development, the global river model CaMa-Flood has undergone significant advancements. We have introduced numerous new model schemes, incorporated new baseline topography datasets, and refined our analysis methods. Furthermore, CaMa-Flood has become widely utilized for various applications, including flood risk assessment, Earth's climate system modeling, and data assimilation.
@@ -21,11 +21,20 @@ We are excited to announce the first-ever international meeting for CaMa-Flood d
 
 All CaMa-Flood developers and users are cordially invited to participate in the meeting. Moreover, we extend a warm welcome to all researchers interested in global river hydrodynamics, regardless of whether they are currently using CaMa-Flood. We look forward to fostering a diverse and enriching exchange of ideas and collaborations during the event.
 
-#### **Registration Form & Deadline**
-**~~<span style="color: red; ">The deadline to register for the meeting is April 7th 2024.</span>~~ <br>
-Official registration period was over. If you are considering to join the meeting, please contact the organizing team. We may be able to accept late registration.**
+### Awards
+Based on the votes by all participants, three presenters are awarded for their huge contribution to CaMa-Flood modelling community.
 
-We highly welcome you to make a presentation in the workshop. Please prepare your presentation title and abstract (up to 600 words). You may also include supplementary material (Figures, Extended documents) if needed. Note that making presentation is not mandatory.
+**=== CaMa-Flood best developer award ===** <br>
+**Shengyu Kang** (Wuhan University)<br>
+A Computationally-efficient practice for global river hydrodynamic models
+
+**=== CaMa-Flood best user/application award ===** <br>
+**Michel Wortmann** (ECMWF)<br>
+CaMa-Flood as part of the ECMWF Integrated Forecasting System
+
+**=== CaMa-Flood early career award ===**<br>
+**Mizuki Funato** (The University of Tokyo)<br>
+Development of a Modified Reservoir Operation Scheme for Improved Global Flood Modeling
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/slider/CaMa_model.jpg" />
 
@@ -47,6 +56,12 @@ The institute is situated within UTokyo Komaba-2 Research Campus, which is conve
 - 15 Mar 2024: Abstract submission deadline.
 - May 2024: Announcement of the program.
 - 5-6th July 2024: CaMa-Flood meeting.
+
+#### Registration Form & Deadline
+~~The deadline to register for the meeting is April 7th 2024. <br>
+Official registration period was over. If you are considering to join the meeting, please contact the organizing team. We may be able to accept late registration.~~
+
+We highly welcome you to make a presentation in the workshop. Please prepare your presentation title and abstract (up to 600 words). You may also include supplementary material (Figures, Extended documents) if needed. Note that making presentation is not mandatory.
 
 #### Registration Fee
 There is **no registration fee** for the meeting.<br>
