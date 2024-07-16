@@ -1,8 +1,5 @@
 ## Yamazaki Lab work
 
-## FY2024
-## FY2023
-
 - ID: JY19)
   title: "教育用プログラム言語Scratchを用いた降雨流出モデリングゲームの開発とその水文学教育への利用可能性"
   e-title: "Incorporating Aqueducts Transfer Through Indus Basin Irrigation System To Global Hydrological Model"
@@ -10,8 +7,11 @@
   description:
   link:
     url: https://doi.org/10.3178/jjshwr.37.1826
-    display: "水文・水資源学会誌, 印刷中, 2024, DOI: 10.3178/jjshwr.37.1826"
+    display: "水文・水資源学会誌, 37(2), 155-166, 2024, DOI: 10.3178/jjshwr.37.1826"
   dlab: 1
+
+## FY2024
+## FY2023
 
 - ID: JY18)
   title: "局所慣性方程式の安定性解析の進展"

@@ -1,5 +1,17 @@
 ## Yamazaki Lab work
 
+- ID: Y39)
+  title: "How Does Heavy Precipitation of Varying Durations Respond to Urbanization in China?"
+  image: 
+  authors: "Xue Xie, Kairong Lin, Mingzhong Xiao, Xudong Zhou, Gang Zhao, Dai Yamazaki"
+  description:
+  link:
+    url: https://doi.org/10.1029/2023EF004412
+    display: "Earth's Future, 12, e2023EF004412, 2024, DOI 10.1029/2023EF004412"
+  highlight: 0
+  dlab: 1
+  news2:
+
 - ID: Y38)
   title: "Where in the World Are Vegetation Patterns Controlled by Hillslope Water Dynamics?"
   image: 2024Shuping_hillslope.jpg
@@ -472,6 +484,30 @@
 ######################################################################################
 ### Collaboration work ###
 
+- ID: C75)
+  title: "Climate change and urban sprawl: Unveiling the escalating flood risks in river deltas with a deep dive into the GBM river delta"
+  image:
+  authors: "Shupu Wu, Xudong Zhou, Johan Reyns, Dai Yamazaki, Jie Yin, Xiuzhen Li"
+  description:
+  link:
+    url: https://doi.org/10.1016/j.scitotenv.2024.174703
+    display: "Science of the Total Environment, published online, 2024, DOI 10.1016/j.scitotenv.2024.174703"
+  highlight: 0
+  dlab: 0
+  news2:
+
+- ID: C74)
+  title: "Reconstruction of long-term hydrologic change and typhoon-induced flood events over the entire island of Taiwan"
+  image:
+  authors: "Jac Stelly, Yadu Pokhrel, Amar Deep Tiwari, Huy Dang, Min-Hui Lo, Dai Yamazaki, Tsung-Yu Lee"
+  description:
+  link:
+    url: https://doi.org/10.1016/j.ejrh.2024.101806
+    display: "Journal of Hydrology: Regional Studies, 53, 101806, 2024, DOI 10.1016/j.ejrh.2024.101806"
+  highlight: 0
+  dlab: 0
+  news2:
+
 - ID: C73)
   title: "Global patterns in river water storage dependent on residence time"
   image:
@@ -479,7 +515,7 @@
   description:
   link:
     url: https://doi.org/10.1038/s41561-024-01421-5
-    display: "Nature Geoscience, Published online, 2024, DOI 10.1038/s41561-024-01421-5"
+    display: "Nature Geoscience, 17, 433-439, 2024, DOI 10.1038/s41561-024-01421-5"
   highlight: 0
   dlab: 0
   news2:
