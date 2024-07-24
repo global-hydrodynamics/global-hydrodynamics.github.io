@@ -11,10 +11,6 @@ Yamazaki lab is in U-Tokyo Komaba-2 Research Campus (<a href="https://goo.gl/map
 
 Our studies mainly focus on the dynamics of land waters on the global scale, using modelling, remote sensing, and data integration approach.
 
-NEWS:<br>
-**We will be hosting <span style="color: red; ">CaMa-Flood user/developer meeting</span> on 5th and 6th July, 2024 (Friday and Saturday) at the Institute of Industrial Science, The University of Tokyo.**<br>
-[Meeting webpage is here](./cmf-meet-2024/)
-
 東京大学 [グローバル水文学グループ](http://hydro.iis.u-tokyo.ac.jp/)の一部である山崎研究室（全球陸域水動態研究室）のWebPageです。
 （ページ下部に日本語情報があります）
 
@@ -50,10 +46,14 @@ In addition to natural hydrological cycle, we also assess the impact of the terr
 {% include slider.html %}
 
 
-## Who are we?
+### Who are we?
 Our lab is one of the world-leading hydrological science bridgeheads, consists of researchers and students with multiple backgrounds (Earth science, civil engineering, geography, spatial information science, computational science, etc.)
 
 All research staff members belong to [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/), while we also commit to education in the [Department of Civil Engineering (Grad School of Engineering)](http://www.civil.t.u-tokyo.ac.jp/en/) and in the [Graduate Program of Environmental Sciences (Grad School of Arts and Sciences)](https://gpes.c.u-tokyo.ac.jp/index.html).
+
+<p> &nbsp; </p>
+
+
 
 ## Monthly Public Seminar
 We host monthly public seminar series named "Hydrosphere Science Seminar", usually from 3pm on 1st Monday of each month using Zoom.
@@ -63,6 +63,38 @@ It's a joint seminar organized by UTokyo Hydrosphere Environment Group. Anyone i
 [UTokyo Hydrosphere Science Seminar](https://tiny.cc/UT-HydroSeminar)
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/picture/HSS_seminar.png" width="80%"/>
+
+<p> &nbsp; </p>
+
+
+
+## CaMa-Flood modelling community
+
+Yamazaki Lab is the primary development base for the global river model [CaMa-Flood](http://hydro.iis.u-tokyo.ac.jp/~yamadai/cama-flood/).
+
+CaMa-Flood is the global-scale river model which has high computational efficiency and high accuracy. The model is now widely used by many users (includingsome meteolorogical agencies), and for variety of applications.
+
+The source code of the CaMa-Flood model is published as Open Source project (under Apache 2.0 license), and we are happy for open collaborations for further developing the model to enable more advanced applications.
+
+The model package (including minimum data to run test similations) are distributed in the product webpage, while the latest source code is managed on GitHub.
+
+#### CaMa-Flood source code repositry in GitHub
+
+If you are interested in contributing CaMa-Flood model, please visit our [CaMa-Flood GitHub repository](https://github.com/global-hydrodynamics/CaMa-Flood_v4).
+
+#### CaMa-Flood developer/user international meeting
+
+We host CaMa-Flood developer/user international meeting, every two years (approxiamtely)
+
+The first CaMa-Flood meeting was held on 5th and 6th July, 2024 (Friday and Saturday) at the Institute of Industrial Science, The University of Tokyo. [Meeting webpage is here](./cmf-meet-2024/)
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/picture/cmf-meet2024.jpg" />
+
+Also, we are planning to host "Advances in Global River Modeling" session in AOGS2025 (August 2025, Singapore)
+
+
+<p> &nbsp; </p>
+
 
 
 ## Rainfall-Runoff Modelling Game
@@ -74,7 +106,7 @@ We have created a **rainfall-runoff modeling game** that allows you to enjoyably
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/scratch/Scratch_fig01.jpg" width="50%"/>
 
-
+<p> &nbsp; </p>
 
 
 ## (In Japanese)
