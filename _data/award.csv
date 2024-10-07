@@ -1,13 +1,15 @@
 ﻿sort,YearMon,Awardee,AwardName,Achievement,Organization,URL
-280,2024 Jan,庄司 健,社会基盤学専攻 古市賞（優秀修士論文）,洪水によるインフラ途絶影響を考慮した産業セクター別営業停止損失の広域推定,東京大学大学院 工学系研究科 社会基盤学専攻,
-270,2024 Jan,石田 紘大,駒場2キャンパス新春駅伝 個人1位,2分11秒32,東京生研 弥生会,
-260,2024 Jan,若松 駿,駒場2キャンパス新春駅伝 個人3位,2分12秒46,東京生研 弥生会,
-250,2024 Jan,山崎研チームBig as mountain (若松駿・藤川紘晃・Dung Trung Vu・石田紘大・山崎大),駒場2キャンパス新春駅伝 チーム1位,11分48秒22,東京生研 弥生会,
-240,2023 Sep,庄司 健,水文・水資源学会／日本水文科学会 2023合同大会 優秀発表賞,全球における生産活動を考慮した産業別GDPマップの作成,水文・水資源学会／日本水文科学会,
+280,2024 Sep,渡辺 恵,水文・水資源学会論文奨励賞,"""A 60 cm water body map obtained using aerial
+photography: Application to the Tama and Tsurumi rivers"" (Watanabe & Yamazaki, 2024. ydrological Research Letters)",水文・水資源学会,
+270,2024 Sep,Kinza Khan,Continental UTokyo-IIS Global Engineering Fellowship,"
+",東京大学生産技術研究所,
+260,2024 May,石田 紘大,日本地球惑星科学連合2024年大会大気水圏科学セクション学生優秀発表賞,Sentinel-2衛星画像と合流部のフラックス保存を用いた全球河川における土砂濃度推定アルゴリズムの構築,公益社団法人日本地球惑星科学連合,https://www.jpgu.org/ospa/2024meeting/#sectionA
+250,2024 Jan,庄司 健,社会基盤学専攻 古市賞（優秀修士論文）,洪水によるインフラ途絶影響を考慮した産業セクター別営業停止損失の広域推定,東京大学大学院 工学系研究科 社会基盤学専攻,
+240,2023 Sep,庄司 健,水文・水資源学会／日本水文科学会 2023年度研究発表会 優秀発表賞,全球における生産活動を考慮した産業別GDPマップの作成,水文・水資源学会／日本水文科学会,
 230,2023 Jun,矢澤 大志,東京大学生産技術研究所 弥生賞（優秀）,フィリピンの都市スラムにおける住民主体型水環境マネジメント手法の構築,東京大学生産技術研究所,
 220,2023 Jan,服部 公輔,社会基盤学専攻 古市賞（優秀修士論文）,Study on the complementarity of carbon pricing policy and decarbonization technology finance using IAM,東京大学大学院 工学系研究科 社会基盤学専攻,
 210,2022 Nov,山崎大,水工学講演会 アウトスタンディング・ディスカッション賞,優れた討議による講演会の活性化に貢献,土木学会　水工学委員会,
-200,2022 Sep,石川悠生,水文・水資源学会 優秀発表賞,衛星観測可動幅を用いた黄河における河川流量の空間変化の推定,水文・水資源学会,
+200,2022 Sep,石川悠生,水文・水資源学会／日本水文科学会 2022年度研究発表会 優秀発表賞,衛星観測河道幅を用いた黄河における河川流量の空間変化の推定,水文・水資源学会/日本水文科学会,
 190,2021 Sep,坂内匠,Continental UTokyo-IIS Global Engineering Fellowship,,東京大学生産技術研究所,
 180,2021 Aug,Dai Yamazaki,AOGS Kamide Distinguished-Lecture Award,Recent advances in global-scale surface water hydrodynamics modelling,AOGS,https://www.asiaoceania.org/aogs2021/public.asp?page=feature_speaker.asp#distlect
 170,2021 Jul,Prakat Modi,IIS PhD Student Live 2021 Grand Prize,Multivariable Integrated Evaluation of Hydrodynamic Modelling,東京大学生産技術研究所,
