@@ -18,9 +18,9 @@ Let's learn about the rainfall-runoff process through playing the game. Press th
 
 
 
-<iframe src="https://scratch.mit.edu/projects/1011671300/embed" allowtransparency="true" width="720" height="460" frameborder="0" scrolling="no" allowfullscreen></iframe>
-Scratch Rainfall-Runoff Modeling Game (v2.0)<br>
-[Access to source code on Scratch webpage: https://scratch.mit.edu/projects/1011671300](https://scratch.mit.edu/projects/1011671300)<br> 
+<iframe src="https://scratch.mit.edu/projects/1104059304/embed" allowtransparency="true" width="720" height="460" frameborder="0" scrolling="no" allowfullscreen></iframe>
+Scratch Rainfall-Runoff Modeling Game (v2.1)<br>
+[Access to source code on Scratch webpage: https://scratch.mit.edu/projects/1104059304](https://scratch.mit.edu/projects/1104059304/)<br> 
 
 ### Rules and How to Play
 #### 1. Game Objective
@@ -170,7 +170,7 @@ The rainfall-runoff modeling game was developed using the educational programmin
 <img src="{{ site.url }}{{ site.baseurl }}/images/scratch/Scratch_fig05e.jpg" width="50%"/>
 
 Access the source code published on Scratch
-- [Latest v2.0 (https://scratch.mit.edu/projects/1011671300)](https://scratch.mit.edu/projects/1011671300)<br> 
+- [Latest v2.1 (https://scratch.mit.edu/projects/1104059304)](https://scratch.mit.edu/projects/1104059304)<br> 
 - [Simple v1.1 (https://scratch.mit.edu/projects/864115525/)](https://scratch.mit.edu/projects/864115525/)<br><br>
 
 If you have ideas for interesting stages and would like to share them, please contact Professor Yamazaki. His email address is provided at the bottom of the page.<br><br>
