@@ -29,9 +29,9 @@ Our research activity is summarized in:
 - [List of student academic thesis](./student_thesis/)
 - [List of awards](./award/)
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/picture/DLab-2023Aug.jpg" width="80%"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picture/DLab_2024Dec.jpg" width="80%"/>
 
-Group photo in Hydrology Joint Workshop @ Kujukuri Beach (Aug 2023)
+Group photo in Komaba-2 Campus (Dec 2024)
 
 
 ## What is Global Hydrodynamics?
