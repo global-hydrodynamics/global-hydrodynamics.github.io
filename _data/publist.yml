@@ -484,6 +484,18 @@
 ######################################################################################
 ### Collaboration work ###
 
+- ID: C77)
+  title: "Analysis and comparison of the flood simulations with the routing model CaMa-Flood at different spatial resolutions in the CONUS"
+  image:
+  authors: "Ruijie Jiang, Hui Lu, Kun Yang, Hiroshi Cho, Dai Yamazaki"
+  description:
+  link:
+    url: https://doi.org/10.1016/j.envsoft.2024.106305
+    display: "Environmental Modelling & Software, 185, 106305, 2025, DOI: 10.1016/j.envsoft.2024.106305"
+  highlight: 0
+  dlab: 0
+  news2:
+
 - ID: C76)
   title: "Sharp decline in surface water resources for agriculture and fisheries in the Lower Mekong Basin over 2000-2020"
   image:
