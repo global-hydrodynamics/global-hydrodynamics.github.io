@@ -19,17 +19,19 @@ Note: If you cannot join on 14 March, presentation by recorded video is also wel
 <img src="{{ site.url }}{{ site.baseurl }}/images/slider/CaMa_model.jpg" />
 
 ### About the CaMa-Flood annual briefing
-CaMa-Flood annual progress briefing is a yearly event to review the achievements related to the global river model CaMa-Flood. **This will be an opportunity for CaMa-Flood users/developers/contributers to advertize their achievements,** and also a chance to enhance research network.
+CaMa-Flood annual progress briefing is a yearly event to review the achievements related to the global river model CaMa-Flood. **This will be an opportunity for CaMa-Flood users/developers/contributors to advertise their achievements,** and also a chance to enhance research network.
 
-The briefing starts with the summary of the key progress report by the core developeper team. Then, CaMa-Flood users have opportunity for introducing their achievements in a short-talk series. We are also thinking about having 1-2 invited talks for highlighting important achievements.
+The briefing starts with the summary of the key progress report by the core developer team. Then, CaMa-Flood users have opportunity for introducing their achievements in a short-talk series. We are also thinking about having 1-2 invited talks for highlighting important achievements.
 
-The primary purpose of the annual briefing is to make a catalogue of CaMa-Flood researches, and make it visible to CaMa-Flood communities and outward. We'd like to ask CaMa-Flood users/contributers to make a short summary on their achievement (1-2 page), and generate "CaMa-Flood annual progress report" by collecting these summaries. Also, we will record presentations during the online meeting and make it as "video report".
+The primary purpose of the annual briefing is to make a catalogue of CaMa-Flood researches, and make it visible to CaMa-Flood communities and outward. We'd like to ask CaMa-Flood users/contributors to make a short summary on their achievement (1-2 page), and generate "CaMa-Flood annual progress report" by collecting these summaries. Also, we will record presentations during the online meeting and make it as "video report".
+
+Note: We are also planning to have [CaMa-Flood user/developer meeting](../cmf-mmet-2024/) every two years, which prioritize discussion on frontier topics and future directions. **The annual briefing** primary focuses on summarizing the recent achievements. Of course, networking of CaMa-Flood user community is the most important purpose in the both meetings.
 
 ### Registration Form
 **If you want to join the online briefing, [please register from Google Form](https://forms.gle/daRQ1ZkQ3Q4CjtWy7)**
 
 - Meeting Zoom URL will be shown after you registered on the form.
-- If you have a trouble on connecting the form, please contact meeting organizer (Xudoug Zhou: x.zhou [at] rainbow.iis.u-tokyo.ac.jp)
+- If you have a trouble on connecting the form, please contact meeting organizer (Xudong Zhou: x.zhou [at] rainbow.iis.u-tokyo.ac.jp)
 - If you cannot join on 14 March, presentation by recorded video is also welcomed. Please advertise your achievement among CaMa-Flood community. For video presentation, please also register on the form.
 
 #### Important dates and deadlines
@@ -42,6 +44,7 @@ The primary purpose of the annual briefing is to make a catalogue of CaMa-Flood 
 - <span style="color: red">Registration for presentation: by 14 February</span>
 - <span style="color: red">Submission of 1-2 page summary: by 28 February</span>
 - Annual report appears by the end of March
+- **Note: Achievement summary format is to be shared around 31 January. Please wait!**
 
 (For those who want to present, but cannot join on 14 Mar)
 - Deadline for video recorded talk: 7 March
@@ -80,7 +83,7 @@ Tentative meeting time is 11AM - 1PM in GMT (2 hours) on 14 March, but might cha
 #### Schedule
 - Opening (Dai Yamazaki): 5min
 - Report on major update (CaMa-Flood core development team): 25min
-- Report on achievements (CaMa-Flood contributers): 5-8min each
+- Report on achievements (CaMa-Flood contributors): 5-8min each
 - Invited highlight talk on important achievements: 20min
 - Announcement on next events
 - Closing
