@@ -41,17 +41,17 @@ Note: We are also planning to have [CaMa-Flood user/developer meeting](../cmf-mm
 - Meeting date: 14 March
 
 (For presenting your achievement)
-- <span style="color: red">Registration for presentation: by 14 February</span>
-- <span style="color: red">Submission of 1-2 page summary: by 28 February</span>
+- <span style="color: red">Registration for presentation: by 21 February (extended)</span>
+- <span style="color: red">Submission of 2 page summary: by 28 February</span>
 - Annual report appears by the end of March
-- **Note: Achievement summary format is to be shared around 31 January. Please wait!**
+- **Note: Achievement summary format is shared with registered presenter by email.**
 
 (For those who want to present, but cannot join on 14 Mar)
 - Deadline for video recorded talk: 7 March
 
 #### Note for presenters
 
-The meeting is for sharing the achievements related to CaMa-Flood in 2023-2024. Thus, we assume you published your work in advance (journal publication, preprint paper, online documents, or web contents), and provide the summary of that work in the meeting. (If not yet published, you can introduce it in next year).
+The meeting is for <span style="color: red">sharing the achievements related to CaMa-Flood in 2022-2024</span>. Thus, we assume you published your work in advance (journal publication, online documents, or web contents), and provide the summary of that work in the meeting. (If not yet published, you can introduce it in next year).
 
 Any achievements related to CaMa-Flood can be introduced.
   - Development of a new scheme or tool for CaMa-Flood
@@ -62,7 +62,7 @@ Any achievements related to CaMa-Flood can be introduced.
 If you are not sure your achievement fits to the scope, please just ask the meeting organization team (yamazaki [at] iis.u-tokyo.ac.jp).
 As this is the first annual briefing event, we accept achievements for past years. We focuses primary on 2023-2024, but earlier works are also welcomed.
 
-We will ask all presenters to prepare 1-2 page summary of your achievement, which will be published as "CaMa-Flood annual progress report". We will share GoodleDocs URL for online edit, or you can just send the MS Word file by email. Deadline for 1-2 page summary is 28th February.
+We will ask all presenters to prepare 2-page summary of your achievement, which will be published as "CaMa-Flood annual progress report". We will share GoodleDocs URL for online edit, or you can just send the MS Word file by email. Deadline for 2 page summary is 28th February.
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/slider/CaMa_Mekong.jpg" />
@@ -75,16 +75,16 @@ The CaMa-Flood annual progress briefing 2024 will take place **on 14th March 202
 
 #### Tentative Meeting Time
 Tentative meeting time is 11AM - 1PM in GMT (2 hours) on 14 March, but might change depending on number of presentations.
--  8:00PM - 10:00PM in Tokyo, Japan
--  4:30PM -  6:30PM in New Delhi, India
-- 11:00AM -  1:00AM in London, UK
--  7:00AM -  9:00AM in Washington DC, US
+-  8:00PM - 10:30PM in Tokyo, Japan
+-  4:30PM -  7:00PM in New Delhi, India
+- 11:00AM -  1:30AM in London, UK
+-  7:00AM -  9:30AM in Washington DC, US
 
 #### Schedule
 - Opening (Dai Yamazaki): 5min
-- Report on major update (CaMa-Flood core development team): 25min
-- Report on achievements (CaMa-Flood contributors): 5-8min each
-- Invited highlight talk on important achievements: 20min
+- Report on major update (CaMa-Flood core development team): 15min
+- Report on achievements (CaMa-Flood contributors): 5-6 min each
+- Invited highlight talk on important achievements: 10 min each
 - Announcement on next events
 - Closing
 
