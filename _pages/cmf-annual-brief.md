@@ -134,7 +134,7 @@ As of January 2025
 - Zhou Xudong  (Ningbo Univ)
 - Gang Zhao    (Science Tokyo)
 
-Please email to Dai Yamazaki ( yamadai [at] iis.u-tokyo.ac.jp ) and/or Xudong Zghou (x.zhou [at] rainbow.iis.u-tokyo.ac.jp ) for question about the meeting.
+Please email to Dai Yamazaki ( yamadai [at] iis.u-tokyo.ac.jp ) and/or Xudong Zhou (x.zhou [at] rainbow.iis.u-tokyo.ac.jp ) for question about the meeting.
 
 
 <p> &nbsp; </p>
