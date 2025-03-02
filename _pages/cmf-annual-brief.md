@@ -143,24 +143,39 @@ Please email to Dai Yamazaki ( yamadai [at] iis.u-tokyo.ac.jp ) and/or Xudong Zh
 ### Program of online briefing on 14 March
 note: times are in Japanese time zone (GMT +9)
 
-#### [20:00 - 20:20] 
+
 #### 1. Status of CaMa-Flood core developments [20 min]
+
+[20:00 - 20:20] 
+
 #####[G1] Major Updates of CaMa-Flood in 2022-2024
+
 Dai Yamazaki [12min]
+
 #####[G2] CaMa-Flood accuracy evaluation
+
 Xudong Zhou  [8min]
 
 ####2.  CaMa-Flood achievement reports
+
 ####[20:20-20:50] 
+
 ####2A: Highlight of milestone papers [6min * 4 talks]
+
 #####[A1] Global Flood Risk under Climate Change / Global exposure to flooding from the new CMIP6 climate model projections
+
 Yukiko Hirabayashi, et al. 2013, Nature Climate Change, https://doi.org/10.1038/nclimate1911
 Yukiko Hirabayashi, et al. 2021, Scientific Reports, https://doi.org/10.1038/s41598-021-83279-w
+
 #####[A2] The critical role of the routing scheme in simulating peak river discharge in global hydrological models
+
 Fang Zhao, et al. 2017, Environmental Research Letters, https://doi.org/10.1088/1748-9326/aa7250
+
 #####[A3] Local floods induce large-scale abrupt failures of road networks
 Weiping Wang et al., 2019, Nature Communications, https://doi.org/10.1038/s41467-019-10063-w
+
 #####[A4] Role of dams in reducing global flood exposure under climate change
+
 Julien Boulange et al., 2021, Nature Communications , https://doi.org/10.1038/s41467-020-20704-0
 
 
