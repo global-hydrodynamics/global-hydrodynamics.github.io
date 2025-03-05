@@ -170,33 +170,33 @@ Xudong Zhou  [8min]
 
 <br><br>
 #### **[20:50-21:25]** 2B: CaMa-Flood development papers [5min *6 talks]
-##### [B1] Quantifying the relative contributions of climate change and ENSO to flood occurrence in Bangladesh
-[Shahab Uddin, et al. 2023, Environmental Research Letters]( https://doi.org//10.1088/1748-9326/acfa11)
-##### [B2] Uncertainty of internal climate variability in probabilistic flood simulations using d4PDF
-[Yuki Kita, & Dai Yamazaki, 2023, Hydrological Research Letters,   http://doi.org/10.3178/hrl.17.15
-##### [B3] Methodology for constructing a flood - hazard map for a future climate
-[Yuki Kimura, et al., Hydrology and Earth System Science, 2023](http://doi.org/10.5194/hess-27-1627-2023)
-##### [B4] Reconstruction of long-term hydrologic change and typhoon-induced flood events over the entire island of Taiwan 
-[Jac Stelly, Amar Deep Tiwari et al., Journal of Hydrology: Regional Studies, 2024](http://doi.org/10.1016/j.ejrh.2024.101806)
-##### [B5] Climate change and urban sprawl: Unveiling the escalating flood risks in river deltas with a deep dive into the GBM river delta
-[Shupu Wu et al., Science of the Total Environment, 2024](http://doi.org/10.1016/j.scitotenv.2024.174703)
-##### [B6] Substantial increase in future fluvial flood risk projected in China’s major urban agglomerations 
-[Ruijie Jiang et al. Communications Earth & Environment , 2023](http://doi.org/10.1038/s43247-023-01049-0)
+##### [B1] Assimilation of transformed water surface elevation to improve river discharge estimation in a continental-scale river
+[Menaka Revel,et al. 2023, Hydrology & Earth System Sciences](https://doi.org/10.5194/hess-27-647-2023)
+##### [B2] A globally applicable framework for compound flood hazard modeling
+[Dirk Eilander et al., Natural Hazard & Earth System Sciences](https://doi.org/10.5194/nhess-23-823-2023)
+##### [B3] Inundation prediction in tropical wetlands from JULES-CaMa-Flood global land surface simulations
+[Toby Marthews et al., Hydrology and Earth System Sciences, 2022](http://doi.org/10.5194/hess-26-3151-2022)
+##### [B4] A New Generation of Hydrological Condition Simulator Employing Physical Models and Satellite-based Meteorological Data
+[Wenchao Ma et al., Earth and Space Science, 2024](https://doi.org/10.1029/2023EA003228)
+##### [B5] Multivariable Integrated Evaluation of Hydrodynamic Modeling: A Comparison of Performance Considering Different Baseline Topography Data
+[Prakat Modi et al., Water Resources Research, 2022](https://doi.org/10.1029/2021WR031819) 
+##### [B6] Correction of River Bathymetry Parameters Using the Stage–Discharge Rating Curve
+[Xudong Zhou et al. 2022, Water Resources Research, https://doi.org/10.1029/2021WR031226
 
 <br><br>
 #### **[21:25-22:05]** 2C: CaMa-Flood application papers [5min * 7talks]
-##### [C1] Assimilation of transformed water surface elevation to improve river discharge estimation in a continental-scale river
-[Menaka Revel,et al. 2023, Hydrology & Earth System Sciences](https://doi.org/10.5194/hess-27-647-2023)
-##### [C2] A globally applicable framework for compound flood hazard modeling
-[Dirk Eilander et al., Natural Hazard & Earth System Sciences](https://doi.org/10.5194/nhess-23-823-2023)
-##### [C3] Inundation prediction in tropical wetlands from JULES-CaMa-Flood global land surface simulations
-[Toby Marthews et al., Hydrology and Earth System Sciences, 2022](http://doi.org/10.5194/hess-26-3151-2022)
-##### [C4] A New Generation of Hydrological Condition Simulator Employing Physical Models and Satellite-based Meteorological Data
-[Wenchao Ma et al., Earth and Space Science, 2024](https://doi.org/10.1029/2023EA003228)
-##### [C5] Multivariable Integrated Evaluation of Hydrodynamic Modeling: A Comparison of Performance Considering Different Baseline Topography Data
-[Prakat Modi et al., Water Resources Research, 2022](https://doi.org/10.1029/2021WR031819) 
-##### [C6] Correction of River Bathymetry Parameters Using the Stage–Discharge Rating Curve
-[Xudong Zhou et al. 2022, Water Resources Research, https://doi.org/10.1029/2021WR031226
+##### [C1] Quantifying the relative contributions of climate change and ENSO to flood occurrence in Bangladesh
+[Shahab Uddin, et al. 2023, Environmental Research Letters]( https://doi.org//10.1088/1748-9326/acfa11)
+##### [C2] Uncertainty of internal climate variability in probabilistic flood simulations using d4PDF
+[Yuki Kita, & Dai Yamazaki, 2023, Hydrological Research Letters,   http://doi.org/10.3178/hrl.17.15
+##### [C3] Methodology for constructing a flood - hazard map for a future climate
+[Yuki Kimura, et al., Hydrology and Earth System Science, 2023](http://doi.org/10.5194/hess-27-1627-2023)
+##### [C4] Reconstruction of long-term hydrologic change and typhoon-induced flood events over the entire island of Taiwan 
+[Jac Stelly, Amar Deep Tiwari et al., Journal of Hydrology: Regional Studies, 2024](http://doi.org/10.1016/j.ejrh.2024.101806)
+##### [C5] Climate change and urban sprawl: Unveiling the escalating flood risks in river deltas with a deep dive into the GBM river delta
+[Shupu Wu et al., Science of the Total Environment, 2024](http://doi.org/10.1016/j.scitotenv.2024.174703)
+##### [C6] Substantial increase in future fluvial flood risk projected in China’s major urban agglomerations 
+[Ruijie Jiang et al. Communications Earth & Environment , 2023](http://doi.org/10.1038/s43247-023-01049-0)
 ##### [C7] Flood risk assessment for Indian sub-continental river basins
 [Urmin Vegad et al. 2024, Hydrology and Earth System Sciences](https://doi.org/10.5194/hess-28-1107-2024)
 
