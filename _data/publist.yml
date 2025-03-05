@@ -1,4 +1,15 @@
 ## Yamazaki Lab work
+- ID: Y41)
+  title: "Benchmark Framework for Global River Models"
+  image:
+  authors: "Xudong Zhou, Dai Yamazaki, Menaka Revel, Gang Zhao, Prakat Modi"
+  description:
+  link:
+    url: 
+    display: "Journal of Advances in Modelling Earth Systems, 17, (accepted), 2025"
+  highlight: 0
+  dlab: 1
+  news2:
 
 - ID: Y40)
   title: "Improving Global Reservoir Parameterizations by Incorporating Flood Storage Capacity Data and Satellite Observations"
@@ -495,6 +506,30 @@
 
 ######################################################################################
 ### Collaboration work ###
+
+- ID: C79)
+  title: "Mapping the world’s inland surface waters: an update to the Global Lakes and Wetlands Database (GLWD v2)"
+  image:
+  authors: "Bernhard Lehner, Mira Anand, Etienne Fluet-Chouinard, Florence Tan, Filipe Aires, George H. Allen, Pilippe Bousquet, Josep G. Canadell, Nick Davidson, C. Max Finlayson, Thomas Gumbricht, Lammert Hilarides, Gustaf Hugelius, Robert B. Jackson, Maartje C. Korver, Peter B. McIntyre, Szabolcs Nagy, David Olefeldt, Tamlin M. Pavelsky, Jean-Francois Pekel, Benjamin Poulter, Catherine Prigent, Jida Wang, Thomas A. Worthington, Dai Yamazaki, and Michele Thieme"
+  description:
+  link:
+    url: 
+    display: "Earth System Science Data, 2025, (accepted)"
+  highlight: 0
+  dlab: 0
+  news2:
+
+- ID: C78)
+  title: "Coordination of natural and built infrastructure to better manage extreme events: a hydro-finance modeling framework"
+  image:
+  authors: "Hongkai Gao, Reepal Dinesh Shah, Dai Yamazaki, Theodore J Bohn, Glen Low, and John Louis Sabo"
+  description:
+  link:
+    url: https://doi.org/10.1088/1748-9326/ada45d
+    display: "Environmental Research Letters, 20, 024036, 2025, DOI: 10.1088/1748-9326/ada45d"
+  highlight: 0
+  dlab: 0
+  news2:
 
 - ID: C77)
   title: "Analysis and comparison of the flood simulations with the routing model CaMa-Flood at different spatial resolutions in the CONUS"
