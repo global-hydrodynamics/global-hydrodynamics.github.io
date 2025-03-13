@@ -187,14 +187,14 @@ Xudong Zhou  [8min]
 ##### [B5] Multivariable Integrated Evaluation of Hydrodynamic Modeling: A Comparison of Performance Considering Different Baseline Topography Data
 [Prakat Modi et al., Water Resources Research, 2022](https://doi.org/10.1029/2021WR031819) 
 ##### [B6] Correction of River Bathymetry Parameters Using the Stage–Discharge Rating Curve
-[Xudong Zhou et al. 2022, Water Resources Research, https://doi.org/10.1029/2021WR031226
+[Xudong Zhou et al. 2022, Water Resources Research](https://doi.org/10.1029/2021WR031226)
 
 <br><br>
 #### **[21:25-22:05]** 2C: CaMa-Flood application papers [5min * 7talks]
 ##### [C1] Quantifying the relative contributions of climate change and ENSO to flood occurrence in Bangladesh
 [Shahab Uddin, et al. 2023, Environmental Research Letters]( https://doi.org//10.1088/1748-9326/acfa11)
 ##### [C2] Uncertainty of internal climate variability in probabilistic flood simulations using d4PDF
-[Yuki Kita, & Dai Yamazaki, 2023, Hydrological Research Letters,   http://doi.org/10.3178/hrl.17.15
+[Yuki Kita, & Dai Yamazaki, 2023, Hydrological Research Letters](  http://doi.org/10.3178/hrl.17.15)
 ##### [C3] Methodology for constructing a flood - hazard map for a future climate
 [Yuki Kimura, et al., Hydrology and Earth System Science, 2023](http://doi.org/10.5194/hess-27-1627-2023)
 ##### [C4] Reconstruction of long-term hydrologic change and typhoon-induced flood events over the entire island of Taiwan 
