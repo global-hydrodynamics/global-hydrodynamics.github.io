@@ -18,6 +18,12 @@ Note: If you cannot join on 14 March, presentation by recorded video is also wel
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/slider/CaMa_model.jpg" />
 
+### CaMa-Flood Annual Progress Report
+The Annual Progress Report 2024 is developed based on the input for CaMa-Flood annual briefing 2024. Thanks for all CaMa-Flood users/developers contributed to this annual report.
+
+[Download CaMa-Flood Annual Progress Report 2024](https://hydro.iis.u-tokyo.ac.jp/~yamadai/cama-flood/docs/CaMa-Flood_ProgressReport2024.pdf)
+
+
 ### About the CaMa-Flood annual briefing
 CaMa-Flood annual progress briefing is a yearly event to review the achievements related to the global river model CaMa-Flood. **This will be an opportunity for CaMa-Flood users/developers/contributors to advertise their achievements,** and also a chance to enhance research network.
 
