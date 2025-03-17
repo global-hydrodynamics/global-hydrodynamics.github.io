@@ -7,14 +7,12 @@ permalink: /cmf-annual-brief/
 # CaMa-Flood annual briefing
 
 CaMa-Flood annual progress briefing is a yearly event to review the achievements related to CaMa-Flood.<br>
-This is a new attempt from this year, and we will mainly introduce the achievements in 2023-2024.
+This is a new attempt from this year, and we will mainly introduce the achievements in 2022-2024.
   
-**<span style="color: red">The meeting is planned on 14th March 2025, online on Zoom.</span><br>
-Tentative time schedule is through 8-10PM in Japan time.**
+**<span style="color: red">The meeting was held on 14th March 2025, online on Zoom.</span><br>
+The progress report is available as PDF format and Video presentation.**
 
-**If you want to join the online briefing, [please register from Google Form](https://forms.gle/daRQ1ZkQ3Q4CjtWy7)**
-
-Note: If you cannot join on 14 March, presentation by recorded video is also welcomed. Please advertise your achievement among CaMa-Flood community. For video presentation, please also register on the form.
+<!-- Note: If you cannot join on 14 March, presentation by recorded video is also welcomed. Please advertise your achievement among CaMa-Flood community. For video presentation, please also register on the form. -->
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/slider/CaMa_model.jpg" />
 
@@ -22,6 +20,10 @@ Note: If you cannot join on 14 March, presentation by recorded video is also wel
 The Annual Progress Report 2024 is developed based on the input for CaMa-Flood annual briefing 2024. Thanks for all CaMa-Flood users/developers contributed to this annual report.
 
 [Download CaMa-Flood Annual Progress Report 2024](https://hydro.iis.u-tokyo.ac.jp/~yamadai/cama-flood/docs/CaMa-Flood_ProgressReport2024.pdf)
+
+[Check video report on YouTube](https://www.youtube.com/watch?v=okvOIuvVwJI)
+
+<iframe id="video" width="80%" height="350" src="https://www.youtube.com/embed/okvOIuvVwJI?si=4zJxbEcV7EoUae3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### About the CaMa-Flood annual briefing
@@ -33,12 +35,14 @@ The primary purpose of the annual briefing is to make a catalogue of CaMa-Flood 
 
 Note: We are also planning to have [CaMa-Flood user/developer meeting](../cmf-mmet-2024/) every two years, which prioritize discussion on frontier topics and future directions. **The annual briefing** primary focuses on summarizing the recent achievements. Of course, networking of CaMa-Flood user community is the most important purpose in the both meetings.
 
+<!-- 
 ### Registration Form
 **If you want to join the online briefing, [please register from Google Form](https://forms.gle/daRQ1ZkQ3Q4CjtWy7)**
 
 - Meeting Zoom URL will be shown after you registered on the form.
 - If you have a trouble on connecting the form, please contact meeting organizer (Xudong Zhou: x.zhou [at] rainbow.iis.u-tokyo.ac.jp)
-- If you cannot join on 14 March, presentation by recorded video is also welcomed. Please advertise your achievement among CaMa-Flood community. For video presentation, please also register on the form.
+- If you cannot join on 14 March, presentation by recorded video is also welcomed. Please advertise your achievement among CaMa-Flood community. For video presentation, please also register on the form. 
+-->
 
 #### Important dates and deadlines
 
@@ -95,10 +99,6 @@ Tentative meeting time is 11AM - 1PM in GMT (2 hours) on 14 March, but might cha
 - Closing
 
 
-### Meeting Reports (PDF and Video)
-
-#### CaMa-Flood Annual Progress Reports
-- Annual Briefing 2024 (To be available soon)
 
 #### Video on CaMa-Flood development
 Yamazaki received AOGS Kamide Lecture Award (Hydrology Section), and made a lecture talk in in August 2021. The recorded talk is available on <a href="https://www.youtube.com/watch?v=xUYRr0tX7rk">"YouTube"</a><br>
