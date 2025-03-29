@@ -1,17 +1,19 @@
 ﻿sort,name,native,degree,year,award,title,title2
+250,Kota Ishida,石田 紘大,MA,2025 Mar,古市賞,衛星観測を用いたキャリブレーション不要な全球河川浮遊土砂濃度推定手法の開発,Development of a calibration-free algorithm for estimating global river suspended sediment concentration using satellite images
+240,Yukinori Kojima,児島 幸紀,BA,2025 Mar,,広域河川モデルへの衛星浸水域観測のデータ同化による洪水予測シミュレーションの高度化,Improving Flood Forecast in Large-Scale River Models through Data Assimilation of Satellite Observed Flood Extent
 230,Yang Hu,胡 陽,Ph.D.,2024 Sep,,Flood Impact Assessment with Nighttime Light Remote Sensing Data on a Global Scale,衛星夜間光データを用いたグローバルスケールでの洪水インパクト評価
 220,Shuping Li,李 庶平,Ph.D.,2024 Sep,,Study on the impacts of terrestrial water dynamics on land surface processes and land cover heterogeneity,陸域水動態が陸面過程と土地被覆不均一性に及ぼす影響に関する研究
 210,Shun Wakamatsu,若松 駿,BA,2024 Mar,,渓流域での3次元地形データを用いた水理シミュレーションによる水位流量曲線の作成,Creation of stage-discharge curve in a mountainous headwater river using 3D topography data and hydraulic simulation
 200,Naho Yoden,余田 奈穂,MA,2024 Mar,,全球水文モデルへの流域間導水の実装,Implementing inter-basin water transfers into global hydrological models
 190,Shoji Takeshi,庄司 健,MA,2024 Mar,古市賞,洪水によるインフラ途絶影響を考慮した産業セクター別営業停止損失の広域推定,The global estimation of sector-classified business interruption loss considering the process of infrastructure disruption caused by flood
 180,Yining Sun,孙 一宁,BA,2023 Sep,,Estimation of Extreme Floods Time Series with Limited Sample Size: Analyzing Outlier-removal Approaches Based on Synthetic Data,限られたサンプルサイズでの極端洪水時系列の推定: 仮想データを用いた異常値除去手法の適用
-170,Ikuto Kabbe,神戸育人,MA,2023 Mar,,航空機ライダーDEMを用いた堤防情報の全球洪水モデルへの導入,Incorporating Levee Information into a Global Flood Model using an Aircraft Lidar DEM
+170,Ikuto Kabbe,神戸 育人,MA,2023 Mar,,航空機ライダーDEMを用いた堤防情報の全球洪水モデルへの導入,Incorporating Levee Information into a Global Flood Model using an Aircraft Lidar DEM
 160,Shahab Uddin,উদ্দিন শাহাব,MA,2023 Mar,,Attribution of Flood Risk in Bangladesh to Climate Change and Climate Internal Variability,バングラデッシュの洪水リスクに対する気候変化および気候内部変動の影響特定
 150,Kosuke Hattori,服部 公輔,MA,2023 Mar,古市賞,Study on the complementarity of carbon pricing policy and decarbonization technology finance using IAM,統合評価モデルを用いたカーボンプライシング政策と脱炭素技術投資の関係についての研究
-140,Takumi Bannai,坂内　匠,MA,2023 Mar,,降水物理プロセスを考慮した機械学習モデルによる衛星降水量推定,Machine learning approach for Satellite precipitation retrieval based on precipitation physical mechanism
+140,Takumi Bannai,坂内 匠,MA,2023 Mar,,降水物理プロセスを考慮した機械学習モデルによる衛星降水量推定,Machine learning approach for Satellite precipitation retrieval based on precipitation physical mechanism
 130,Prakat Modi,प्रकट मोदी,Ph.D.,2022 Sep,,Multidimensional Uncertainty Comprehension for Improvement of Hydrological Prediction,水文予測改善のための多面的な不確実性の理解
-120,Sawa Shimokawa,下川さわ,MA,2022 Mar,,メコン流域のダム開発による河川水動態への影響,Impacts on Dam Development on River Water Dynamics in the Mekong Basin
-110,Naho Yoden,余田　奈穂,BA,2022Mar,,インダス川流域の運河網を考慮した遠隔導水スキームの全球水資源モデルへの実装,Implementation of link-canal water transfer in the Indus River Basin to a global water resources model
+120,Sawa Shimokawa,下川 さわ,MA,2022 Mar,,メコン流域のダム開発による河川水動態への影響,Impacts on Dam Development on River Water Dynamics in the Mekong Basin
+110,Naho Yoden,余田 奈穂,BA,2022Mar,,インダス川流域の運河網を考慮した遠隔導水スキームの全球水資源モデルへの実装,Implementation of link-canal water transfer in the Indus River Basin to a global water resources model
 100,Ruiqi Li,李 瑞琪,MA,2021Sep,,Attribution of Extreme Precipitation Events in Japan to Climate Change and Climate Internal Variability,極端降水イベントへの温暖化と気候内部変動の影響特定
 90,Kota Adachi,足立 幸太,MA,2021Mar,,斜面流れを考慮した全球陸域モデルによる丘-谷間水分コントラストの再現,Represent hill valley moisture contrast by Land Surface Model with lateral subsurface flow
 80,Kotaro Hamada,浜田 光太郎,MA,2021Mar,,土壌の水平・鉛直分布を 考慮した陸面モデルの開発,Development of a land surface model considering horizontal and vertical variability
@@ -21,4 +23,4 @@
 40,Yoshiaki Tanaka,田中 良明,MA,2020Mar,,全米における全球河川モデルへの堤防導入手法構築と堤防立地特性の分析,Development of levee scheme in a global river model and analysis of levee location characteristics in contiguous U.S.
 30,Kotaro Hamada,浜田 光太郎,BA,2019Mar,田辺賞,全球スケールの高解像度河川・湖沼分類マップの開発と時系列分析,Development of a global high resolution river and lake map and its time series analysis
 20,Hiroaki Ikeuchi,池内 寛明,Ph.D,2019Mar,,大陸河川沿岸デルタ域における複合洪水氾濫モデリングに関する研究,Development of a modelling framework for compound ﬂooding in coastal deltas of the world’s continental rivers
-10,Ryo Taguchi,田口諒,MA,2019Mar,,全球スケールでの洪水経済被害分析における営業停止損失の重要性,Importance of the Business Interruption Loss in Global-scale Analysis of the Flood Damage on Economics
+10,Ryo Taguchi,田口 諒,MA,2019Mar,,全球スケールでの洪水経済被害分析における営業停止損失の重要性,Importance of the Business Interruption Loss in Global-scale Analysis of the Flood Damage on Economics
