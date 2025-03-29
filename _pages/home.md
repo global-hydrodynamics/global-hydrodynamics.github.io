@@ -11,8 +11,6 @@ Yamazaki lab is in U-Tokyo Komaba-2 Research Campus (<a href="https://goo.gl/map
 
 Our studies mainly focus on the dynamics of land waters on the global scale, using modelling, remote sensing, and data integration approach.
 
-**<span style="color: red">NEWS: We are organizing CaMa-Flood annual progress briefing on 14 March</span>** (Online on Zoom). [Please visit meeting webpage for detail](./cmf-annual-brief/).
-
 東京大学 [グローバル水文学グループ](http://hydro.iis.u-tokyo.ac.jp/)の一部である山崎研究室（全球陸域水動態研究室）のWebPageです。
 （ページ下部に日本語情報があります）
 
@@ -83,6 +81,10 @@ The model package (including minimum data to run test similations) are distribut
 #### CaMa-Flood source code repositry in GitHub
 
 If you are interested in contributing CaMa-Flood model, please visit our [CaMa-Flood GitHub repository](https://github.com/global-hydrodynamics/CaMa-Flood_v4).
+
+#### CaMa-Flood annual progress meeting
+**<span style="color: red">We organized CaMa-Flood annual progress briefing on 14 March</span>**. The annual progress report and meeting video are released. [Please visit meeting webpage for detail](./cmf-annual-brief/).
+
 
 #### CaMa-Flood developer/user international meeting
 

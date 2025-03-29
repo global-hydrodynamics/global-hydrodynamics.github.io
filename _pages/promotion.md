@@ -18,6 +18,17 @@ Group photo in Farewell Gathering @ Komaba Campus (March 2021)
 <img src="{{ site.url }}{{ site.baseurl }}/images/picture/DLab_20210324.jpg" width="80%"/><br>
 
 <p> &nbsp; </p>
+#### CaMa-Flood Annual Progress Report
+The Annual Progress Report 2024 is developed based on the input for CaMa-Flood annual briefing 2024. Thanks for all CaMa-Flood users/developers contributed to this annual report.
+
+[Download CaMa-Flood Annual Progress Report 2024](https://hydro.iis.u-tokyo.ac.jp/~yamadai/cama-flood/docs/CaMa-Flood_ProgressReport2024.pdf)
+
+[Check video report on YouTube](https://www.youtube.com/watch?v=okvOIuvVwJI)
+
+<iframe id="video" width="80%" height="350" src="https://www.youtube.com/embed/okvOIuvVwJI?si=4zJxbEcV7EoUae3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<p> &nbsp; </p>
 
 #### Yamazaki's interview in Japanese (Jan 2023)
 
