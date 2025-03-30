@@ -1,12 +1,15 @@
 ## Yamazaki Lab work
+
+## FY2025
+## FY2024
 - ID: Y41)
   title: "Benchmark Framework for Global River Models"
   image:
   authors: "Xudong Zhou, Dai Yamazaki, Menaka Revel, Gang Zhao, Prakat Modi"
   description:
   link:
-    url: 
-    display: "Journal of Advances in Modelling Earth Systems, 17, (accepted), 2025"
+    url:  https://doi.org/10.1029/2024MS004379
+    display: "Journal of Advances in Modelling Earth Systems, 17, e2024MS004379, 2025"
   highlight: 0
   dlab: 1
   news2:
@@ -47,8 +50,8 @@
   dlab: 1
   news2:
 
+## FY2024
 ## FY2023
-## FY2022
 - ID: Y37)
   title: "A self-adjusting method to generate daily consistent nighttime light data for the detection of short-term rapid human activities"
   image:
@@ -507,6 +510,7 @@
 ######################################################################################
 ### Collaboration work ###
 
+
 - ID: C79)
   title: "Mapping the world’s inland surface waters: an update to the Global Lakes and Wetlands Database (GLWD v2)"
   image:
@@ -518,6 +522,10 @@
   highlight: 0
   dlab: 0
   news2:
+
+## FY2025
+## FY2024
+
 
 - ID: C78)
   title: "Coordination of natural and built infrastructure to better manage extreme events: a hydro-finance modeling framework"
