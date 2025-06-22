@@ -1,5 +1,6 @@
 ﻿Sort,name,native,photo,info,duration,email,number_desc,description1,description2,description3,description4,description5
-120,Tamaki Hayashi,林 環,lab_logo.png,UROP student,2025,,1,SWOT analysis,,,,
+130,Sophie Buijs,,sophie.jpn,Visiting PhD,May-Jun 2025,,2,Multi Hazard Risk Assessment,Collaboration with Yang HU,,,
+120,Tamaki Hayashi,林 環希,lab_logo.png,UROP student,Oct 2024-,,1,SWOT analysis,,,,
 110,Mathilde Poussard,-,mathilde.jpg,Visiting master,May-Aug 2024,mathilde [at] rainbow,2,from University of Lyon 1,Model performance evaluation for event-based flood forecasting and past events reconstruction,,,
 100,Clément Janin,-,clement.jpg,Visiting master,May-Aug 2024,clement [at] rainbow,2,from University of Lyon 1,Benchmark Framework Developement for Global River Model,,,
 90,Sakura Takahashi,高橋 櫻,lab_logo.png,Undergrad RA,2023,,,,,,,
@@ -7,7 +8,6 @@
 70,Xue Xie,解 雪,lab_logo.png,Visiting PhD,2023,xue [at] rainbow.iis,1,"CSC scholarship, from Sun Yat-sen University",,,,
 60,Monica Coppo,-,lab_logo.png,Former Visitng PhD,Sep 2022- Dec 2022,,1,From Technical University of Denmark,,,,
 50,Xiaohu Yu,余 晓虎,lab_logo.png,visiting master,2022,xiaohu [at] rainbow.iis,5,"UTokyo EAP program, from Tonji University",,,,
-40,Monica Coppo,-,lab_logo.png,Former Visiting PhD student,2022,,1,From Technical University of Denmark,,,,
 30,Takaaki Okouchi,大河内 隆暁,lab_logo.png,UROP student,2022,,,,,,,
 20,Mizuki Funato,船戸 未月,lab_logo.png,UROP student,2022,,,,,,,
 10,Gurpret Dass,-,---,visiting master,2018,,,,,,,
