@@ -4,22 +4,35 @@ layout: pagelay
 permalink: /game/
 ---
 
-# Rainfall-runoff modelling game on *Scratch*
+# **SplashTune**
 
+(Scratch-based PLAyble Simulator for Hydrograph Tuning)
 
 [English version is here](../game_e/)
 
 #### 降雨-流出プロセスをゲームで学ぼう！
 雨が降ってから河川に水が流れ出るまでの仕組みを「降雨-流出プロセス」と言います。<br>
-その仕組みをシミュレーションで楽しく学べる**降雨-流出モデリングゲーム**を作りました。
+その仕組みをシミュレーションで楽しく学べる**降雨-流出モデリングゲーム「SplashTune」**を作りました。
 
 降雨-流出モデルの地表面状態を変えて、シミュレーションされる流出パターンを「ターゲット」に合わせるゲームです。
 
-ゲームを遊びながら、降雨-流出プロセスを学んでみましょう。<br>
-緑旗のボタンを押すとゲームがスタートします。（注：音が出ます）
+ゲームをプレイしながら、降雨-流出プロセスを学んでみましょう。<br>
+緑旗のボタンを押すとゲームがスタートします。
+
+<div style="position: relative; padding-bottom: 64%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+  <iframe src="https://scratch.mit.edu/projects/1104059304/embed"
+          allowtransparency="true"
+          frameborder="0"
+          scrolling="no"
+          allowfullscreen
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
+
+テスト
 
 <iframe src="https://scratch.mit.edu/projects/1104059304/embed" allowtransparency="true" width="720" height="460" frameborder="0" scrolling="no" allowfullscreen></iframe>
-Scratch Rainfall-Runoff Modeling Game (v2.1)<br>
+SplashTune (v2.1)<br>
 [Scratchのソースコードにアクセスする:  https://scratch.mit.edu/projects/1104059304/](https://scratch.mit.edu/projects/1104059304/)<br> 
 
 ### ルールと遊びかた
@@ -43,11 +56,11 @@ Scratch Rainfall-Runoff Modeling Game (v2.1)<br>
 ハイエトグラフとハイドログラフを見比べて、最適な地表面状態を予想してください。
 
 #### 3. シミュレーションの実行
-地表面状態の設定が終わった後に「Click to Start Simulation」ボタンを押すとシミュレーションが始まります。
+地表面状態の設定が終わった後に「Start Simulation」ボタンを押すとシミュレーションが始まります。
 
 シミュレーション中は操作できないので、水粒子がどう動くかを観察してください。
 
-- 降雨の一部は、蒸発や蒸散などによって流出に寄与しない降雨損失になります。
+- 降雨の一部は蒸発や蒸散などにより流出に寄与しない降雨損失になります。
 - 地表面に到達した水粒子の一部は地表面を流れ、一部は地中に浸透します。
 - 地中では水粒子はゆっくりと動き、一部は土壌に吸収されます。
 
@@ -56,7 +69,7 @@ Scratch Rainfall-Runoff Modeling Game (v2.1)<br>
 
 #### 4. シミュレーション結果とスコア
 シミュレーションされた流出量の時系列データがピンク色で表示されます。<br>
-青色のターゲット流出量とピンク色のシミュレーション流出量の類似度に基づいて、スコアが計算されます。スコアは100点満点です。
+青色のターゲット流出量とピンク色のシミュレーション流出量の類似度に基づいて、スコアが計算されます。スコアは100点満点で評価されます。
 
 ターゲットとシミュレーションがどう違うかを分析して、より高いスコアが出せるよう、試行錯誤で地表面状態を調整しましょう。<br>
 **目指せ90点以上！パーフェクトは100点！！**
@@ -83,7 +96,7 @@ Scratch Rainfall-Runoff Modeling Game (v2.1)<br>
 <a style="cursor:pointer;">▼ ヒント1を表示</a>
 </div>
 <div id="open1" style="display:none;clear:both;">
-まずは、ゲームの内容を確認してみましょう。緑色の旗でゲームを開始したら、そのまま「Start Simulation」ボタンを押してみましょう。青色Targetとピンク色Simulationが似ていれば高い点数がでます。
+まずは、ゲームの内容を確認してみましょう。緑色の旗でゲームを開始したら、そのまま「Start Simulation」ボタンを押してみましょう。青色のターゲットとピンク色のシミュレーションが似ていれば高い点数がでます。
 </div>
 
 #### Stage-2
@@ -93,7 +106,7 @@ Scratch Rainfall-Runoff Modeling Game (v2.1)<br>
 <div id="open2" style="display:none;clear:both;">
 まずは、地表面状態を初期状態から変更せずにシミュレーションして、計算された流出量とターゲットの違いを分析してみましょう。
 
-青色とピンク色のハイドログラフの洪水ピークに着目して、計算結果がターゲットより大きいか/小さいか、遅いか/早いかを確認してみましょう。次に、少しずつ条件を変えたシミュレーションを繰り返して、地表面状態をどのように変えたら洪水ピークがターゲットに近づくかを理解を深めながら、ターゲットに近づけていきましょう。
+青色とピンク色のハイドログラフの洪水ピークに着目して、計算結果がターゲットより大きいか/小さいか、遅いか/早いかを確認してみましょう。次に、少しずつ条件を変えたシミュレーションを繰り返して、地表面状態をどのように変えたら洪水ピークがターゲットに近づくかを理解を深つつ、ターゲットに近づけていきましょう。
 </div>
 
 #### Stage-3
@@ -119,7 +132,7 @@ Stage 2-3と雨のパターンは一緒ですが、ターゲットの流出パ�
 <a style="cursor:pointer;">▼ ヒント5を表示</a>
 </div>
 <div id="open5" style="display:none;clear:both;">
-Stage-5からは、地表面タイルの数が４つに増え、土壌水分の初期値も20%刻になり、難易度が上がります。
+Stage-5からは、地表面タイルの数が４つに増え難易度が上がります。
 
 まずは、流出量の一つ目の大きいピークを再現できるように地表面状態を調節しましょう。その後で、２つ目のピークが合うように調整すると高得点を出せます。
 </div>
@@ -171,7 +184,7 @@ Stage-5からは、地表面タイルの数が４つに増え、土壌水分の�
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/scratch/Scratch_fig05.jpg" width="50%"/>
 
-Scratch で公開しているソースコードにアクセスする。
+Scratch で公開している**SplashTune**のソースコードにアクセスする。
 - [最新版v2.1 (https://scratch.mit.edu/projects/1104059304)](https://scratch.mit.edu/projects/1104059304)<br> 
 - [シンプル版v1.1 (https://scratch.mit.edu/projects/864115525/)](https://scratch.mit.edu/projects/864115525/)<br><br>
 
