@@ -102,9 +102,9 @@ Also, we are planning to host "Advances in Global River Modeling" session in AOG
 
 
 ## Rainfall-Runoff Modelling Game
-We have created a **rainfall-runoff modeling game** that allows you to enjoyably learn hydrological process through simulation. Please visit our webpage to play the game and learn hydrological processes.
+We have created a **"SplashTune" rainfall-runoff modeling game** that allows you to enjoyably learn hydrological process through simulation. Please visit our webpage to play the game and learn hydrological processes.
 
-雨が降ってから河川に水が流れ出るまでの仕組みを「降雨-流出プロセス」をシミュレーションで楽しく学べる**降雨-流出モデリングゲーム**を作りました。WebPageでゲームを公開しているので、遊んでみてください。
+雨が降ってから河川に水が流れ出るまでの仕組みを「降雨-流出プロセス」をシミュレーションで楽しく学べる**降雨-流出モデリングゲーム「SplashTune」**を作りました。WebPageでゲームを公開しているので、遊んでみてください。
 
 - [Rainfall-Runoff Game](./game/)
 
