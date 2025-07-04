@@ -4,22 +4,24 @@ layout: pagelay
 permalink: /game_e/
 ---
 
-# Rainfall-runoff modelling game on *Scratch*
+# **SplashTune!**
+
+(Scratch-based PLAyble Simulator for Hydrograph Tuning)
 
 
 [Japanese version is here](../game/)
 
-#### Learn hydrological processes through game!
-The mechanisms of water dynamics through rainfall on land to water runoff to rivers is called  **rainfall-runoff process.** We have created a **rainfall-runoff modeling game** that allows you to enjoyably learn this process through simulation.
+#### Learn hydrological processes through a game!
+The mechanisms of water dynamics through rainfall on land to water runoff to rivers is called  **rainfall-runoff process.** We have created **"SplashTune"** a rainfall-runoff modeling game that allows you to enjoyably learn this process through simulation.
 
 Please change the surface conditions of the rainfall-runoff model and match the simulated runoff patterns to the "targets" runoff pattern.
 
-Let's learn about the rainfall-runoff process through playing the game. Press the green flag button to start the game. (Note: Sound will be played.)
+Let's learn about the rainfall-runoff process through playing the game. Press the green flag button to start the game. 
 
 
 
 <iframe src="https://scratch.mit.edu/projects/1104059304/embed" allowtransparency="true" width="720" height="460" frameborder="0" scrolling="no" allowfullscreen></iframe>
-Scratch Rainfall-Runoff Modeling Game (v2.1)<br>
+SplashTune (v2.2)<br>
 [Access to source code on Scratch webpage: https://scratch.mit.edu/projects/1104059304](https://scratch.mit.edu/projects/1104059304/)<br> 
 
 ### Rules and How to Play
@@ -28,7 +30,7 @@ The game represents various processes through rainfall in the river basin to run
 
 - When you start the game, the time variation of **precipitation** is displayed as a light blue graph. During the simulation, rain fall happens following the intensity shown in this graph.
 - When the rain reaches the ground, it becomes water particles and moves on land. The movement of water particles is influenced by the state of the land surface.
-- When water particles reach the river, it becomes **runoff**. The goal of the game is to adjust the surface conditions to make the simulated runoff time variation similat to the target graph shown in blue.
+- When water particles reach the river, it becomes **runoff**. The goal of the game is to adjust the surface conditions to make the simulated runoff time variation similar to the target graph shown in blue.
 
 *Note: The time variation graph of precipitation is called "Hyetograph," and the time variation graph of runoff is called "Hydrograph."*
 
@@ -39,12 +41,12 @@ The game represents various processes through rainfall in the river basin to run
 Before starting the simulation, you can change the land surface parts indicated by the pink arrows in the screen by clicking (or tapping).
 
 - You can change the land surface type of the 2 locations from upstream to downstream  (4 locations after stage 5). You can choose from three land types: forest, grassland, and urban area. The movement of water particles varies for each type.
-- You can also change the initial state of **soil wetness**. 0 represents a dry soil condition, and 100 represents a completely wet and saturated soil condition. The soil wetness influence the movement of water particle.
+- You can also change the initial state of **soil wetness**. 0 represents a dry soil condition, and 100 represents a completely wet and saturated soil condition. The soil wetness influences the movement of water particle.
 
 Compare the hyetograph and hydrograph and try to find optimal land surface conditions to get a high score.
 
 #### 3. Running the Simulation
-After setting the land surface conditions, Push the "Click to Start Simulation" button to start the simulation.
+After setting the land surface conditions, Click "Start Simulation" button to start the simulation.
 
 During the simulation, you cannot make any changes, so observe how water particles move.
 
@@ -66,7 +68,7 @@ Analyze the differences between the target and simulation, adjust the surface co
 <img src="{{ site.url }}{{ site.baseurl }}/images/scratch/Scratch_fig03.jpg" width="50%"/>
 
 #### 5. Stage Selection
-Five stages are prepared with different patterns of rainfall and target runoff patterns. Aim for 90 points or higher score in each stage. Please considering how surface type and soil moisture affect the rainfall-runoff process.
+You can try many stages with different patterns of rainfall and target runoff patterns. Aim for 90 points or higher score in each stage. Please consider how surface type and soil moisture affect the rainfall-runoff process.
 
 - Why does urbanization enhances floods?
 - How does the movement of water differ in urban areas, grasslands, and forests?
@@ -86,7 +88,7 @@ If you're unsure how to clear a stage, here are some hints that may be helpful. 
 <a style="cursor:pointer;">▼ Show Hint 1</a>
 </div>
 <div id="open1" style="display:none;clear:both;">
-First, let's check how game works. After you start the game with the green flag, press the "Start Simulation" button. If the blue Target and the pink Simulation are similar, you will get a high score.
+First, let's check how the game works. After you start the game with the green flag, press the "Start Simulation" button. If the blue Target and the pink Simulation are similar, you will get a high score.
 </div>
 
 #### Stage-2
@@ -140,7 +142,7 @@ First, think about how to create the "first runoff peak" where the runoff increa
 <p> &nbsp; </p>
 <p> &nbsp; </p>
 
-### Explanation of the Rainfall-Runoff Modeling Game
+### Explanation of **SplashTune** rainfall-runoff modeling game
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/scratch/Scratch_fig04e.jpg" width="50%"/>
 
@@ -169,7 +171,7 @@ The rainfall-runoff modeling game was developed using the educational programmin
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/scratch/Scratch_fig05e.jpg" width="50%"/>
 
-Access the source code published on Scratch
+Access the **SplashTune** source code published on Scratch
 - [Latest v2.1 (https://scratch.mit.edu/projects/1104059304)](https://scratch.mit.edu/projects/1104059304)<br> 
 - [Simple v1.1 (https://scratch.mit.edu/projects/864115525/)](https://scratch.mit.edu/projects/864115525/)<br><br>
 
@@ -192,14 +194,14 @@ Note: This paper is based on the initial version v1.0.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/scratch/Scratch_fig06.jpg" width="35%"/>
 
-The Developed rainfall-runoff modeling game is released under the Creative Commons: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license and can be freely used. Below are some simple guidelines:
+The **SplashTune** rainfall-runoff modeling game is released under the Creative Commons: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license and can be freely used. Below are some simple guidelines:
 
-- If you want to use the rainfall-runoff game for school education or university open campus events, feel free to use it with proper attribution. While not mandatory, it would be appreciated if you could inform us via email when using it.
-  * Attribution method: Explicity state that the game is "Developed by Yamazaki Laboratory, Institute of Industrial Science, The University of Tokyo". If possible, include the webpage information "UTokyo-IIS Yamazaki Lab: [https://global-hydrodynamics.github.io/game_e/](https://global-hydrodynamics.github.io/game_e/)."
-- If you plan to conduct research activities using this game, such as demonstrating educational effectiveness , please contact us by email in advance. (We welcome collaborative research.)
-- If you wish to develop educational tools or research tools based on this game, please consult with us via email. (We are looking for collaborators and partners for joint development.)
+- If you want to use **SplashTune** for school education or university open campus events, feel free to use it with proper attribution. While not mandatory, it would be appreciated if you could inform us via email when using it.
+  * Attribution method: Explicitly state that the game is "Developed by Yamazaki Laboratory, Institute of Industrial Science, The University of Tokyo". If possible, include the webpage information "UTokyo-IIS Yamazaki Lab: [https://global-hydrodynamics.github.io/game_e/](https://global-hydrodynamics.github.io/game_e/)."
+- If you plan to conduct research activities using **SplashTune**, such as demonstrating educational effectiveness , please contact us by email in advance. (We welcome collaborative research.)
+- If you wish to develop educational tools or research tools based on **SplashTune**, please consult with us via email. (We are looking for collaborators and partners for joint development.)
 
-For any inquiries regarding the rainfall-runoff modeling game, including the ones mentioned above, please contact Professor Yamazaki by email.
+For any inquiries regarding **SplashTune** rainfall-runoff modeling game, including the ones mentioned above, please contact Professor Yamazaki by email.
 
 *Dai Yamazaki (Associate Professor, Institute of Industrial Science, University of Tokyo) <br>
 Email: yamadai [at] iis.u-tokyo.ac.jp*

@@ -4,7 +4,7 @@ layout: pagelay
 permalink: /game/
 ---
 
-# **SplashTune**
+# **SplashTune!**
 
 (Scratch-based PLAyble Simulator for Hydrograph Tuning)
 
@@ -19,20 +19,8 @@ permalink: /game/
 ゲームをプレイしながら、降雨-流出プロセスを学んでみましょう。<br>
 緑旗のボタンを押すとゲームがスタートします。
 
-<div style="position: relative; padding-bottom: 64%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-  <iframe src="https://scratch.mit.edu/projects/1104059304/embed"
-          allowtransparency="true"
-          frameborder="0"
-          scrolling="no"
-          allowfullscreen
-          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-  </iframe>
-</div>
-
-テスト
-
 <iframe src="https://scratch.mit.edu/projects/1104059304/embed" allowtransparency="true" width="720" height="460" frameborder="0" scrolling="no" allowfullscreen></iframe>
-SplashTune (v2.1)<br>
+SplashTune (v2.2)<br>
 [Scratchのソースコードにアクセスする:  https://scratch.mit.edu/projects/1104059304/](https://scratch.mit.edu/projects/1104059304/)<br> 
 
 ### ルールと遊びかた
@@ -77,7 +65,7 @@ SplashTune (v2.1)<br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/scratch/Scratch_fig03.jpg" width="50%"/>
 
 #### 5. ステージ選択 
-降雨とターゲット流出量のパターンが異なる５つのステージが用意されています。それぞれのステージで90点以上を目指しながら、地表面タイプや土壌水分が降雨流出プロセスにどのような影響を与えるか考えてみましょう。
+降雨とターゲット流出量のパターンが異なるステージが用意されています。それぞれのステージで90点以上を目指しながら、地表面タイプや土壌水分が降雨流出プロセスにどのような影響を与えるか考えてみましょう。
 
 - 都市化すると洪水が起きやすくなるのはどうしてでしょうか？
 - 都市・草地・森林で水の動きはどう異なるでしょうか？
@@ -152,7 +140,7 @@ Stage-5からは、地表面タイルの数が４つに増え難易度が上が�
 <p> &nbsp; </p>
 
 
-### 降雨-流出モデリングゲームの解説
+### 降雨-流出モデリングゲーム**SplashTune**の解説
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/scratch/Scratch_fig04.jpg" width="50%"/>
 
@@ -180,7 +168,7 @@ Stage-5からは、地表面タイルの数が４つに増え難易度が上が�
 より高いスコアを目指してシミュレーションを繰り返すうちに、「都市化したら洪水が増える」という関係性を学ぶだけでなく、その背景にあるプロセスの理解も進むと考えています。<br><br>
 
 #### ゲームを作る楽しさにも触れてみよう
-降雨-流出モデリングゲームは、教育用プログラミング言語Scratchで開発されています。ソースコードはScratchで公開されています。ゲームが動く仕組みをのぞいてみるだけでなく、地表面タイプを追加したり、もっと難しいステージを作ったりできます。
+**SplashTune**は、教育用プログラミング言語Scratchで開発されています。ソースコードはScratchで公開されています。ゲームが動く仕組みをのぞいてみるだけでなく、地表面タイプを追加したり、もっと難しいステージを作ったりできます。
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/scratch/Scratch_fig05.jpg" width="50%"/>
 
@@ -191,7 +179,7 @@ Scratch で公開している**SplashTune**のソースコードにアクセス�
 もし「面白いステージを思いついたので紹介したい」という場合は、開発者の山崎までご連絡ください。ページの一番下にメールアドレスが書いてあります。<br><br>
 
 #### 論文でより詳しく知りたい
-降雨-流出モデリングゲームの開発については、学術論文として水文・水資源学会に発表しています。開発の背景・降雨流出モデルで考慮している要素・ゲームの教育効果などが説明されています。興味がある方は読んでみてください。
+降雨-流出モデリングゲーム**SplashTune**の開発については、学術論文として水文・水資源学会に発表しています。開発の背景・降雨流出モデルで考慮している要素・ゲームの教育効果などが説明されています。興味がある方は読んでみてください。
 
 *山崎 大, 岡田 実奈美, 矢澤 大志 (2024) <br>
 教育用プログラム言語Scratchを用いた降雨流出モデリングゲームの開発とその水文学教育への利用可能性<br>
@@ -203,19 +191,19 @@ Scratch で公開している**SplashTune**のソースコードにアクセス�
 <p> &nbsp; </p>
 <p> &nbsp; </p>
 
-### ゲームを教育/研究などに利用したい
+### **SplashTune**を教育/研究などに利用したい
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/scratch/Scratch_fig06.jpg" width="35%"/>
 
-開発した降雨-流出モデリングゲームは、Creative Commons: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)ライセンスで公開されており、基本的には自由に利用いただいて構いません。<br>
+開発した降雨-流出モデリングゲーム**SplashTune**は、Creative Commons: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)ライセンスで公開されており、基本的には自由に利用いただいて構いません。<br>
 以下に簡単なガイドラインを示します。
 
-- **学校教育や大学オープンキャンパスで降雨流出ゲームを用いたい場合**は、出典を明示した上で自由に利用いただいて構いません。必須ではありませんが、利用する場合はメールにて連絡いただけると嬉しいです。<br>
+- **学校教育や大学オープンキャンパスでSplashTuneを用いたい場合**は、出典を明示した上で自由に利用いただいて構いません。必須ではありませんが、利用する場合はメールにて連絡いただけると嬉しいです。<br>
   *出典の記載方法：「東京大学生産技術研究所 山崎研究室が開発」と記載してください。可能であれば、WebPage URL「UTokyo-IIS Yamazaki Lab: [https://global-hydrodynamics.github.io/game/](https://global-hydrodynamics.github.io/game/)」*　も示してください。
-- **この降雨流出モデリングゲームを用いて教育効果実証などの研究活動を行いたい場合**は、事前にメール連絡してください。（共同研究を歓迎します）
-- **このゲームを発展させて教育ツールや研究ツールを開発したい場合**も、メールにて相談してください。（共同開発者や共同事業者となってくれる方を探しています）
+- **SplashTuneを用いて教育効果実証などの研究活動を行いたい場合**は、事前にメール連絡してください。（共同研究を歓迎します）
+- **SplashTuneを発展させて教育ツールや研究ツールを開発したい場合**も、メールにて相談してください。（共同開発者や共同事業者となってくれる方を探しています）
 
-上記を含めて、降雨流出モデリングゲームについての問い合わせは、山崎までメールにて連絡をお願いします。
+上記を含めて、降雨流出モデリングゲーム**SplashTune**についての問い合わせは、山崎までメールにて連絡をお願いします。
 
 *山崎 大 (東京大学生産技術研究所 准教授) <br>
 yamadai [at] iis.u-tokyo.ac.jp*
