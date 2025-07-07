@@ -19,9 +19,9 @@ permalink: /game/
 ゲームをプレイしながら、降雨-流出プロセスを学んでみましょう。<br>
 緑旗のボタンを押すとゲームがスタートします。
 
-<iframe src="https://scratch.mit.edu/projects/1104059304/embed" allowtransparency="true" width="720" height="460" frameborder="0" scrolling="no" allowfullscreen></iframe>
-SplashTune (v2.2)<br>
-[Scratchのソースコードにアクセスする:  https://scratch.mit.edu/projects/1104059304/](https://scratch.mit.edu/projects/1104059304/)<br> 
+<iframe src="https://scratch.mit.edu/projects/1194996537/embed" allowtransparency="true" width="720" height="460" frameborder="0" scrolling="no" allowfullscreen></iframe>
+SplashTune (v2.3)<br>
+[Scratchのソースコードにアクセスする:  https://scratch.mit.edu/projects/1194996537/](https://scratch.mit.edu/projects/1194996537/)<br> 
 
 ### ルールと遊びかた
 #### 1. ゲームの目的
@@ -173,7 +173,7 @@ Stage-5からは、地表面タイルの数が４つに増え難易度が上が�
 <img src="{{ site.url }}{{ site.baseurl }}/images/scratch/Scratch_fig05.jpg" width="50%"/>
 
 Scratch で公開している**SplashTune**のソースコードにアクセスする。
-- [最新版v2.1 (https://scratch.mit.edu/projects/1104059304)](https://scratch.mit.edu/projects/1104059304)<br> 
+- [最新版v2.3 (https://scratch.mit.edu/projects/1194996537)](https://scratch.mit.edu/projects/1194996537)<br> 
 - [シンプル版v1.1 (https://scratch.mit.edu/projects/864115525/)](https://scratch.mit.edu/projects/864115525/)<br><br>
 
 もし「面白いステージを思いついたので紹介したい」という場合は、開発者の山崎までご連絡ください。ページの一番下にメールアドレスが書いてあります。<br><br>
