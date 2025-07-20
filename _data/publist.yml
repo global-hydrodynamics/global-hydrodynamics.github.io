@@ -1,5 +1,29 @@
 ## Yamazaki Lab work
 
+- ID: Y43)
+  title: "Sea level rise amplifies fluvial flooding in coastal megacities: a multi-scenario analysis"
+  image:
+  authors: "Prakat Modi, Yukiko Hirabayashi, Dai Yamazaki"
+    description:
+  link:
+    url: https://doi.org/10.3178/hrl.24-00032
+    display: "Hydrological Research Letters 19(2), 101–106, 2025, DOI: 10.3178/hrl.24-00032"
+  highlight: 0
+  dlab: 1
+  news2:
+
+- ID: Y42)
+  title: "Climate change and ENSO significantly enhances seasonal flood occurrence in the Ganges-Brahmaputra-Meghna basin"
+  image:
+  authors: "Shahab Uddin, Dai Yamazaki, Anna Lintern, Menaka Revel, Prakat Modi"
+    description:
+  link:
+    url: https://doi.org/10.1016/j.jhydrol.2025.133207
+    display: "Journal of Hydrology, 658, 113207, 2025, DOI: 10.1016/j.jhydrol.2025.133207"
+  highlight: 0
+  dlab: 1
+  news2:
+
 ## FY2025
 ## FY2024
 - ID: Y41)
@@ -511,21 +535,46 @@
 ### Collaboration work ###
 
 
+
+- ID: C81)
+  title: "Dynamics-constrained rainfall projection reveals substantial increase in 1 population exposure to unprecedented floods in the North China Plain"
+  image:
+  authors: "Long Yang, Jinghan Zhang, Fang Zhao, Daniel Wright, Chao Li, Dai Yamazaki, Xuezhi Tan, Miao Yu, Quan J. Wang & Fuqiang Tian"
+  description:
+  link:
+    url: https://doi.org/10.1038/s43247-025-02457-0
+    display: "Communications Earth & Environment volume 6, 482, 2025, DOI: 10.1038/s43247-025-02457-0"
+  highlight: 0
+  dlab: 0
+  news2:
+
+
+- ID: C80)
+  title: "Mapping the world's river levees: A hyper‐resolution levee database based on digital elevation models"
+  image:
+  authors: "Do Ngoc Khanh, Yugo Tsumura, Orie Sasaki, Kazuma Shiraishi, Daiki Akimoto, Dai Yamazaki, Gang Zhao, and Yukiko Hirabayashi"
+  description:
+  link:
+    url: https://doi.org/10.1029/2024GL114121
+    display: "Geophysical Research Letters, 52, e2024GL114121, DOI: 10.1029/2024GL114121"
+  highlight: 0
+  dlab: 0
+  news2:
+
 - ID: C79)
   title: "Mapping the world’s inland surface waters: an update to the Global Lakes and Wetlands Database (GLWD v2)"
   image:
   authors: "Bernhard Lehner, Mira Anand, Etienne Fluet-Chouinard, Florence Tan, Filipe Aires, George H. Allen, Pilippe Bousquet, Josep G. Canadell, Nick Davidson, C. Max Finlayson, Thomas Gumbricht, Lammert Hilarides, Gustaf Hugelius, Robert B. Jackson, Maartje C. Korver, Peter B. McIntyre, Szabolcs Nagy, David Olefeldt, Tamlin M. Pavelsky, Jean-Francois Pekel, Benjamin Poulter, Catherine Prigent, Jida Wang, Thomas A. Worthington, Dai Yamazaki, and Michele Thieme"
   description:
   link:
-    url: 
-    display: "Earth System Science Data, 2025, (accepted)"
+    url: https://doi.org/10.5194/essd-17-2277-2025
+    display: "Earth System Science Data, 17, 2277-2329, 2025, DOI: 10.5194/essd-17-2277-2025"
   highlight: 0
   dlab: 0
   news2:
 
 ## FY2025
 ## FY2024
-
 
 - ID: C78)
   title: "Coordination of natural and built infrastructure to better manage extreme events: a hydro-finance modeling framework"
