@@ -1,10 +1,9 @@
 ## Yamazaki Lab work
-
 - ID: Y43)
   title: "Sea level rise amplifies fluvial flooding in coastal megacities: a multi-scenario analysis"
   image:
   authors: "Prakat Modi, Yukiko Hirabayashi, Dai Yamazaki"
-    description:
+  description:
   link:
     url: https://doi.org/10.3178/hrl.24-00032
     display: "Hydrological Research Letters 19(2), 101–106, 2025, DOI: 10.3178/hrl.24-00032"
@@ -16,7 +15,7 @@
   title: "Climate change and ENSO significantly enhances seasonal flood occurrence in the Ganges-Brahmaputra-Meghna basin"
   image:
   authors: "Shahab Uddin, Dai Yamazaki, Anna Lintern, Menaka Revel, Prakat Modi"
-    description:
+  description:
   link:
     url: https://doi.org/10.1016/j.jhydrol.2025.133207
     display: "Journal of Hydrology, 658, 113207, 2025, DOI: 10.1016/j.jhydrol.2025.133207"
@@ -534,8 +533,6 @@
 ######################################################################################
 ### Collaboration work ###
 
-
-
 - ID: C81)
   title: "Dynamics-constrained rainfall projection reveals substantial increase in 1 population exposure to unprecedented floods in the North China Plain"
   image:
@@ -547,7 +544,6 @@
   highlight: 0
   dlab: 0
   news2:
-
 
 - ID: C80)
   title: "Mapping the world's river levees: A hyper‐resolution levee database based on digital elevation models"
