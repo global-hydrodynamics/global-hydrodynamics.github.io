@@ -1,4 +1,64 @@
 ## Yamazaki Lab work
+- ID: Y48)
+  title: "Evaluation of a width-based satellite discharge algorithm for detecting longitudinal flow changes in a human-regulated continental river basin"
+  image:
+  authors: "Yuki Ishikawa, Dai Yamazaki, Yuting Yang"
+  description:
+  link:
+    url: https://doi.org/10.1029/2024GL114191
+    display: "Geophysical Research Letters, 52, e2024GL114191, DOI: 10.1029/2024GL114191"
+  highlight: 0
+  dlab: 1
+  news2:
+
+- ID: Y47)
+  title: "Reduction of the uncertainty of flood projection under a future climate by focusing on similarities among multiple SSP-RCP scenarios"
+  image:
+  authors: "Yuki Kimura, Dai Yamazaki, Yukiko Hirabayashi"
+  description:
+  link:
+    url: https://doi.org/10.1038/s41598-025-16327-4
+    display: "Scientific Reports, 15, 31614,2025, DOI: 10.1038/s41598-025-16327-4"
+  highlight: 0
+  dlab: 1
+  news2:
+
+- ID: Y46)
+  title: "Resolving land cover heterogeneity along hillslope improves simulation of terrestrial water and energy budgets"
+  image:
+  authors: "Shuping Li, Dai Yamazaki, Tomohiro Tozawa, Kota Adachi, Tomoko Nitta, Gang Zhao, Xudong Zhou, Kei Yoshimura"
+  description:
+  link:
+    url: https://doi.org/10.1029/2025WR040706
+    display: "Water Resources Research, 61, e2025WR040706, 2025, DOI: 10.1029/2025WR040706"
+  highlight: 0
+  dlab: 1
+  news2:
+
+- ID: Y45)
+  title: "Improving 2D hydraulic modelling in floodplain areas with ICESat-2 data: A case study in the Upstream Yellow River"
+  image:
+  authors: "Monica Coppo Frías, Suxia Liu, Xingguo Mo, Daniel Druce, Dai Yamazaki, Aske Folkmann Musaeus, Karina Nielsen, Peter Bauer-Gottwein"
+  description:
+  link:
+    url: https://doi.org/10.1016/j.rse.2025.115008
+    display: "Remote Sensing of Environment, 331, 115008, 2025, DOI: 10.1016/j.rse.2025.115008"
+  highlight: 0
+  dlab: 1
+  news2:
+
+- ID: Y44)
+  title: "Developing a Levee Module for Global Flood Modeling With a Reach‐Level Parameterization Approach"
+  image:
+  authors: "Gang Zhao, Dai Yamazaki, Yoshiaki Tanaka, Xudong Zhou, Shuping Li, Yang Hu, Yukiko Hirabayashi, Jeff Neal, Paul Bates"
+  description:
+  link:
+    url: https://doi.org/10.1029/2024WR039790
+    display: "Water Resources Research, 61, e2024WR039790, 2025, DOI: 10.1029/2024WR039790"
+  highlight: 0
+  dlab: 1
+  news2:
+
 - ID: Y43)
   title: "Sea level rise amplifies fluvial flooding in coastal megacities: a multi-scenario analysis"
   image:
@@ -532,6 +592,17 @@
 
 ######################################################################################
 ### Collaboration work ###
+- ID: C82)
+  title: "Satellite Requirements to Capture Water Propagation in Earth's Rivers"
+  image:
+  authors: "A. Cerbelaud,  C. H. David,  T. Pavelsky,  S. Biancamaria,  P.-A. Garambois,  C. Kittel,  F. Papa,  P. Bates,  M. J. Tourian,  M. Durand,  R. Frasson,  H. Oubanas,  M. Simard,  G. Schumann,  G. Allen,  A. Tarpanelli,  S. Wongchuig,  J. Wade,  M. Tom,  P.-O. Malaterre,  C. J. Gleason,  J.-F. Crétaux,  K. Nielsen,  O. Elmi,  C. Schwatke,  D. Scherer,  L. Gal,  A. Paris,  A. Dasgupta,  S. Munier,  D. Feng,  P. Bauer-Gottwein,  F. Hossain,  D. Yamazaki,  B. Kitambo,  S. Mischel,  M. Bonnema,  K. Verma,  K. Andreadis,  N. Picot,  J. Benveniste"
+  description:
+  link:
+    url: https://doi.org/10.1029/2024RG000871
+    display: "Reviews of Geophysics, 63, e2024RG000871, 2025, DOI: 10.1029/2024RG000871"
+  highlight: 0
+  dlab: 0
+  news2:
 
 - ID: C81)
   title: "Dynamics-constrained rainfall projection reveals substantial increase in 1 population exposure to unprecedented floods in the North China Plain"
@@ -552,7 +623,7 @@
   description:
   link:
     url: https://doi.org/10.1029/2024GL114121
-    display: "Geophysical Research Letters, 52, e2024GL114121, DOI: 10.1029/2024GL114121"
+    display: "Geophysical Research Letters, 52, e2024GL114121, 2025, DOI: 10.1029/2024GL114121"
   highlight: 0
   dlab: 0
   news2:
