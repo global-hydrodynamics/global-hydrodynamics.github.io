@@ -1,13 +1,13 @@
 ## Yamazaki Lab work
 - ID: Y48)
   title: "Evaluation of a width-based satellite discharge algorithm for detecting longitudinal flow changes in a human-regulated continental river basin"
-  image:
+  image: 2025Ishikawa_LandsatQ.jpg
   authors: "Yuki Ishikawa, Dai Yamazaki, Yuting Yang"
   description:
   link:
     url: https://doi.org/10.1029/2024GL114191
     display: "Geophysical Research Letters, 52, e2024GL114191, DOI: 10.1029/2024GL114191"
-  highlight: 0
+  highlight: 1
   dlab: 1
   news2:
 
