@@ -1,4 +1,40 @@
 ## Yamazaki Lab work
+- ID: Y51)
+  title: "Global spatially-distributed sectoral GDP map for disaster risk analysis"
+  image: 
+  authors: "Takeshi Shoji, Kiyoharu Kajiyama, Dai Yamazaki, Yuki Kita, and Megumi Watanabe"
+  description:
+  link:
+    url: https://doi.org/10.5194/essd-17-6669-2025
+    display: "Earth System Science Data, 17(12), 6669–6680, 2025, DOI: 10.5194/essd-17-6669-2025"
+  highlight: 0
+  dlab: 1
+  news2:
+
+- ID: Y50)
+  title: "Two recent mega dams reshape Yangtze river hydrology with comparable impact to Three Gorges Dam"
+  image: 
+  authors: "Youjiang Shen, Dai Yamazaki, Yadu Pokhrel, Gang Zhao, Huy Dang"
+  description:
+  link:
+    url: https://doi.org/10.1016/j.ejrh.2025.103017
+    display: "Journal of Hydrology: Regional Studies, 62, 103017, 2025, DOI: 10.1016/j.ejrh.2025.103017"
+  highlight: 0
+  dlab: 1
+  news2:
+
+- ID: Y49)
+  title: "How Spatial Resolutions Impact the Large-Scale River Hydrodynamic Model Simulations: Analysis Focuses on Model Physics"
+  image: 
+  authors: "Prakat Modi, Dai Yamazaki, Yukiko Hirabayashi, Menaka Revel, Xudong Zhou"
+  description:
+  link:
+    url: https://doi.org/10.1029/2025MS004961
+    display: "Journal of Advances in Modeling Earth Systems, 17, e2025MS004961. 2025, DOI: 10.1029/2025MS004961"
+  highlight: 0
+  dlab: 1
+  news2:
+
 - ID: Y48)
   title: "Evaluation of a width-based satellite discharge algorithm for detecting longitudinal flow changes in a human-regulated continental river basin"
   image: 2025Ishikawa_LandsatQ.jpg
@@ -6,7 +42,7 @@
   description:
   link:
     url: https://doi.org/10.1029/2024GL114191
-    display: "Geophysical Research Letters, 52, e2024GL114191, DOI: 10.1029/2024GL114191"
+    display: "Geophysical Research Letters, 52, e2024GL114191, 2025, DOI: 10.1029/2024GL114191"
   highlight: 1
   dlab: 1
   news2:
@@ -592,6 +628,18 @@
 
 ######################################################################################
 ### Collaboration work ###
+- ID: C83)
+  title: "Assessment of JULES Land Surface Model Coupled With CaMa-Flood for an Operational Streamflow Forecasting Across Australia"
+  image:
+  authors: "Fitsum Woldemeskel, Christoph Rüdiger, Dai Yamazaki, Siyuan Tian, Huqiang Zhang, Toby Marthews, Jiawei Hou, Wendy Sharples, Chun-Hsu Su, Martin Best, Elisabetta Carrara"
+  description:
+  link:
+    url: https://doi.org/10.1002/hyp.70345
+    display: "Hydrological Processes 39, no. 12: e70345, 2025, DOI: 10.1002/hyp.70345"
+  highlight: 0
+  dlab: 0
+  news2:
+
 - ID: C82)
   title: "Satellite Requirements to Capture Water Propagation in Earth's Rivers"
   image:
