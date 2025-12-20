@@ -92,7 +92,7 @@ We host CaMa-Flood developer/user international meeting, every two years (approx
 
 The first CaMa-Flood meeting was held on 5th and 6th July, 2024 (Friday and Saturday) at the Institute of Industrial Science, The University of Tokyo. [Meeting webpage is here](./cmf-meet-2024/)
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/picture/cmf-meet2024.jpg" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picture/cmf-meet2024.jpg" width="80%"/>
 
 Also, we are planning to host "Advances in Global River Modeling" session in AOGS2025 (August 2025, Singapore)
 
