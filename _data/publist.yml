@@ -1,4 +1,18 @@
 ## Yamazaki Lab work
+- ID: Y52)
+  title: "Advancing global river hydrodynamics simulations by catchment-based macro-scale floodplain modeling approach"
+  image: 2011Yamazaki_CaMa.jpg
+  authors: "Dai Yamazaki"
+  image: 2025Ishikawa_LandsatQ.jpg
+
+  description:
+  link:
+    url: https://doi.org/10.1186/s40562-025-00452-z
+    display: "Geoscience Letters, 12, 72, 2025, DOI: 10.1186/s40562-025-00452-z"
+  highlight: 1
+  dlab: 1
+  news2:
+
 - ID: Y51)
   title: "Global spatially-distributed sectoral GDP map for disaster risk analysis"
   image: 
@@ -628,6 +642,18 @@
 
 ######################################################################################
 ### Collaboration work ###
+- ID: C84)
+  title: "Past and future change in global river flows"
+  image:
+  authors: "Lukas Gudmundsson, Manuela I. Brunner, Petra Döll, Etienne Fluet-Chouinard, Natalia Frolova, Simon N. Gosling, Yukiko Hirabayashi 9, Maria B. Kireeva, Xiaomang Liu, Hannes Müller Schmied, Dmitriy Magritskiy, Louise J. Slater, Lina Stein, Yves Tramblay, Kaiwen Wang, Conrad Wasko, Dai Yamazaki & Xudong Zhou"
+  description:
+  link:
+    url: https://doi.org/10.1038/s43017-025-00745-z
+    display: "Nature reviews earth & environment, published online, 2025, DOI: 10.1038/s43017-025-00745-z"
+  highlight: 0
+  dlab: 0
+  news2:
+
 - ID: C83)
   title: "Assessment of JULES Land Surface Model Coupled With CaMa-Flood for an Operational Streamflow Forecasting Across Australia"
   image:
