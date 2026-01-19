@@ -14,7 +14,7 @@ The primary focus of the 2025 annual briefing is to introduce and share **resear
 
 <span style="color: red">
 Registration is now open.  
-Please register via the <a href="https://forms.gle/3KNJBdPmpwTV8iUj9" target="_blank">online registration form</a> by <strong>21 February 2026</strong>.
+Please register to have presentation via the <a href="https://forms.gle/3KNJBdPmpwTV8iUj9" target="_blank">online registration form</a> by <strong>14 February 2026</strong>.
 </span>
 
 **Note:** If you are unable to attend the meeting on **13 March 2026**, a **pre-recorded video presentation** is also welcome.  
