@@ -105,7 +105,7 @@ Please submit the summary in an **editable format** (e.g., **MS Word or equivale
 The organizing team will take care of **formatting, layout, and overall design** to ensure consistency across contributions, based on the style of the previous annual report.
 
 If you are unsure whether your achievement fits within the scope of the meeting, please feel free to contact the organizing team  
-(yamazaki [at] iis.u-tokyo.ac.jp).
+(yamadai [at] iis.u-tokyo.ac.jp).
 
 <p> &nbsp; </p>
 
