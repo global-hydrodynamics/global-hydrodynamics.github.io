@@ -73,7 +73,7 @@ We host a monthly public seminar series called the **“Hydrosphere Science Semi
 This is a joint seminar organized by the **UTokyo Hydrosphere Environment Group**.  
 Anyone interested in our activities is welcome. Please visit the seminar webpage for more detailed information.
 
-- [UTokyo Hydrosphere Science Seminar](https://tiny.cc/UT-HydroSeminar)
+- [UTokyo Hydrosphere Science Seminar](https://sites.google.com/view/ut-hydro-seminar)
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/picture/HSS_seminar.png" width="80%"/>
 
