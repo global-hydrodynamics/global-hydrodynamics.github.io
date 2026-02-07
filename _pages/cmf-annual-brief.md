@@ -21,7 +21,7 @@ Please register to have presentation via the <a href="https://forms.gle/3KNJBdPm
 This is a good opportunity to showcase your achievements within the CaMa-Flood community.  
 For video presentations, please make sure to **register using the same online registration form**.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/slider/CaMa_model.jpg" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/slider/CaMa_model.jpg" width="80%" />
 
 ---
 

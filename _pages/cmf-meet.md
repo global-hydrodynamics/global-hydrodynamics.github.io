@@ -1,7 +1,7 @@
 ---
 title: "CaMa-Flood meeting 2024"
 layout: pagelay
-permalink: /cmf-meet-2024/
+permalink: /cmf-meet/
 ---
 
 # CaMa-Flood developer/user international meeting 2024

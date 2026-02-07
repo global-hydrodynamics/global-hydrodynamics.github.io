@@ -197,7 +197,7 @@ Note: This paper is based on the initial version v1.0.
 The **SplashTune** rainfall-runoff modeling game is released under the Creative Commons: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license and can be freely used. Below are some simple guidelines:
 
 - If you want to use **SplashTune** for school education or university open campus events, feel free to use it with proper attribution. While not mandatory, it would be appreciated if you could inform us via email when using it.
-  * Attribution method: Explicitly state that the game is "Developed by Yamazaki Laboratory, Institute of Industrial Science, The University of Tokyo". If possible, include the webpage information "UTokyo-IIS Yamazaki Lab: [https://global-hydrodynamics.github.io/game_e/](https://global-hydrodynamics.github.io/game_e/)."
+  * Attribution method: Explicitly state that the game is "Developed by Yamazaki Laboratory, Institute of Industrial Science, The University of Tokyo". If possible, include the webpage information "UTokyo-IIS Yamazaki Lab: [{{ site.url }}{{ site.baseurl }}/game_e/]({{ site.url }}{{ site.baseurl }}/game_e/)."
 - If you plan to conduct research activities using **SplashTune**, such as demonstrating educational effectiveness , please contact us by email in advance. (We welcome collaborative research.)
 - If you wish to develop educational tools or research tools based on **SplashTune**, please consult with us via email. (We are looking for collaborators and partners for joint development.)
 

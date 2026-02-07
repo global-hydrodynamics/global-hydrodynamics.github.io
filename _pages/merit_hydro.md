@@ -207,7 +207,7 @@ By downloading and using the data, users agree to the terms and conditions of th
 Notwithstanding these free licenses, users are requested to refrain from redistributing the data *in whole and in its original format* on other websites without explicit written permission from the authors.
 
 MERIT Hydro is available at:  
-https://global-hydrodynamics.github.io/MERIT_Hydro/
+{{ site.url }}{{ site.baseurl }}/MERIT_Hydro/
 
 The copyright of MERIT Hydro is held by the developers (2019). All rights reserved.
 

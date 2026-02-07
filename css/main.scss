@@ -17,7 +17,7 @@
 }
 
 /* スマホでは余白を控えめに（ハンバーガーが窮屈にならないように） */
-@media (max-width: 992px) {
+@media (max-width: 1200px) {
   .navbar > .container-fluid {
     padding-left: 15px;
     padding-right: 15px;
