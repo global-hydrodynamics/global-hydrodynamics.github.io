@@ -221,5 +221,5 @@ Webページ上でゲームを公開していますので、ぜひ遊んでみ�
 産学連携による洪水リスクの理解と低減を目的として、情報交換および議論の場である「**洪水リスク研究会**」を開催しています。  
 詳細については、以下の資料をご参照ください。
 - [洪水リスク研究会 説明PDF](http://www.iis.u-tokyo.ac.jp/shourei/ResearchCommitte/RC_gazou/rc2022/2022RC-98.pdf)
-- 参加方法については、[生産技術研究奨励会のWebページ](http://www.iis.u-tokyo.ac.jp/shourei/ResearchCommitte/rc-index.html)をご確認ください。
+- 参加方法については、[生産技術研究奨励会のWebページ](http://www.iis.u-tokyo.ac.jp/shourei/ResearchCommitte/rc-index.html) をご確認ください。
 
