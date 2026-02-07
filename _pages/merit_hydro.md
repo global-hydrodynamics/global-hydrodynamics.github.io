@@ -50,7 +50,7 @@ An interactive web-based map is available to explore MERIT Hydro and related hyd
 
 1. Register via the Google Form (license agreement)
 2. Receive the password by email
-3. Download from the the data link.
+3. Access the download page.
 
 ### Registration for Download
 
@@ -73,7 +73,7 @@ The data can be downloaded from
 
 **Note:**  
 *Due to temporary issues with the original web server, the data are currently distributed via Dropbox.*
-*When prompted for access, please enter only the password provided in the registration email; the username is not required.*
+*When prompted for access, please enter **only the password** provided in the registration email; the username is not required.*
 
 ---
 
