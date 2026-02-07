@@ -15,12 +15,16 @@ Our studies mainly focus on the dynamics of terrestrial water on a global scale,
 東京大学 [グローバル水文学グループ](https://utokyo-global-hydrology.github.io/)の一部である山崎研究室（全球陸域水動態研究室）のWebページです。  
 （ページ下部に日本語情報があります）
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/picture/DLab_2024Dec.jpg" width="80%"/>
+
+Group photo in Komaba-2 Campus (Dec 2024)
+
+
 If you are interested in our team, please visit the pages below:
 - [Team member list](./team/)
 - [How to join our team?](./joinus/)
 - [Promotion (lab highlights)](./promotion/)
 - [Monthly Public Seminar](https://tiny.cc/UT-HydroSeminar)
-- [Rainfall-Runoff Game](./game/)
 {% comment %}
  - [Open Campus Posters](https://hydro.iis.u-tokyo.ac.jp/~yamadai/data/doc/YamazakiLab_OpenCampus2023.pdf)
 {% endcomment %}
@@ -32,10 +36,12 @@ Our research activities are summarized in:
 - [List of student academic theses](./student_thesis/)
 - [List of awards](./award/)
 
+Our main research products are here:
+- [CaMa-Flood : Global river model](./CaMa-Flood/)
+- [MERIT Hydro: global river data](./MERIT_Hydro/)
+- [MERIT DEM  : global topography data](./MERIT_DEM/)
+- [SplashTune! Rainfall-Runoff Game](./game/)
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/picture/DLab_2024Dec.jpg" width="80%"/>
-
-Group photo in Komaba-2 Campus (Dec 2024)
 
 <p> &nbsp; </p>
 
