@@ -5,7 +5,9 @@ sitemap: false
 permalink: /CaMa-Flood/
 ---
 
-# CaMa-Flood: Global River Hydrodynamics Model
+# CaMa-Flood
+**Global River Hydrodynamics Model**
+
 **Last update:** 7 Feb, 2026
 The latest package version is **CaMa-Flood v4.20 (20240430)**.  
 
