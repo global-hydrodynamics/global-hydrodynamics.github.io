@@ -295,7 +295,7 @@ If you would like to join the mailing list, please use one of the following meth
 - Join directly via the Google Groups page:  
   <https://groups.google.com/g/cama-flood-user>
 
-- Register via the mailing list registration Google Form:  
+- Register via the Google Form:  
   <https://forms.gle/ziBMvBsPREcTkrDX7>
 
 - Or contact the developer directly by email:  
