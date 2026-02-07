@@ -21,9 +21,9 @@ If you are interested in our team, please visit the pages below:
 - [Promotion (lab highlights)](./promotion/)
 - [Monthly Public Seminar](https://tiny.cc/UT-HydroSeminar)
 - [Rainfall-Runoff Game](./game/)
-
-<-- - [Open Campus Posters](https://hydro.iis.u-tokyo.ac.jp/~yamadai/data/doc/YamazakiLab_OpenCampus2023.pdf) -->
-
+{% comment %}
+ - [Open Campus Posters](https://hydro.iis.u-tokyo.ac.jp/~yamadai/data/doc/YamazakiLab_OpenCampus2023.pdf)
+{% endcomment %}
 
 Our research activities are summarized in:
 - [Research targets and methods](./research/)
