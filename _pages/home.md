@@ -24,7 +24,7 @@ If you are interested in our team, please visit the pages below:
 - [Team member list](./team/)
 - [How to join our team?](./joinus/)
 - [Promotion (lab highlights)](./promotion/)
-- [Monthly Public Seminar](https://tiny.cc/UT-HydroSeminar)
+- [Monthly Public Seminar](https://sites.google.com/view/ut-hydro-seminar)
 {% comment %}
  - [Open Campus Posters](https://hydro.iis.u-tokyo.ac.jp/~yamadai/data/doc/YamazakiLab_OpenCampus2023.pdf)
 {% endcomment %}

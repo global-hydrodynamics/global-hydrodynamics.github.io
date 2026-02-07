@@ -7,93 +7,77 @@ permalink: /joinus/
 
 # How to join us?
 
-We are always looking for new group members with passion, talent and grit. If you love nature and the Earth and want to understand it with data and model, please consider to join us!
+We are always looking for new group members with passion, talent, and perseverance. If you are fascinated by nature and the Earth and wish to understand its dynamics using data and models, we warmly encourage you to consider joining our group.
 
+You will have the opportunity to work on frontier scientific challenges in global hydrodynamics by integrating numerical modelling, satellite remote sensing, and data integration approaches. We aim to understand, describe, and predict the dynamics of terrestrial water systems across a wide range of spatial and temporal scales.
 
-You will have the chance to work on frontier science challenges on global hydrodynamics, combining the model, remote sensing and data integration approach. We are happy to work with you to understand, describe and predict the dynamics of land waters across various spaiial and temporal scales.
+If you are interested, please feel free to contact us by email (yamadai [at] iis.u-tokyo.ac.jp). We are happy to have an informal discussion about potential research projects and research life in our group.
 
-If you are interested in, please contact us by email ( yamadai [at] iis.u-tokyo.ac.jp ). We are happy to chat about potential research projects and research life in our group.
+日本語での説明はページ下部にあります。
 
-日本語での簡単な説明はページ下部にあります。
+<img src="{{ site.url }}{{ site.baseurl }}/images/picture/DLab_20210324.jpg" width="80%" />
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/picture/DLab_20210324.jpg" width="80%"/>
-
-Group photo in Farewell Gathering @ Komaba-2 Campus (March 2021)
+Group photo at a farewell gathering, Komaba-II Campus (March 2021)
 
 ## Current open positions
 
-**Note: We currently don't have funding for additional Postdoc and PhD positions. However, we can welcome Postdoc if you have a fellowship. Students must have a scholarship or be self-funded. We are happy to support you after you apply to our group.**
+**Note:** We currently do not have funding for additional postdoctoral or PhD positions. However, we can host postdoctoral researchers who have secured their own fellowships. Prospective students are expected to have a scholarship or be self-funded. We are happy to provide support after you apply to our group.
 
-### Application to Postdoc position
+### Application to postdoctoral positions
 
-If you want to join us as a posdoc, please email us first (we sometimes have potential post positions not announced yet). Also, we can chat about the possibility of applying to a fellowship:
+If you wish to join us as a postdoctoral researcher, please contact us by email first (as potential opportunities are not always publicly advertised). We are also happy to discuss the possibility of applying for external fellowships.
 
-**For international postdoc: You can apply to the [JSPS International  Fellowship](https://www.jsps.go.jp/english/e-inv_researchers/index.html).** Please contact to us at least two months before the JSPS deadline of JSPS, because U-Tokyo internal deadline is 1 month earlier than that.
+**For international postdoctoral researchers:** You may apply for the [JSPS International Fellowship](https://www.jsps.go.jp/english/e-inv_researchers/index.html). Please contact us at least two months before the JSPS deadline, as the internal deadline at the University of Tokyo is typically one month earlier.
 
-**For Japanese postdoc: Please consider applying to [JSPS Postdoctoral Fellowship](https://www.jsps.go.jp/j-pd/).** Please contact to us in advance if you are applying for the fellowship.
+**For Japanese postdoctoral researchers:** Please consider applying for the [JSPS Postdoctoral Fellowship](https://www.jsps.go.jp/j-pd/). We recommend contacting us well in advance if you plan to apply.
 
-### Application to PhD and Master courses
-If you are interested in working with us as a PhD or master student, please consider apply to the [Department of Civil Engineering, Graduate School of Engineering, The University of Tokyo](http://www.civil.t.u-tokyo.ac.jp/en/) or to the [Graduate Program of Environmental Sciences (Grad School of Arts and Sciences)](https://gpes.c.u-tokyo.ac.jp/index.html).
+### Application to PhD and Master’s courses
 
-#### International Student Program at Dpt. Civil Engineering
+If you are interested in joining us as a PhD or Master’s student, please apply through either the  
+[Department of Civil Engineering, Graduate School of Engineering, The University of Tokyo](http://www.civil.t.u-tokyo.ac.jp/en/)  
+or the  
+[Graduate Program of Environmental Sciences, Graduate School of Arts and Sciences](https://gpes.c.u-tokyo.ac.jp/index.html).
 
-If you are non-Japanese and living outside in Japan, please apply to the international scholarship program of Department of Civil Engineering through [FSO (Foreign Student Office)](http://www.civil.t.u-tokyo.ac.jp/en/admission/). The information on applicable scholarships and application timings are shown in the FSO webpage. Typical examples of applicable scholarships are:
+#### International student program (Department of Civil Engineering)
 
-- MEXT scholarship (University Recommendation): Apply through FSO
-- MEXT scholarship (Embassy Recommendation): Apply through Japanese Embassy in your country.
-- CSC scholarship (Chinese only): Apply through FSO, and approval by CSC.
-- Other external scholarships : Please contact me if you want to join us with an external scholarship (or as self-funded student).
+If you are a non-Japanese student residing outside Japan, please apply through the international scholarship program of the Department of Civil Engineering via the [Foreign Student Office (FSO)](http://www.civil.t.u-tokyo.ac.jp/en/admission/). Information on available scholarships and application schedules is provided on the FSO website. Typical examples include:
 
-#### Entrance exam to Dpt. Civil Engineering.
+- MEXT Scholarship (University Recommendation): apply through FSO  
+- MEXT Scholarship (Embassy Recommendation): apply through the Japanese Embassy in your country  
+- CSC Scholarship (for Chinese students): apply through FSO and obtain approval from CSC  
+- Other external scholarships: please contact us if you wish to join with external funding or as a self-funded student
 
-If you are Japanese (or Foreigner living in Japan), please take [entrance exam](http://www.civil.t.u-tokyo.ac.jp/graduate_school/) of Graduate School of Engineering, The University of Tokyo. The entrance exam is held in late August every year. For detailed information, please check the UT-Civil entrance exam page.
+#### Entrance examination (Department of Civil Engineering)
 
-#### Graduate Program of Environmental Sciences in Grad School of Art and Science.
+If you are Japanese or a foreign resident in Japan, please take the [entrance examination](http://www.civil.t.u-tokyo.ac.jp/graduate_school/) of the Graduate School of Engineering, The University of Tokyo. The examination is usually held in late August each year. For details, please refer to the official entrance examination webpage.
 
-We can also take students from GPES (Graduate School of Environmental Sciences in Grad School of Art and Science). [Application information to GPES program is available here](https://gpes.c.u-tokyo.ac.jp/how-to-apply/index.html).
+#### Graduate Program of Environmental Sciences (GPES)
 
+We also accept students through the Graduate Program of Environmental Sciences in the Graduate School of Arts and Sciences. Application information is available [here](https://gpes.c.u-tokyo.ac.jp/how-to-apply/index.html).
 
-### Visitor for collaborative research
+### Visitors for collaborative research
 
-We also welcome visitors for research collaboration (sabbatical, visiting scholar/student, internship, etc.) Please contact us if you have a plan, and we can discuss about the plan and possibility.
+We welcome visitors for collaborative research, including sabbatical stays, visiting scholars or students, and internships. If you have a concrete plan, please contact us and we will be happy to discuss the possibilities.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/picture/StudentRoom.jpg" width="80%"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picture/StudentRoom.jpg" width="80%" />
 
-Yamazaki Lab workspace in IIS Komaba-2 Campus
+Yamazaki Lab workspace, IIS Komaba-II Campus
 
 ### Info in Japanese
 
-山崎研究室に修士/博士学生として加わりたい場合は、**工学系研究科 社会基盤学専攻**の [大学院入試を受験](http://www.civil.t.u-tokyo.ac.jp/graduate_school/) するか、**総合文化研究科 国際環境学プログラム**に[出願](https://gpes.c.u-tokyo.ac.jp/how-to-apply/index.html)してください。研究室見学は随時受け付けています。
+山崎研究室に修士・博士学生として加わりたい場合は、**工学系研究科 社会基盤学専攻**の[大学院入試](http://www.civil.t.u-tokyo.ac.jp/graduate_school/)を受験するか、**総合文化研究科 国際環境学プログラム**に[出願](https://gpes.c.u-tokyo.ac.jp/how-to-apply/index.html)してください。研究室見学は随時受け付けています。
 
-学部生として卒論研究を行いたい場合は、社会基盤学科の水圏環境グループから研究室に加わることができます。
+学部生として卒業研究を行いたい場合は、社会基盤学科・水圏環境グループを通じて研究室に参加できます。
 
-東大の教養学部前期課程（駒場生）では、全学自由研究ゼミナール「[UROP:学部学生のための研究入門コース](http://www.oshimalab.iis.u-tokyo.ac.jp/UROP/)」に参加することで、山崎研究室での研究活動を体験できます。
+東京大学教養学部前期課程（駒場キャンパス）の学生は、全学自由研究ゼミナール「[UROP：学部学生のための研究入門コース](http://www.oshimalab.iis.u-tokyo.ac.jp/UROP/)」を通じて、山崎研究室での研究活動を体験することができます。
 
-山崎研究室で取り組むことのできる研究例として、以下のリストを参考にしてください。
+研究内容の例として、以下も参考にしてください。
 - [研究テーマと手法](../research/)
-- [研究成果(学術論文など)](../publications/)
+- [研究成果（学術論文など）](../publications/)
 - [学生の学位論文リスト](../student_thesis/)
 
-JSPS特別研究員のホストは常時受け付けています。ポスドク研究員のポジションがある場合もあるので、興味がある場合は連絡お願いします。
+JSPS特別研究員の受け入れは常時可能です。ポスドク研究員のポジションが発生する場合もありますので、興味があればお気軽にご連絡ください。
 
-
-
-
-<!--
-
-State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
-
-
-
-### Master projects for U-Tokyo students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
-
-### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
-
-# Figure to be modified
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="80%">
-</figure>
-
--->
+{% comment %}
+Internal notes and legacy text kept for future reference.
+{% endcomment %}
