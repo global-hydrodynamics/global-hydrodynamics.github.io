@@ -51,6 +51,20 @@ h4, .h4 { font-size: $font-size-h4; }
 h5, .h5 { font-size: $font-size-h5; }
 h6, .h6 { font-size: $font-size-h6; }
 
+h3 {
+  color: #1f4e79;        /* 落ち着いた青 */
+  font-size: 1.4em;     /* h2 とのバランス重視 */
+  margin-top: 2.0em;
+  margin-bottom: 0.8em;
+}
+
+h4 {
+  color: #2f6fa3;        /* h3 より少し明るい青 */
+  font-size: 1.15em;    /* ← ここが「少し大きく」の本体 */
+  margin-top: 1.5em;
+  margin-bottom: 0.6em;
+}
+
 
 // Body text
 // -------------------------
@@ -296,3 +310,37 @@ address {
   font-style: normal;
   line-height: $line-height-base;
 }
+
+/* =========================================================
+   Tables (for data description)
+   ========================================================= */
+
+table {
+  width: 70%;
+  border-collapse: collapse;
+  margin: 1.5em 0;
+  font-size: 0.95em;
+}
+
+table th,
+table td {
+  padding: 0.6em 0.8em;
+  border-bottom: 1px solid #ddd;
+  vertical-align: top;
+}
+
+table th {
+  text-align: left;
+  font-weight: 600;
+  color: #1f4e79; /* h3 と同系色 */
+  border-bottom: 2px solid #1f4e79;
+}
+
+table td {
+  color: #333;
+}
+
+table tr:last-child td {
+  border-bottom: none;
+}
+

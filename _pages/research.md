@@ -25,7 +25,7 @@ If you are interested in detail: please also visit the [list of publications](..
 Here are overview of some research topics we currently work on:
 
 ### **Global River Hydrodynamics Modelling (CaMa-Flood)** 
-River is an important component of the global hydrological cycle, and it interacts with Earth's climate and biogeochemical systems by transferring water and other materials from land to oceans. It also affects human society by providing water resources, while too much or too small river discharge causes disasters (i.e. flood, drought). Understanding and predicting river water dynamics is essential for representing rivers within global climate models and also for water resource planning and water-related disaster mitigation. However, modelling of river hydrodynamics on the global scale is difficult because of its multi-scale nature. While we have to consider the basin-wide water budget of continental rivers (spatial scale: >1000km), the water movement is regulated by detailed topography of river channels and floodplains (spatial stale: <100m). To overcome this difficulty, we are working on developing a global river model [CaMa-Flood](http://hydro.iis.u-tokyo.ac.jp/~yamadai/cama-flood/), which can simulate river hydrodynamics very efficiently by representing flood inundation as sub-grid scale physics.
+River is an important component of the global hydrological cycle, and it interacts with Earth's climate and biogeochemical systems by transferring water and other materials from land to oceans. It also affects human society by providing water resources, while too much or too small river discharge causes disasters (i.e. flood, drought). Understanding and predicting river water dynamics is essential for representing rivers within global climate models and also for water resource planning and water-related disaster mitigation. However, modelling of river hydrodynamics on the global scale is difficult because of its multi-scale nature. While we have to consider the basin-wide water budget of continental rivers (spatial scale: >1000km), the water movement is regulated by detailed topography of river channels and floodplains (spatial stale: <100m). To overcome this difficulty, we are working on developing a global river model [CaMa-Flood](https://global-hydrodynamics.github.io/CaMa-Flood/), which can simulate river hydrodynamics very efficiently by representing flood inundation as sub-grid scale physics.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/slider/CaMa_model.jpg" />
 
@@ -34,8 +34,8 @@ While modelling is a powerful tool to understand and predict the global hydrolog
 
 [More detailed explanation](../res_topography/)
 
-- [MERIT DEM](http://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_Hydro/) global topography map
-- [MERIT Hydro](http://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_Hydro/) global hydrography map
+- [MERIT DEM](https://global-hydrodynamics.github.io/MERIT_DEM/) global topography map
+- [MERIT Hydro](https://global-hydrodynamics.github.io/MERIT_Hydro/) global hydrography map
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/slider/MERIT_width.jpg"/>
 
