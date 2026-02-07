@@ -49,6 +49,8 @@ AOGS2021にてHydrology SectionのKamide Lecture Awardをいただき記念講�
 
 <p> &nbsp; </p>
 
+<--
+
 #### Open Campus Posters (June 2024)
 
 We have Open Campus event for U-Tokyo Komaba-2 area, usually in Early June every year.
@@ -57,6 +59,7 @@ We have Open Campus event for U-Tokyo Komaba-2 area, usually in Early June every
 
 <img src="http://hydro.iis.u-tokyo.ac.jp/~yamadai/OpenCampus/OC2022_JPG/OC2022_YamazakiLab_All_01.jpg" width="30%"/><br>
 
+-->
 
 <p> &nbsp; </p>
 
