@@ -1,14 +1,18 @@
 ---
 layout: default
 ---
+<div class="content-wrap">
 <div class="row">
   <div id="homeid" class="col-sm-8">
     {{ content }}
   </div>
 
   <div id="newsid" class="col-sm-4" >
-    <h3>Products  (code & data)</h3>
+    <h3>Products (code & data)</h3>
     {% include products.html %}
+
+    <h3>Meetings and seminars</h3>
+    {% include events.html %}
 
     <h3>Lectures</h3>
     {% include lectures.html %}
@@ -23,6 +27,7 @@ layout: default
      </div>
     
   </div>
+</div>
 </div>
 
 <div id="fb-root"></div>
