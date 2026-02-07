@@ -21,7 +21,7 @@ Group photo in Farewell Gathering @ Komaba Campus (March 2021)
 #### CaMa-Flood Annual Progress Report
 The Annual Progress Report 2024 is developed based on the input for CaMa-Flood annual briefing 2024. Thanks for all CaMa-Flood users/developers contributed to this annual report.
 
-[Download CaMa-Flood Annual Progress Report 2024](https://hydro.iis.u-tokyo.ac.jp/~yamadai/cama-flood/docs/CaMa-Flood_ProgressReport2024.pdf)
+[Download CaMa-Flood Annual Progress Report 2024 (PDF)]({{ site.url }}{{ site.baseurl }}/assets/cama-flood/docs/CaMa-Flood_ProgressReport2024.pdf)
 
 [Check video report on YouTube](https://www.youtube.com/watch?v=okvOIuvVwJI)
 

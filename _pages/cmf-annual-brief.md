@@ -118,7 +118,7 @@ If you are unsure whether your achievement fits within the scope of the meeting,
 The *CaMa-Flood Annual Progress Report 2024* was developed based on contributions submitted for the **CaMa-Flood Annual Briefing 2024**, which was held in March 2025.  
 We sincerely thank all CaMa-Flood users and developers who contributed to this annual report.
 
-- [Download CaMa-Flood Annual Progress Report 2024 (PDF)](https://hydro.iis.u-tokyo.ac.jp/~yamadai/cama-flood/docs/CaMa-Flood_ProgressReport2024.pdf)
+- [Download CaMa-Flood Annual Progress Report 2024 (PDF)]({{ site.url }}{{ site.baseurl }}/assets/cama-flood/docs/CaMa-Flood_ProgressReport2024.pdf)
 - [Watch the video report on YouTube](https://www.youtube.com/watch?v=okvOIuvVwJI)
 
 2024 Annual Progress Briefing Part 1

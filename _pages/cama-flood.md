@@ -6,7 +6,7 @@ permalink: /CaMa-Flood/
 ---
 
 # CaMa-Flood: Global River Hydrodynamics Model
-**Last update:** 22 Nov, 2024
+**Last update:** 7 Feb, 2026
 The latest package version is **CaMa-Flood v4.20 (20240430)**.  
 
 ---
@@ -36,7 +36,7 @@ Channel bifurcations can also be represented by analyzing high-resolution topogr
   *Geoscience Letters, 12, 72*  
   <https://doi.org/10.1186/s40562-025-00452-z>
 
-<iframe width="560" height="315"
+<iframe width="80%" height="280" 
   src="https://www.youtube-nocookie.com/embed/cH3unJIJ0Ig?controls=1&loop=1&playlist=cH3unJIJ0Ig"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -45,6 +45,49 @@ Channel bifurcations can also be represented by analyzing high-resolution topogr
 Hydrodynamic simulation by CaMa-Flood (v4.0).  
 Calculation at 0.1-degree resolution; flood depth is diagnostically downscaled to 90 m resolution DEM.  
 Simulation with new topography (v4.0, right) compared to old topography (v3.6 replicate, left).
+
+---
+
+## Model description
+
+### Modeling framework and sub-grid topography
+
+CaMa-Flood (Catchment-based Macro-scale Floodplain model) is a global river hydrodynamics model designed to simulate river discharge, water level, and floodplain inundation consistently from continental to global scales.  
+The core concept of CaMa-Flood is the discretization of river networks into **unit catchments**, where each unit catchment represents an irregularly shaped drainage area assigned to a regular grid cell. Water storage is the sole prognostic variable, and its temporal evolution is solved using a water balance equation accounting for upstream inflow, downstream outflow, and lateral runoff forcing. River discharge and flow velocity are computed using the **local inertial equation**, enabling a physically based yet computationally efficient representation of river flow dynamics. Sub-grid river channel and floodplain topography are parameterized using high-resolution terrain information. This sub-grid representation enables CaMa-Flood to resolve river channel geometry and floodplain storage that cannot be explicitly represented at the model grid resolution.
+
+<figure class="figure">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/cama-flood/cama-overview.png" alt="Sub-grid topography and unit-catchment representation" width="80%"/>
+</figure>
+Subdivision into unit catchments and sub-grid representation of river channels and floodplains in CaMa-Flood.
+
+### Simulation of river and floodplain hydrodynamics
+
+By combining a grid–vector hybrid river network with sub-grid topographic parameterization, CaMa-Flood can represent complex hydrodynamic processes such as floodplain storage, backwater effects, and river bifurcations at large scales.  
+Simulated water levels and floodplain storage can be diagnostically downscaled to finer spatial resolutions using high-resolution topography, enabling the production of detailed inundation depth maps for impact and risk assessments. This scalability allows CaMa-Flood to support simulations ranging from coarse global grids (e.g., 15–6 arcmin) to finer regional configurations (e.g., 3–1 arcmin), depending on computational resources and research objectives. The availability of river maps derived from **MERIT Hydro** further enhances the physical realism of river geometry and floodplain representation.
+
+<figure class="figure">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/cama-flood/downscaling.png" alt="Diagnostic downscaling of flood depth" width="80%"/>
+</figure>
+Diagnostic downscaling of simulated flood depth from coarse-resolution CaMa-Flood outputs to finer spatial resolution using high-resolution topography.
+
+### Model applications
+
+CaMa-Flood has been widely used in a broad range of application studies that require a physically consistent representation of river hydraulics and floodplain inundation at regional to global scales. One major application is **flood risk and hazard assessment**, where CaMa-Flood is used to generate large-scale inundation depth and extent maps for present and future climate conditions, supporting assessments of population exposure, infrastructure risk, and climate change impacts. Owing to its ability to simulate water levels and floodplain storage explicitly, CaMa-Flood is also applied to **real-time and forecast-based flood prediction systems**, including continental-scale flood early warning frameworks driven by numerical weather prediction and hydrological forecasts. Beyond flood hazards, CaMa-Flood has been increasingly coupled with land surface, biogeochemical, and Earth system models, enabling applications in **Earth system and biogeoscience studies**, such as the analysis of surface water dynamics, wetland inundation, river–floodplain connectivity, and their roles in carbon and methane cycles. These diverse applications demonstrate that CaMa-Flood functions not only as a flood model, but also as a core river hydrodynamics component for integrated large-scale environmental modeling.
+
+
+<figure class="figure">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/cama-flood/floodrisk.png" alt="Flood hazard mapping with CaMa-Flood" width="80%"/>
+</figure>
+Example of flood hazard mapping using CaMa-Flood, showing present and future 100-year flood depth, and changes in flood depth and inundation extent.
+
+### Representing human activities
+
+In addition to natural hydrological processes, CaMa-Flood is designed to represent the impacts of **human activities** on large-scale river dynamics. The model incorporates **reservoir and dam operation schemes**, enabling the simulation of regulated river discharge and water level variations caused by human water management. This capability allows CaMa-Flood to assess how dam operations influence downstream flood peaks, seasonal flow regimes, and floodplain inundation. Furthermore, CaMa-Flood can implicitly account for **river embankments and levees** through sub-grid floodplain topographic parameterization, which modifies the relationship between water level and inundated area. By representing both natural and human-modified river systems within a unified hydrodynamic framework, CaMa-Flood provides a powerful tool for evaluating the combined effects of climate change and human interventions on flood risk, water resources, and river–floodplain systems.
+
+<figure class="figure">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/cama-flood/levee.png" alt="Flood hazard mapping with CaMa-Flood" width="80%"/>
+</figure>
+Representation of levees in CaMa-Flood
 
 ---
 
@@ -164,38 +207,101 @@ For general users, we recommend using the CaMa-Flood package below.
 
 ---
 
+## CaMa-Flood GPU implementation
+
+A **GPU-accelerated version of CaMa-Flood (CaMa-Flood GPU)** has been developed to enable highly scalable global and continental-scale river hydrodynamics simulations.  
+By leveraging GPU-based parallelization, CaMa-Flood GPU significantly reduces computational cost while preserving the physical consistency of the original CaMa-Flood framework. This advancement makes it feasible to conduct large-ensemble simulations, high-resolution global flood modeling, and near-real-time applications that were previously computationally prohibitive on CPU-based systems.
+
+The model design, implementation details, and performance benchmarks of CaMa-Flood GPU are described in the following preprint:
+
+### Reference and resources
+
+- Kang, S., Yin, J., & Yamazaki, D. (2026).  
+  **CaMa-Flood-GPU: A GPU-based hydrodynamic model implementation for scalable global simulations.**  
+  *ESS Open Archive*, January 09, 2026.  
+  <https://doi.org/10.22541/essoar.176442648.85093032/v3>
+
+The CaMa-Flood-GPU source code and related materials are archived on Zenodo:
+
+- **CaMa-Flood-GPU (Zenodo archive)**  
+  <https://zenodo.org/records/18137445>
+
+---
+
+
 
 ## River gauge allocation tool
 
-A tool to allocate river gauges on MERIT Hydro and CaMa-Flood river maps is available.  
-Allocation consists of two steps: (1) allocation on 30″ MERIT Hydro, and (2) allocation on CaMa-Flood river map.
+A dedicated tool is provided to **robustly allocate river gauges and reservoirs onto MERIT Hydro and CaMa-Flood river networks**, enabling consistent and reliable model–observation comparison.  
+Because direct allocation onto coarse-resolution global river maps is often ambiguous, the tool adopts a **two-step, semi-automated strategy**: river gauges are first allocated onto a high-resolution river network (30″ MERIT Hydro for global applications or 5″ J-FlwDir for Japan), and are then re-allocated onto the target CaMa-Flood river map. The allocation algorithm jointly considers **geographical location errors and upstream drainage area consistency**, allowing it to identify the most plausible river pixel even when reported gauge metadata contain uncertainties. Automatic allocation is complemented by **manual quality control and visual inspection**, reflecting the reality that gauge information and river maps are not error-free. The tool supports discharge gauges, water level gauges, and reservoirs (e.g., GRDC, MLIT, GRanD), and explicitly accounts for **sub-grid gauge locations** within CaMa-Flood unit catchments, which is essential for accurate comparison of simulated discharge and water level. This semi-automated yet transparent approach has been extensively used in global and regional CaMa-Flood applications and provides a practical balance between robustness, flexibility, and reproducibility.
+
+### Gauge Allocation Package
 
 A package containing source code, map data, and documentation is available in the download page.
 
 - Latest version: **AllocRiverGauge v1.2 (2024.11.22)** 
 - AllocRiverGauge_v1.2_20241122.tar.gz`
 
+<figure class="figure">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/cama-flood/allocation.png" width="80%"/>
+</figure>
+River gauge allocation
+
 ---
 
-## Model Description
+## CaMa-Flood community
 
-### Overall framework
-The CaMa-Flood model is a global-scale distributed river model driven by runoff forcing from a land surface model.  
-Water storage at each grid cell is the only prognostic variable; other variables (water level, inundated area, discharge, velocity) are diagnosed from storage at each time step. Storage evolution is solved by calculating discharge between each grid cell and the next downstream cell along a prescribed river network. River discharge and flow velocity are estimated by the local inertial equation.
+CaMa-Flood is supported by an active international community of developers and users.  
+In addition to model development and data distribution, we regularly organize community events to share progress, exchange technical knowledge, and discuss future directions of the model.
 
-<figure class="figure">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/cama-flood/rivmap.jpg" alt="River Network Map">
-</figure>
-Figure 1: River Network Map.
+### CaMa-Flood Annual Briefing
 
-To represent floodplain inundation, river channel and floodplain topography are represented by sub-grid-scale topographic parameters. Ground elevation (Z), unit-catchment area (Ac), channel length (L), and floodplain elevation profile are derived from fine-resolution flow direction maps and DEMs using the FLOW method. The floodplain elevation profile describes the relationship between water level and inundated area and is created by calculating the cumulative distribution function (CDF) of the height of each fine-resolution pixel above the nearest downstream river channel pixel within each unit-catchment.
+The **CaMa-Flood Annual Briefing** is a yearly community event that summarizes  
+**research achievements and model developments related to CaMa-Flood**.
 
-Channel cross section parameters (channel width W and depth B) are derived empirically as a function of river discharge due to the lack of global-scale observations.
+The briefing features short presentations by contributors, and the outcomes are compiled as an  
+**Annual Progress Report (PDF)** together with **recorded presentation videos**.
 
-<figure class="figure">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/cama-flood/topo.jpg" alt="Sub-grid Topographical Parameters">
-</figure>
-Figure 2: Sub-grid Topographical Parameters.
+Detailed information, including schedules, registration, and materials from previous briefings,  
+is available on the  
+[CaMa-Flood Annual Briefing webpage]({{ site.baseurl }}/cmf-annual-brief/).
+
+---
+
+### CaMa-Flood Developer/User International Meeting
+
+The **CaMa-Flood Developer/User International Meeting** is an in-person meeting organized  
+approximately every two years, focusing on **in-depth technical discussions**,  
+model development strategies, and future research directions.
+
+Information on past and upcoming meetings is available on the dedicated event webpages:
+
+- [CaMa-Flood Developer/User Meeting 2024]({{ site.baseurl }}/cmf-meet-2024/)
+- Details of future meetings will be announced on the CaMa-Flood website.
+
+### CaMa-Flood user mailing list
+
+We maintain a **CaMa-Flood user mailing list** to facilitate communication among developers and users.
+
+The mailing list is used to share:
+- Model updates and new releases
+- Announcements of community events and meetings
+- Questions, tips, and discussions among users
+
+User-to-user discussions and exchanges of experience are highly encouraged.
+
+If you would like to join the mailing list, please use one of the following methods:
+
+- Join directly via the Google Groups page:  
+  <https://groups.google.com/g/cama-flood-user>
+
+- Register via the mailing list registration Google Form:  
+  <https://forms.gle/ziBMvBsPREcTkrDX7>
+
+- Or contact the developer directly by email:  
+  **Dai Yamazaki**  yamadai [at] iis.u-tokyo.ac.jp
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/picture/cmf-meet2024.jpg" width="80%"/>
 
 ---
 
@@ -251,6 +357,22 @@ I (Developer: Dai Yamazaki) am always happy to launch collaborative research. If
   *Geophys. Res. Lett., 41, 3127–3135*  
   <https://doi.org/10.1002/2014GL059774>
 
+- Developing a Levee Module for Global Flood Modeling With a Reach-Level Parameterization Approach  
+  Gang Zhao, Dai Yamazaki, Yoshiaki Tanaka, Xudong Zhou, Shuping Li, Yang Hu, Yukiko Hirabayashi, Jeff Neal, & Paul D. Bates  
+  *Water Resour. Res., 61, e2024WR039790*  
+  <https://doi.org/10.1029/2024WR039790>
+
+- Development of a Reservoir Flood Control Scheme for Global Flood Models  
+  Risa Hanazaki, Dai Yamazaki, & Kei Yoshimura  
+  *J. Adv. Model. Earth Syst., 14(3), e2021MS002944*  
+  <https://doi.org/10.1029/2021MS002944>
+
+- CaMa-Flood-GPU: A GPU-based hydrodynamic model implementation for scalable global simulations.  
+  Kang, S., Yin, J., & Yamazaki, D. (2026).  
+  *ESS Open Archive*, January 09, 2026.  
+  <https://doi.org/10.22541/essoar.176442648.85093032/v3>
+
+
 ### Baseline datasets
 
 - A high-accuracy map of global terrain elevations  
@@ -262,6 +384,7 @@ I (Developer: Dai Yamazaki) am always happy to launch collaborative research. If
   Dai Yamazaki, Daiki Ikeshima, Javier Sosa, Paul D. Bates, Guy H. Allen, & Tamlin M. Pavelsky  
   *Water Resour. Res., 55, 5053–5073*  
   <https://doi.org/10.1029/2019WR024873>
+
 
 
 

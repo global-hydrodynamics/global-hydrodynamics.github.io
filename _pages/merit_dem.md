@@ -19,7 +19,7 @@ MERIT DEM is a high-accuracy global digital elevation model developed by removin
 - Designed for terrain-dependent geoscience applications
 
 <div class="img_cap">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/merit_dem/Mek_Amz.png" />
+<img src="{{ site.url }}{{ site.baseurl }}/assets/merit_dem/Mek_Amz.png" width="80%">
 </div>
 
 Close-up comparison of MERIT DEM and the original SRTM DEM for the Mekong Delta and the Amazon floodplain.  
@@ -91,7 +91,7 @@ Data is distributed in GeoTiff format (float32)
 Hydrologically adjusted DEM is available as part of the [MERIT Hydro dataset]({{ site.url }}{{ site.baseurl }}/MERIT_Hydro/).
 
 <figure class="figure">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/merit_dem/MERIT_tile.jpg" alt="MERIT DEM tiling scheme">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/merit_dem/MERIT_tile.jpg" alt="MERIT DEM tiling scheme" width="80%"/>
 </figure>
 
 ---

@@ -21,7 +21,7 @@ for large-scale hydrodynamic and flood simulations.
 
 
 <div class="img_cap">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/merit_hydro/hydro_fig.png" />
+<img src="{{ site.url }}{{ site.baseurl }}/assets/merit_hydro/hydro_fig.png" width="80%"/>
 </div>
 
 MERIT Hydro river network for Tigris-Euphrates, Ob, Amazon, and Pearl Rivers. High resolution image can be downloaded from "Quick Look Figure" below.
@@ -97,7 +97,7 @@ For example, the package `dir_n30w120.tar` contains all tiles within the domain
 The data format is **GeoTIFF**.
 
 <figure class="figure">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/merit_hydro/MERIT_tile.png" alt="MERIT Hydro tiling scheme">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/merit_hydro/MERIT_tile.png" alt="MERIT Hydro tiling scheme" width="80%"/>
 </figure>
 
 ### Data layers and variables
@@ -173,7 +173,7 @@ Here, drainage pixels are defined as those with an upstream area greater than **
 Undefined pixels (oceans) are assigned a value of **-9999**.
 
 <figure class="figure">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/merit_hydro/supp_data.png" alt="Supplementary data layers">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/merit_hydro/supp_data.png" alt="Supplementary data layers" width="80%"/>
 </figure>
 Supplementary data layers (left: river width, right: HAND).
 

@@ -87,7 +87,7 @@ Anyone interested in our activities is welcome. Please visit the seminar webpage
 
 ## CaMa-Flood modelling community
 
-Yamazaki Lab is the primary development base for the global river model [CaMa-Flood](http://hydro.iis.u-tokyo.ac.jp/~yamadai/cama-flood/).
+Yamazaki Lab is the primary development base for the global river model [CaMa-Flood]((./CaMa-Flood/)).
 
 CaMa-Flood is a global-scale river model that combines **high computational efficiency and high accuracy**.  
 The model is now widely used by many users, including some meteorological agencies, for a wide variety of applications.
