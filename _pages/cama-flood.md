@@ -115,8 +115,10 @@ Alternatively, you may contact the developer directly to request access:
 
 ### Download model and data
 
-The CaMa-Flood model and related data can be downloaded from  
-[**CaMa-Flood download page (Dropbox)**](https://www.dropbox.com/scl/fo/4qkx4aqb2650yswju8bm8/ANyZbI6Bp92goAMARrTMDDw?rlkey=8cejno2qo0ff74mfmd3zunsfv&st=8g0r4ua0&dl=0).
+The CaMa-Flood model and related data can be downloaded from:<br>
+<a  href="https://www.dropbox.com/scl/fo/4qkx4aqb2650yswju8bm8/ANyZbI6Bp92goAMARrTMDDw?rlkey=8cejno2qo0ff74mfmd3zunsfv&st=8g0r4ua0&dl=0" target="_blank" rel="noopener noreferrer">
+**CaMa-Flood download page (Dropbox)**
+</a>
 
 **Note:**  
 *Due to temporary issues with the original web server, the CaMa-Flood model and data are currently distributed via Dropbox.*  

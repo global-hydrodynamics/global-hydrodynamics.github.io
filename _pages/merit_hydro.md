@@ -68,8 +68,10 @@ Alternatively, you may contact the developer directly to request access:
 The current version is **v1.0.1** (10 June 2019).
 
 The password for downloading the data is issued after registration via the Google Form (see above).  
-The data can be downloaded from  
-[**MERIT Hydro download page (DropBox)**](https://www.dropbox.com/scl/fo/fw8qrf73zhzmo6p92gbxv/AIlVRfnQVEWOyXEimsK2qKk?rlkey=a0be5opyb2kpkf0ssbvau8y9q&st=t8rtowe9&dl=0).
+The data can be downloaded from:<br>
+<a  href="https://www.dropbox.com/scl/fo/fw8qrf73zhzmo6p92gbxv/AIlVRfnQVEWOyXEimsK2qKk?rlkey=a0be5opyb2kpkf0ssbvau8y9q&st=t8rtowe9&dl=0" target="_blank" rel="noopener noreferrer">
+**MERIT Hydro download page (DropBox)**
+</a>
 
 **Note:**  
 *Due to temporary issues with the original web server, the data are currently distributed via Dropbox.*
