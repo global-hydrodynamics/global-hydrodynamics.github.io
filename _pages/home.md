@@ -5,15 +5,15 @@ sitemap: false
 permalink: /
 ---
 # Welcome!
-The Global Hydrodynamics Lab (PI: [Dai Yamazaki](https://scholar.google.com/citations?user=2c_Vf3cAAAAJ)) is part of the U-Tokyo [Global Hydrology Group](https://utokyo-global-hydrology.github.io/) at the [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/), [The University of Tokyo](https://www.u-tokyo.ac.jp/).
+The Global Hydrodynamics Lab (PI: [Dai Yamazaki](./yamazaki-cv-e/)) is part of the U-Tokyo [Global Hydrology Group](https://utokyo-global-hydrology.github.io/) at the [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/), [The University of Tokyo](https://www.u-tokyo.ac.jp/).
 
 The Yamazaki Lab is located at the U-Tokyo Komaba-2 Research Campus  
 (<a href="https://goo.gl/maps/SNCw9DrqL6Rzs4XM9">Map</a>, <a href="https://www.iis.u-tokyo.ac.jp/en/access/">Directions</a>) in central Tokyo.
 
 Our studies mainly focus on the dynamics of terrestrial water on a global scale, using **modelling, remote sensing, and data integration approaches**.
 
-東京大学 [グローバル水文学グループ](https://utokyo-global-hydrology.github.io/)の一部である山崎研究室（全球陸域水動態研究室）のWebページです。  
-（ページ下部に日本語情報があります）
+東京大学 [グローバル水文学グループ](https://utokyo-global-hydrology.github.io/)の一部である全球陸域水動態研究室（PI:[山崎 大](./yamazaki-cv-j/)
+のWebページです。 ページ下部に日本語情報があります。
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/picture/DLab_2024Dec.jpg" width="80%"/>
 
@@ -32,6 +32,7 @@ If you are interested in our team, please visit the pages below:
 Our research activities are summarized in:
 - [Research targets and methods](./research/)
 - [Publications and outcomes](./publications/)
+- [Yamazaki's CV](./yamazaki-cv-e/)
 - [PI: Yamazaki's Google Scholar](https://scholar.google.com/citations?hl=en&user=2c_Vf3cAAAAJ)
 - [List of student academic theses](./student_thesis/)
 - [List of awards](./award/)
@@ -40,6 +41,7 @@ Our main research products are here:
 - [CaMa-Flood : Global river model](./CaMa-Flood/)
 - [MERIT Hydro: global river data](./MERIT_Hydro/)
 - [MERIT DEM  : global topography data](./MERIT_DEM/)
+- [J-FlwDir   : Japan River Mapg](./J-FlwDir/)
 - [SplashTune! Rainfall-Runoff Game](./game/)
 
 
