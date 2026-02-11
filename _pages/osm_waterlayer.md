@@ -1,7 +1,7 @@
 ---
 title: OSM Water Layer
 layout: pagelay
-permalink: /OWM_WaterLayer/
+permalink: /OSM_WaterLayer/
 sitemap: false
 ---
 
