@@ -162,10 +162,10 @@ Many of our former students have gone on to careers in academia, research instit
 
 <div class="row">
 {% for member in site.data.former_student %}
-  <div class="col-sm-4 clearfix" style="margin-bottom: 10px;">
-    {{ member.name }} : {{ member.native }}<br/>
-    {{ member.info }}, {{ member.duration }}
-  </div>
+<div class="col-sm-4 clearfix" style="margin-bottom: 20px;">
+<h4>{{ member.name }} : {{ member.native }}</h4>
+{{ member.info }}, {{ member.duration }}
+</div>
 {% endfor %}
 </div>
 
@@ -179,10 +179,10 @@ We welcome visiting researchers, interns, and sabbatical scholars, and we value 
 
 <div class="row">
 {% for member in site.data.former_visitors %}
-  <div class="col-sm-4 clearfix" style="margin-bottom: 10px;">
-    {{ member.name }} : {{ member.native }}<br/>
-    {{ member.info }}, {{ member.duration }}
-  </div>
+<div class="col-sm-4  clearfix">
+<h4>{{ member.name }} : {{ member.native }}</h4>
+{{ member.info }}, {{ member.duration }}
+</div>
 {% endfor %}
 </div>
 
