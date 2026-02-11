@@ -1,7 +1,7 @@
 ---
 title: OSM Water Layer
 layout: pagelay
-permalink: /osm_waterlayer/
+permalink: /OWM_WaterLayer/
 sitemap: false
 ---
 
@@ -93,8 +93,7 @@ The code/scripts to generate OSM Water Layer are publicly available:
   <a href="https://github.com/global-hydrodynamics/OSM_WaterLayer" target="_blank" rel="noopener noreferrer">global-hydrodynamics/OSM_WaterLayer</a>
 
 ### Version 1 (based on `planet.osm.pbf` as of 16 Jan 2018)
-- PBF: <a href="./v1.0/OSM_water.pbf" target="_blank" rel="noopener noreferrer">OSM_water.pbf</a>
-- GeoTIFF tar.gz: <a href="./v1.0/OSM_water_tif.tar.gz" target="_blank" rel="noopener noreferrer">OSM_water_tif.tar.gz</a> 
+- Available in DropBox.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "GWD-LR"
 layout: pagelay
-permalink: /gwd-lr/
+permalink: /GWD-LR/
 sitemap: false
 ---
 
