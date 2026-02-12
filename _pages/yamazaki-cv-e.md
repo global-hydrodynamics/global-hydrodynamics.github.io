@@ -30,7 +30,7 @@ Global Hydrodynamics is a research field that aims to understand, at the scale o
 
 Water flows in rivers and floodplains are inherently multi-scale phenomena, strongly controlled by both basin-scale water budgets (over 1,000 km) and fine-scale channel and micro-topographic features (below 100 m). A central challenge in global hydrodynamics modeling is how to bridge this large gap in spatial scales within a single, consistent theoretical framework.
 
-I develop global river models (e.g., CaMa-Flood) that can consistently simulate water levels, discharge, and inundation extent using efficient algorithms based on subgrid topography representation. Rather than focusing only on discharge, my goal is to reproduce, consistently at the global scale, the basic physical principle that “water flows from higher to lower places.” Designing model structures that satisfy both computational efficiency and physical fidelity is key to this effort.
+I develop [global river models CaMa-Flood](../CaMa-Flood) that can consistently simulate water levels, discharge, and inundation extent using efficient algorithms based on subgrid topography representation. Rather than focusing only on discharge, my goal is to reproduce, consistently at the global scale, the basic physical principle that “water flows from higher to lower places.” Designing model structures that satisfy both computational efficiency and physical fidelity is key to this effort.
 
 CaMa-Flood is one of the few models currently capable of consistently simulating discharge, water levels, and inundation extent for all rivers on Earth. It is released as open source, has over 1,000 registered users, and has grown into an international modeling platform used by research institutes and operational meteorological agencies worldwide.
 
@@ -38,7 +38,7 @@ CaMa-Flood is one of the few models currently capable of consistently simulating
 
 Accurate simulations of terrestrial water dynamics require not only advanced numerical models but also high-quality topographic information that governs where and how water flows. At the global scale, building hydrologically consistent topography datasets is itself a major challenge. While satellite observations provide global coverage, they often contain noise and systematic errors that can hinder the correct representation of drainage structures and flow paths.
 
-To address this, I integrate multiple satellite datasets and geospatial information and reconstruct them into river topography datasets consistent with natural drainage structures, thereby developing foundational global topography/hydrography datasets for terrestrial water dynamics modeling. Representative products include the global elevation dataset MERIT DEM, the global hydrography dataset MERIT Hydro, and the Japan flow-direction map J-FlwDir. By systematically building hydrologically consistent geospatial foundations, I contribute to the broader Earth science community.
+To address this, I integrate multiple satellite datasets and geospatial information and reconstruct them into river topography datasets consistent with natural drainage structures, thereby developing foundational global topography/hydrography datasets for terrestrial water dynamics modeling. Representative products include the [global elevation dataset MERIT DEM](../MERIT_DEM/), the [global hydrography dataset MERIT Hydro](../MERIT_Hydro), and the [Japan Flow Direction map J-FlwDir](../J-FlwDIr). By systematically building hydrologically consistent geospatial foundations, I contribute to the broader Earth science community.
 
 ### Monitoring the terrestrial water cycle by integrating models and satellite observations
 
@@ -54,7 +54,7 @@ By coupling hydrodynamics with climate-model outputs and conducting large ensemb
 
 ### Playable Hydrology: water-cycle education based on rainfall–runoff modeling
 
-Rainfall–runoff processes are fundamental hydrological mechanisms underlying floods, yet their multi-stage and nonlinear structures make them difficult for beginners to grasp intuitively. To address this, I developed “SplashTune,” which turns physically based rainfall–runoff simulations into an interactive game, and I study process-based hydrology education methods. By presenting a framework in which floods are understood not merely as disaster events but as dynamical consequences of differences in basin conditions and surface states, I aim to help more people recognize both the intellectual appeal of hydrological models and their societal relevance.
+Rainfall–runoff processes are fundamental hydrological mechanisms underlying floods, yet their multi-stage and nonlinear structures make them difficult for beginners to grasp intuitively. To address this, I developed [SplashTune](./game-e/), which turns physically based rainfall–runoff simulations into an interactive game, and I study process-based hydrology education methods. By presenting a framework in which floods are understood not merely as disaster events but as dynamical consequences of differences in basin conditions and surface states, I aim to help more people recognize both the intellectual appeal of hydrological models and their societal relevance.
 
 Under the concept of “Playable Hydrology,” this research integrates physical models with game-based learning to bridge hydrological expertise and societal water literacy. At the same time, it aims to translate model-based thinking cultivated in cutting-edge hydrodynamics research into educational practice, thereby narrowing the gap between frontier research and the classroom.
 
@@ -142,31 +142,33 @@ At the Department of Civil Engineering, The University of Tokyo, I engaged in fr
 
 ### Selected Publications
 
+A review paper summarizing 15 years of development and applications of the global river hydrodynamics model CaMa-Flood.
 - **Advancing global river hydrodynamics simulations by catchment-based macro-scale floodplain modeling approach**  
   Dai Yamazaki  
   *Geoscience Letters*, 12, 72, 2025  
   <https://doi.org/10.1186/s40562-025-00452-z>  
-  A review paper summarizing 15 years of development and applications of the global river hydrodynamics model CaMa-Flood.
 
+
+MERIT Hydro: a hydrologically consistent, high-resolution global hydrography dataset built by integrating the latest global topography products.
 - **MERIT Hydro: A high-resolution global hydrography map based on latest topography datasets**  
   Yamazaki, D., D. Ikeshima, J. Sosa, P.D. Bates, G.H. Allen, T.M. Pavelsky  
   *Water Resources Research*, 55, 5053–5073, 2019  
   <https://doi.org/10.1029/2019WR024873>  
-  MERIT Hydro: a hydrologically consistent, high-resolution global hydrography dataset built by integrating the latest global topography products.
 
+Proposal of MERIT DEM, a high-accuracy global elevation model with substantially reduced errors by integrating multiple satellite-based elevation datasets.
 - **A high-accuracy map of global terrain elevations**  
   Yamazaki, D., D. Ikeshima, R. Tawatari, T. Yamaguchi, F. O’Loughlin, J.C. Neal, C.C. Sampson, S. Kanae, P.D. Bates  
   *Geophysical Research Letters*, 44, 5844–5853, 2017  
   <https://doi.org/10.1029/2017GL072874>  
-  Proposal of MERIT DEM, a high-accuracy global elevation model with substantially reduced errors by integrating multiple satellite-based elevation datasets.
 
+A foundational study introducing physically based floodplain inundation processes into a global river model to jointly reproduce water levels and inundation extent.
 - **A physically-based description of floodplain inundation dynamics in a global river routing model**  
   Yamazaki, D., S. Kanae, H. Kim, T. Oki  
   *Water Resources Research*, 47, W04501, 2011  
   <https://doi.org/10.1029/2010WR009726>  
-  A foundational study introducing physically based floodplain inundation processes into a global river model to jointly reproduce water levels and inundation extent.
 
-[Click here for Yamazaki Lab publication list](../publications/)
+Yamazaki & Yamazaki Lab's publications are summarized below.
+- [Click here for Yamazaki Lab publication list](../publications/)
 
 ### Academic Community Service
 

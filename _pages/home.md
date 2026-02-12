@@ -12,7 +12,7 @@ The Yamazaki Lab is located at the U-Tokyo Komaba-2 Research Campus
 
 Our studies mainly focus on the dynamics of terrestrial water on a global scale, using **modelling, remote sensing, and data integration approaches**.
 
-東京大学 [グローバル水文学グループ](https://utokyo-global-hydrology.github.io/)の一部である全球陸域水動態研究室（PI:[山崎 大](./yamazaki-cv-j/)
+東京大学 [グローバル水文学グループ](https://utokyo-global-hydrology.github.io/)の一部である全球陸域水動態研究室（ PI:[山崎 大](./yamazaki-cv-j/) )
 のWebページです。 ページ下部に日本語情報があります。
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/picture/DLab_2024Dec.jpg" width="80%"/>
@@ -24,6 +24,7 @@ If you are interested in our team, please visit the pages below:
 - [Team member list](./team/)
 - [How to join our team?](./joinus/)
 - [Promotion (lab highlights)](./promotion/)
+- [Yamazaki's CV](./yamazaki-cv-e/)
 - [Monthly Public Seminar](https://sites.google.com/view/ut-hydro-seminar)
 {% comment %}
  - [Open Campus Posters](https://hydro.iis.u-tokyo.ac.jp/~yamadai/data/doc/YamazakiLab_OpenCampus2023.pdf)
@@ -32,7 +33,6 @@ If you are interested in our team, please visit the pages below:
 Our research activities are summarized in:
 - [Research targets and methods](./research/)
 - [Publications and outcomes](./publications/)
-- [Yamazaki's CV](./yamazaki-cv-e/)
 - [PI: Yamazaki's Google Scholar](https://scholar.google.com/citations?hl=en&user=2c_Vf3cAAAAJ)
 - [List of student academic theses](./student_thesis/)
 - [List of awards](./award/)
@@ -207,7 +207,7 @@ Webページ上でゲームを公開していますので、ぜひ遊んでみ�
 
 **山崎研究室に興味がある研究者・学生の方へ**
 
-研究内容の詳細については[研究紹介ページ](./research/)や[研究室メンバーリスト](./team/)をご覧ください。  
+研究内容の詳細については[PI 山崎のページ](./yamazaki-cv-j/)、[研究紹介ページ](./research/)、[研究室メンバーリスト](./team/)などをご覧ください。  
 山崎研究室への参加を希望される場合は、[How to join our team?](./joinus/)をご参照ください。  
 また、研究室のハイライトは[Promotion](./promotion/)にまとめています。
 
