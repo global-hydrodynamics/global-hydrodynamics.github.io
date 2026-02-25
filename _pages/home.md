@@ -5,14 +5,14 @@ sitemap: false
 permalink: /
 ---
 # Welcome!
-The Global Hydrodynamics Lab (PI: [Dai Yamazaki](./yamazaki-cv-e/)) is part of the U-Tokyo [Global Hydrology Group](https://utokyo-global-hydrology.github.io/) at the [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/), [The University of Tokyo](https://www.u-tokyo.ac.jp/).
+The Global Hydrodynamics Lab (PI: [Dai Yamazaki](./yamazaki-cv-e/)) is part of the U-Tokyo [Global Hydrology Group](https://hydro.iis.u-tokyo.ac.jp/) at the [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/), [The University of Tokyo](https://www.u-tokyo.ac.jp/).
 
 The Yamazaki Lab is located at the U-Tokyo Komaba-2 Research Campus  
 (<a href="https://goo.gl/maps/SNCw9DrqL6Rzs4XM9">Map</a>, <a href="https://www.iis.u-tokyo.ac.jp/en/access/">Directions</a>) in central Tokyo.
 
 Our studies mainly focus on the dynamics of terrestrial water on a global scale, using **modelling, remote sensing, and data integration approaches**.
 
-東京大学 [グローバル水文学グループ](https://utokyo-global-hydrology.github.io/)の一部である全球陸域水動態研究室（ PI:[山崎 大](./yamazaki-cv-j/) )
+東京大学 [グローバル水文学グループ](https://hydro.iis.u-tokyo.ac.jp/)の一部である全球陸域水動態研究室（ PI:[山崎 大](./yamazaki-cv-j/) )
 のWebページです。 ページ下部に日本語情報があります。
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/picture/DLab_2024Dec.jpg" width="80%"/>
