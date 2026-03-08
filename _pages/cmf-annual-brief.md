@@ -12,6 +12,9 @@ This annual event provides an overview of recent achievements related to the glo
 
 The primary focus of the 2025 annual briefing is to introduce and share **research papers mainly published in 2025** within the CaMa-Flood community, and to provide a comprehensive overview of recent scientific progress related to CaMa-Flood.
 
+The meeting program (annual progress report) is available here:
+- [Download CaMa-Flood Annual Progress Report 2025 (PDF)]({{ site.url }}{{ site.baseurl }}/assets/cama-flood/docs/CaMa-Flood_ProgressReport2025.pdf)
+
 <span style="color: red">
 Registration is now open.  
 Please register to have presentation via the <a href="https://forms.gle/3KNJBdPmpwTV8iUj9" target="_blank">online registration form</a> by <strong>14 February 2026</strong>.
