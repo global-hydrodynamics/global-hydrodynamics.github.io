@@ -99,10 +99,8 @@ The data can be downloaded from below link:
 </a>
 
 **Note:**  
-*Due to temporary issues with the original web server, the data are currently distributed via Dropbox.*
 *When prompted for access, please enter **only the password** provided in the registration email; the username is not required.*
 
-*元の Web サーバーに一時的な問題があるため、現在は Dropbox を用いてデータを配布しています。*  
 *アクセス時に求められた場合は、登録完了メールに記載された **パスワードのみ** を入力してください。ユーザー名の入力は不要です。*
 
 #### Quick Look Figures

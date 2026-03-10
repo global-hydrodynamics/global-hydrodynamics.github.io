@@ -121,7 +121,6 @@ The CaMa-Flood model and related data can be downloaded from:<br>
 </a>
 
 **Note:**  
-*Due to temporary issues with the original web server, the CaMa-Flood model and data are currently distributed via Dropbox.*  
 *When prompted for access, please enter **only the password** provided in the registration email; the username is not required.*
 
 ---
