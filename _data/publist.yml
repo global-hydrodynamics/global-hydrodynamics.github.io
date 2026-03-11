@@ -1,4 +1,28 @@
 ## Yamazaki Lab work
+- ID: Y54)
+  title: "Comparing assimilation of remotely sensed discharge derived from SWOT and Landsat into a global hydrological model"
+  image: 
+  authors: "Yuki Ishikawa, Dai Yamazaki, Colin J. Gleason, Naota Hanasaki, Shunji Kotsuki, Daiya Shiojiri, and Elisa Friedmann"
+  description:
+  link:
+    url: 
+    display: "Water Resources Research, 2026, (accepted)"
+  highlight: 0
+  dlab: 1
+  news2:
+
+- ID: Y53)
+  title: "Assessing community vulnerability and adaptive capacity for evidence based water governance in the lower Mekong basin"
+  image: 
+  authors: "Taishi Yazawa, Jin Sato, Giranooch Ngoksilp, Mai Watanabe, Dai Yamazaki & Pattajit Tangsinmunkong"
+  description:
+  link:
+    url: https://doi.org/10.1007/s43832-026-00364-9
+    display: "Discover Water, 026-00364-9, 2026, DOI: 10.1007/s43832-026-00364-9"
+  highlight: 0
+  dlab: 1
+  news2:
+
 - ID: Y52)
   title: "Advancing global river hydrodynamics simulations by catchment-based macro-scale floodplain modeling approach"
   image: 2011Yamazaki_CaMa.jpg
@@ -640,6 +664,18 @@
 
 ######################################################################################
 ### Collaboration work ###
+- ID: C85)
+  title: "Synergistic Integration of Flood Inundation Modeling Methods: A Review of Computational, Data-Driven, Observational and Experimental, and Conceptual Models"
+  image:
+  authors: "Behzad Nazari, Ebrahim Ahmadisharaf, Paul D. Bates, Hamid Moradkhani, Venkatesh Merwade, Thomas Wahl, Yu Zhang, Ning Lin, Ali Abdolali, Brett F. Sanders, Dai Yamazaki"
+  description:
+  link:
+    url: https://doi.org/10.1029/2025RG000898
+    display: "Reviews of Geophysics, 64(1), e2025RG000898, DOI: 10.1029/2025RG000898"
+  highlight: 0
+  dlab: 0
+  news2:
+
 - ID: C84)
   title: "Past and future change in global river flows"
   image:
