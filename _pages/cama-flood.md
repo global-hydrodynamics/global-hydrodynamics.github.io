@@ -8,8 +8,8 @@ permalink: /CaMa-Flood/
 # CaMa-Flood
 **Global River Hydrodynamics Model**
 
-**Last update:** 7 Feb, 2026
-The latest package version is **CaMa-Flood v4.20 (20240430)**.  
+**Last update:** 12 March, 2026
+The latest package version is **CaMa-Flood v4.30 (20260312)**.  
 
 ---
 
@@ -130,7 +130,7 @@ The CaMa-Flood model and related data can be downloaded from:<br>
 The following packages and datasets are available on the download page.
 
 
-### CaMa-Flood package (v4.20)
+### CaMa-Flood package (v4.30)
 
 The CaMa-Flood package provides the **model source code**, **basic river map data**,  
 and **sample input datasets** required to run CaMa-Flood simulations.
@@ -193,7 +193,7 @@ These datasets are intended for regional-scale simulations over Japan and should
 extracted into the `map/` directory.
 
 **Note:**  
-River maps are identical among CaMa-Flood v4.0, v4.1, and v4.2.
+River maps are identical among CaMa-Flood v4.0 - v4.3.
 A bug in bifurcation maps (glb_06min / glb_03min) was fixed in 2025-07-19. See *Version history* for details.
 
 
@@ -402,6 +402,11 @@ There was a bug in the bifurcation map (`bifori.txt`) in `glb_06min` and `glb_03
 - In `glb_03min`, bifurcation channels in a part of Africa were missing (**S25–S20, E020–E025**).
 
 Corrected maps are now distributed on this webpage.
+
+### Major update in v4.3
+- Levee protection scheme (etc/levee_params/)
+- Tracer scheme (etc/traser_v422_test/)
+- Speed up by Quasi-SparseMatrix and OpenMP+SIMD
 
 ### Major update in v4.2
 - Reservoir operation scheme as a default option
