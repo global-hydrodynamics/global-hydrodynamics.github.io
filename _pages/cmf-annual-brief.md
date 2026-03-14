@@ -6,7 +6,7 @@ permalink: /cmf-annual-brief/
 
 # CaMa-Flood Annual Briefing
 
-**CaMa-Flood Annual Briefing 2025 will be held on 13 March 2026 (Friday), online via Zoom.**
+**CaMa-Flood Annual Briefing 2025 was held on 13 March 2026 (Friday), online via Zoom.**
 
 This annual event provides an overview of recent achievements related to the global river model **CaMa-Flood**, and offers an opportunity for users and developers to showcase their work and strengthen the research network.
 
@@ -16,6 +16,10 @@ The primary focus of the 2025 annual briefing is to introduce and share **resear
   The meeting program (annual progress report) is available here:
 </span>
 - [Download CaMa-Flood Annual Progress Report 2025 (PDF)]({{ site.url }}{{ site.baseurl }}/assets/cama-flood/docs/CaMa-Flood_ProgressReport2025.pdf)
+
+The video report (recording of the meeting) was available in the lower part of this webpage.
+
+<!--
 
 <span style="color: red">
 Registration to join the meeting is open.<br>
@@ -27,6 +31,8 @@ For those presenting your work: Please register to have presentation by <strong>
 **Note:** If you are unable to attend the meeting on **13 March 2026**, a **pre-recorded video presentation** is also welcome.  
 This is a good opportunity to showcase your achievements within the CaMa-Flood community.  
 For video presentations, please make sure to **register using the same online registration form**.
+
+-->
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/slider/CaMa_model.jpg" width="80%" />
 
@@ -64,6 +70,8 @@ The meeting will be held from **11:00 AM to 1:30 PM (GMT)** on **13 March 2026**
 - **11:00 AM – 1:30 PM** in London, UK  
 - **7:00 AM – 9:30 AM** in Washington, DC, USA  
 
+<!--
+
 ---
 
 ### Registration Form
@@ -88,6 +96,8 @@ The meeting will be held from **11:00 AM to 1:30 PM (GMT)** on **13 March 2026**
 - The **CaMa-Flood Annual Progress Report 2025** will be published after the meeting
 
 **Note:** Detailed instructions for the achievement summary will be shared with registered presenters by email.
+
+-->
 
 ---
 
@@ -120,13 +130,31 @@ If you are unsure whether your achievement fits within the scope of the meeting,
 
 ---
 
+### CaMa-Flood Annual Progress Report 2025
+
+The *CaMa-Flood Annual Progress Report 2025* was developed based on contributions submitted for the **CaMa-Flood Annual Briefing 2025**, which was held in March 2026.  
+We sincerely thank all CaMa-Flood users and developers who contributed to this annual report.
+
+- [Download CaMa-Flood Annual Progress Report 2025 (PDF)]({{ site.url }}{{ site.baseurl }}/assets/cama-flood/docs/CaMa-Flood_ProgressReport2025.pdf)
+2025 Annual Progress Briefing Part 1
+<iframe id="video" width="80%" height="350" src="https://www.youtube.com/embed/UFhBRusPEg0?si=xuDl076UQ48nKtNz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+2025 Annual Progress Briefing Part 2
+<iframe id="video" width="80%" height="350" src="https://www.youtube.com/embed/vHgxwkmtajM?si=cVqbn3K6ar6KzENL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+2025 Annual Progress Briefing Part 3
+<iframe id="video" width="80%" height="350" src="https://www.youtube.com/embed/jxpiUWdV1Eg?si=ZT2yMBNkn_bekkkp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p> &nbsp; </p>
+
+---
+
 ### CaMa-Flood Annual Progress Report 2024
 
 The *CaMa-Flood Annual Progress Report 2024* was developed based on contributions submitted for the **CaMa-Flood Annual Briefing 2024**, which was held in March 2025.  
 We sincerely thank all CaMa-Flood users and developers who contributed to this annual report.
 
 - [Download CaMa-Flood Annual Progress Report 2024 (PDF)]({{ site.url }}{{ site.baseurl }}/assets/cama-flood/docs/CaMa-Flood_ProgressReport2024.pdf)
-- [Watch the video report on YouTube](https://www.youtube.com/watch?v=okvOIuvVwJI)
 
 2024 Annual Progress Briefing Part 1
 <iframe id="video" width="80%" height="350" src="https://www.youtube.com/embed/okvOIuvVwJI?si=4zJxbEcV7EoUae3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
