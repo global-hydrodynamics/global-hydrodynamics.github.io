@@ -118,9 +118,8 @@ on 5th and 6th July, 2024 (Friday and Saturday) at the Institute of Industrial S
 
 #### 2024 Program
 
-**2024 Meeting program is available [here](https://hydro.iis.u-tokyo.ac.jp/~yamadai/cmf-meet-2024/CMF-meet2024_Program_0731.pdf)**
+**2024 Meeting program is available [here]({{ site.url }}{{ site.baseurl }}/assets/cama-flood/docs/CMF-meet2024_Program.pdf)**
 
-**2024 Presenattion Abstracts are available [here](https://hydro.iis.u-tokyo.ac.jp/~yamadai/cmf-meet-2024/CMF-meet2024_Abstracts_0731.pdf)**
 
 #### 2024 Awards
 Based on the votes by all participants, three presenters are awarded for their huge contribution to CaMa-Flood modelling community.
