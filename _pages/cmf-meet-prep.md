@@ -7,10 +7,12 @@ permalink: /cmf-meet-prep/
 # CaMa-Flood developer/user international meeting 2026
 
 
+## THIS PAGE IS FOR PREPARATION. NOT OFFICIALLY RELEASED.
+
 **We will have the 2nd international meeting on CaMa-Flood and global hydrodynamics <br>
 on 10th and 11th September, 2026 (Thursday and Friday) at ECMWF headquarters in Reading, United Kingdom.**
 
-**Registration for participation and abstract submission is now open** [Registration (Google Form)]()
+**<span style="color: red">Registration for participation and abstract submission is now open</span>** [Registration (Google Form)](https://forms.gle/4ZLuN3HgrgBTCKsH8)
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/picture/cmf-meet2024.jpg" width="80%" />
 
@@ -50,7 +52,7 @@ Shinfield Park, Reading, RG2 9AX, United Kingdom.<br/>
 - 10-11 Sep 2026: CaMa-Flood developer/user meeting.
 
 #### Registration Form & Deadlines
-Registration for the meeting is open from 10 April 2026.
+**<span style="color: red">Registration for participation and abstract submission is now open</span>** [Registration (Google Form)](https://forms.gle/4ZLuN3HgrgBTCKsH8)
 
 Participants who wish to give a presentation are required to submit their registration together with an abstract (up to 600 words) by 31 May 2026. You may also include supplementary materials (e.g., figures or extended documents) if needed. Please note that giving a presentation is not mandatory.
 Participants who do not plan to present may complete their registration by 31 July 2026.
@@ -99,7 +101,7 @@ These sessions aim to facilitate comprehensive discussions, knowledge sharing, a
 <img src="{{ site.url }}{{ site.baseurl }}/images/slider/CaMa_Mekong.jpg" width="80%" />
 
 ### Organizing Committee
-As of April 2024
+As of April 2026
 - Dai Yamazaki (Chair, UTokyo)
 - Michel Wortmann (Local Organizer, ECMWF)
 - Minako Yokoyama (Secretary, UTokyo)
