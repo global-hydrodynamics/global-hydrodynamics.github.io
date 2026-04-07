@@ -38,7 +38,7 @@ All CaMa-Flood developers and users are cordially invited to participate. We als
 #### Date and location
 The CaMa-Flood meeting will take place **on 10th and 11th September, 2026 (Thursday and Friday)**.
 
-The venue is **ECMWF (European Center for Mid-term Weather Forecast) headquarters** in Reading, UK.<br>
+The venue is **ECMWF (European Center for Midium-range Weather Forecast) headquarters** in Reading, UK.<br>
 Shinfield Park, Reading, RG2 9AX, United Kingdom.<br/>
 (<a href="https://maps.app.goo.gl/CiRar7i78S1uKxUZ7">Maps)
 
@@ -100,7 +100,13 @@ These sessions aim to facilitate comprehensive discussions, knowledge sharing, a
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/slider/CaMa_Mekong.jpg" width="80%" />
 
-### Organizing Committee
+### Logistics
+
+CaMa-Flood developer/user international meeting 2026 is co-organized by
+- Yamazaki Lab, Institute of Industrial Science, The University of Tokyo
+- ECMWF (European Center for Midium-Range Weather Forecast)
+
+#### Organizing Committee
 As of April 2026
 - Dai Yamazaki (Chair, UTokyo)
 - Michel Wortmann (Local Organizer, ECMWF)
@@ -108,6 +114,7 @@ As of April 2026
 - Yuki Tsukada (Secretary, UTokyo)
 
 Please email to Dai Yamazaki ( yamadai [at] iis.u-tokyo.ac.jp ) for question about the meeting.
+
 
 <p> &nbsp; </p>
 
