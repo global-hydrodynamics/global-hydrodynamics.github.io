@@ -1,5 +1,5 @@
 ---
-title: "CaMa-Flood developer/usr meeting"
+title: "CaMa-Flood developer/user meeting"
 layout: pagelay
 permalink: /cmf-meet-prep/
 ---
@@ -23,13 +23,13 @@ Over the past 15 years since its initial development, the global river model CaM
 
 Recent developments have further expanded its capabilities, including the integration of high-accuracy global topography datasets, advances in computational performance (e.g., parallelization and GPU implementations), and the incorporation of new process representations such as levee effects and tracer transport. In parallel, the increasing availability of satellite observations has opened new opportunities for model validation and data assimilation, strengthening the link between simulations and real-world observations.
 
-As a result, CaMa-Flood is now widely used in a broad range of applications, including global flood risk assessment, Earth system modeling, real-time hydrological monitoring, and studies of biogeochemical and ecosystem processes.
+As a result, CaMa-Flood is now widely used in a broad range of applications, including global flood risk assessment, Earth system modelling, real-time hydrological monitoring, and studies of biogeochemical and ecosystem processes.
 
 We are pleased to announce the 2nd international meeting for CaMa-Flood developers and users. This meeting aims to bring together the growing community to exchange knowledge and expertise, share recent scientific and technical advances, and discuss future directions in global river hydrodynamics and its applications.
 
-While the meeting is centered on CaMa-Flood, we strongly encourage participation from the broader community working on global and large-scale hydrodynamic modeling, including researchers developing and applying other modeling frameworks such as LISFLOOD-FP and related approaches. We particularly welcome contributions from the UK and European research communities, given the strong expertise in large-scale flood modeling and hydrodynamics.
+While the meeting is centered on CaMa-Flood, we strongly encourage participation from the broader community working on global and large-scale hydrodynamic modelling, including researchers developing and applying other modelling frameworks.
 
-All CaMa-Flood developers and users are cordially invited to participate. We also warmly welcome researchers interested in global river hydrodynamics, Earth system science, flood risk, and related fields, regardless of whether they are currently using CaMa-Flood. We look forward to a stimulating and productive exchange of ideas and collaborations across different modeling approaches and research communities.
+All CaMa-Flood developers and users are cordially invited to participate. We also warmly welcome researchers interested in global river hydrodynamics, Earth system science, flood risk, and related fields, regardless of whether they are currently using CaMa-Flood. We look forward to a stimulating and productive exchange of ideas and collaborations across different modelling approaches and research communities.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/slider/CaMa_model.jpg" width="80%" />
 
@@ -38,7 +38,7 @@ All CaMa-Flood developers and users are cordially invited to participate. We als
 #### Date and location
 The CaMa-Flood meeting will take place **on 10th and 11th September, 2026 (Thursday and Friday)**.
 
-The venue is **ECMWF (European Center for Midium-range Weather Forecast) headquarters** in Reading, UK.<br>
+The venue is **ECMWF (European Center for Medium-range Weather Forecast) headquarters** in Reading, UK.<br>
 Shinfield Park, Reading, RG2 9AX, United Kingdom.<br/>
 (<a href="https://maps.app.goo.gl/CiRar7i78S1uKxUZ7">Maps)
 
@@ -81,6 +81,7 @@ For full and up-to-date information, please visit the official UK government web
 A list of visa nationals and visa-exempt countries is also available on the same website.
 
 **If you require an invitation letter for visa application purposes, please indicate this by checking the appropriate box in the registration form.**
+**<span style="color: red">Deadline of Registration with VISA invitation letter is 31 May.</span>**
 
 Note: Information on visa application procedures has been sent via email to registered participants.
 
@@ -103,8 +104,12 @@ These sessions aim to facilitate comprehensive discussions, knowledge sharing, a
 ### Logistics
 
 CaMa-Flood developer/user international meeting 2026 is co-organized by
-- Yamazaki Lab, Institute of Industrial Science, The University of Tokyo
-- ECMWF (European Center for Midium-Range Weather Forecast)
+- Yamazaki Lab (Global Hydrodynamics Lab)
+- Institute of Industrial Science, The University of Tokyo
+- ECMWF (European Center for Medium-Range Weather Forecast)
+
+The meeting is supported by
+- KAJIMA Foundation, International Joint Research Grant
 
 #### Organizing Committee
 As of April 2026
@@ -113,7 +118,7 @@ As of April 2026
 - Minako Yokoyama (Secretary, UTokyo)
 - Yuki Tsukada (Secretary, UTokyo)
 
-Please email to Dai Yamazaki ( yamadai [at] iis.u-tokyo.ac.jp ) for question about the meeting.
+Please email to Dai Yamazaki ( yamadai [at] iis.u-tokyo.ac.jp ) for questions about the meeting.
 
 
 <p> &nbsp; </p>
@@ -129,7 +134,7 @@ on 5th and 6th July, 2024 (Friday and Saturday) at the Institute of Industrial S
 
 **2024 Meeting program is available [here]({{ site.url }}{{ site.baseurl }}/assets/cama-flood/docs/CMF-meet2024_Program.pdf)**
 
-**2024 Presenattion Abstracts are available [here]({{ site.url }}{{ site.baseurl }}/assets/cama-flood/docs/CMF-meet2024_Abstracts.pdf)**
+**2024 Presentation Abstracts are available [here]({{ site.url }}{{ site.baseurl }}/assets/cama-flood/docs/CMF-meet2024_Abstracts.pdf)**
 
 #### 2024 Awards
 Based on the votes by all participants, three presenters are awarded for their huge contribution to CaMa-Flood modelling community.
@@ -144,6 +149,6 @@ CaMa-Flood as part of the ECMWF Integrated Forecasting System
 
 **=== CaMa-Flood early career award ===**<br>
 **Mizuki Funato** (The University of Tokyo)<br>
-Development of a Modified Reservoir Operation Scheme for Improved Global Flood Modeling
+Development of a Modified Reservoir Operation Scheme for Improved Global Flood Modelling
 
 <p> &nbsp; </p>
