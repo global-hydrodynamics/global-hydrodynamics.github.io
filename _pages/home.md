@@ -15,6 +15,16 @@ Our studies mainly focus on the dynamics of terrestrial water on a global scale,
 東京大学 [グローバル水文学グループ](https://hydro.iis.u-tokyo.ac.jp/)の一部である全球陸域水動態研究室（ PI:[山崎 大](./yamazaki-cv-j/) )
 のWebページです。 ページ下部に日本語情報があります。
 
+#### NEWS
+
+We will have CaMa-Flood developer/user meeting on 10-11 September 2026 at ECMWF in Reading, UK. 
+
+<span style="color: red">Registration is now open!</span> 
+
+- [Meeting Webpage](./cmf-meet/)
+- [Registration (Google Form)](https://forms.gle/4ZLuN3HgrgBTCKsH8)
+
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/picture/DLab_2024Dec.jpg" width="80%"/>
 
 Group photo in Komaba-2 Campus (Dec 2024)
