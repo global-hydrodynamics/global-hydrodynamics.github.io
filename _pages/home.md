@@ -26,9 +26,7 @@ If you are interested in our team, please visit the pages below:
 - [Promotion (lab highlights)](./promotion/)
 - [Yamazaki's CV](./yamazaki-cv-e/)
 - [Monthly Public Seminar](https://sites.google.com/view/ut-hydro-seminar)
-{% comment %}
- - [Open Campus Posters](https://hydro.iis.u-tokyo.ac.jp/~yamadai/data/doc/YamazakiLab_OpenCampus2023.pdf)
-{% endcomment %}
+- [Open Campus Posters 2024]({{ site.url }}{{ site.baseurl }}/assets/docs/YamazakiLab_OpenCampus2024.pdf)
 
 Our research activities are summarized in:
 - [Research targets and methods](./research/)
