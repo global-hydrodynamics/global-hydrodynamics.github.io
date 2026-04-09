@@ -1,29 +1,139 @@
 ---
-title: "CaMa-Flood meeting 2024"
+title: "CaMa-Flood developer/user meeting"
 layout: pagelay
 permalink: /cmf-meet/
 ---
 
-# CaMa-Flood developer/user international meeting 2024
+# CaMa-Flood developer/user international meeting 2026
 
+**We will have the 2nd international meeting on CaMa-Flood and global hydrodynamics <br>
+on 10th and 11th September, 2026 (Thursday and Friday) at ECMWF headquarters in Reading, United Kingdom.**
 
-**We had the first-ever international meeting on CaMa-Flood and global hydrodynamics <br>
-on 5th and 6th July, 2024 (Friday and Saturday) at the Institute of Industrial Science, The University of Tokyo.**
-
-**2024 Meeting program is available [here]({{ site.url }}{{ site.baseurl }}/assets/cama-flood/docs/CMF-meet2024_Program.pdf)**
-
-**2024 Presenattion Abstracts are available [here]({{ site.url }}{{ site.baseurl }}/assets/cama-flood/docs/CMF-meet2024_Abstracts.pdf)**
+**<span style="color: red">Registration for participation and abstract submission is now open</span>** [Registration (Google Form)](https://forms.gle/4ZLuN3HgrgBTCKsH8)
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/picture/cmf-meet2024.jpg" width="80%" />
 
+(Group photo of 2024 meeting in IIS-UTokyo)
+
 ### About the meeting
-Over the past 15 years since its initial development, the global river model CaMa-Flood has undergone significant advancements. We have introduced numerous new model schemes, incorporated new baseline topography datasets, and refined our analysis methods. Furthermore, CaMa-Flood has become widely utilized for various applications, including flood risk assessment, Earth's climate system modeling, and data assimilation.
+Over the past 15 years since its initial development, the global river model CaMa-Flood has undergone substantial advancements, evolving into a physically consistent and versatile framework for large-scale river hydrodynamics. Based on the catchment-based macro-scale floodplain (CMF) approach, the model explicitly represents water surface elevation, enabling realistic simulations of river discharge, water level, and floodplain inundation across continental to global scales.
 
-We are excited to announce the first-ever international meeting for CaMa-Flood developers and users. This gathering aims to facilitate the exchange of knowledge and expertise, allowing participants to share insights, discuss current advancements, and explore future developments and applications of CaMa-Flood.
+Recent developments have further expanded its capabilities, including the integration of high-accuracy global topography datasets, advances in computational performance (e.g., parallelization and GPU implementations), and the incorporation of new process representations such as levee effects and tracer transport. In parallel, the increasing availability of satellite observations has opened new opportunities for model validation and data assimilation, strengthening the link between simulations and real-world observations.
 
-All CaMa-Flood developers and users are cordially invited to participate in the meeting. Moreover, we extend a warm welcome to all researchers interested in global river hydrodynamics, regardless of whether they are currently using CaMa-Flood. We look forward to fostering a diverse and enriching exchange of ideas and collaborations during the event.
+As a result, CaMa-Flood is now widely used in a broad range of applications, including global flood risk assessment, Earth system modelling, real-time hydrological monitoring, and studies of biogeochemical and ecosystem processes.
 
-### Awards
+We are pleased to announce the 2nd international meeting for CaMa-Flood developers and users. This meeting aims to bring together the growing community to exchange knowledge and expertise, share recent scientific and technical advances, and discuss future directions in global river hydrodynamics and its applications.
+
+While the meeting is centered on CaMa-Flood, we strongly encourage participation from the broader community working on global and large-scale hydrodynamic modelling, including researchers developing and applying other modelling frameworks.
+
+All CaMa-Flood developers and users are cordially invited to participate. We also warmly welcome researchers interested in global river hydrodynamics, Earth system science, flood risk, and related fields, regardless of whether they are currently using CaMa-Flood. We look forward to a stimulating and productive exchange of ideas and collaborations across different modelling approaches and research communities.
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/slider/CaMa_model.jpg" width="80%" />
+
+### Meeting Info
+
+#### Date and location
+The CaMa-Flood meeting will take place **on 10th and 11th September, 2026 (Thursday and Friday)**.
+
+The venue is **ECMWF (European Center for Medium-range Weather Forecast) headquarters** in Reading, UK.<br>
+Shinfield Park, Reading, RG2 9AX, United Kingdom.<br/>
+(<a href="https://maps.app.goo.gl/CiRar7i78S1uKxUZ7">Maps)
+
+#### Schedule
+
+- 10 Apr 2026: Registration and abstract submission open.
+- 31 May 2026: Deadline - Registration with abstract submission
+- 31 May 2026: Deadline - Request of invitation letter for visa support (for participants requiring a visa)
+- June 2026: Announcement of the program.
+- 31 Jul 2026: Deadline - Registration without abstract submission 
+- 10-11 Sep 2026: CaMa-Flood developer/user meeting.
+
+#### Registration Form & Deadlines
+**<span style="color: red">Registration for participation and abstract submission is now open</span>** [Registration (Google Form)](https://forms.gle/4ZLuN3HgrgBTCKsH8)
+
+Participants who wish to give a presentation are required to submit their registration together with an abstract (up to 600 words) by 31 May 2026. You may also include supplementary materials (e.g., figures or extended documents) if needed. Please note that giving a presentation is not mandatory.
+Participants who do not plan to present may complete their registration by 31 July 2026.
+Participants who require an invitation letter for visa application purposes must complete their registration and request the letter by 31 May 2026.
+
+#### Registration Fee
+There is **no registration fee** for the meeting.<br>
+
+Please note that we are unable to offer any financial support for travel expenses at this time, as we do not have any sponsors secured yet. <br>
+We kindly ask participants to make their own arrangements for travel and accommodation. Thank you for your understanding.<br>
+
+#### VISA for the United Kingdom
+Please note that any foreign visitor entering the United Kingdom must possess a valid passport for the duration of their stay and must comply with UK immigration requirements.
+
+For short stays (usually up to a few months) for purposes such as attending conferences, business meetings, tourism, or visiting friends and relatives—without engaging in paid work—visitors should check the requirements for a Standard Visitor visa.
+
+Depending on your nationality, you may:
+
+- enter the UK without a visa, or
+- be required to obtain a visa in advance, or
+- be required to apply for an Electronic Travel Authorisation (ETA) prior to travel.
+
+For full and up-to-date information, please visit the official UK government website: 
+[https://www.gov.uk/check-uk-visa]
+
+A list of visa nationals and visa-exempt countries is also available on the same website.
+
+**If you require an invitation letter for visa application purposes, please indicate this by checking the appropriate box in the registration form.**
+**<span style="color: red">Deadline of Registration with VISA invitation letter is 31 May.</span>**
+
+Note: Information on visa application procedures has been sent via email to registered participants.
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/picture/ECMWF_reading.jpg" width="80%" />
+
+
+### Program
+
+We are considering the following sessions for the CaMa-Flood meeting:
+
+- Opening keynote speeches & icebreaker session
+- Oral presentation session focusing on CaMa-Flood development
+- Oral presentation session highlighting CaMa-Flood applications
+- Poster session scheduled for Thursday evening
+
+These sessions aim to facilitate comprehensive discussions, knowledge sharing, and networking opportunities among participants.
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/slider/CaMa_Mekong.jpg" width="80%" />
+
+### Logistics
+
+CaMa-Flood developer/user international meeting 2026 is co-organized by
+- Yamazaki Lab (Global Hydrodynamics Lab)
+- Institute of Industrial Science, The University of Tokyo
+- ECMWF (European Center for Medium-Range Weather Forecast)
+
+The meeting is supported by
+- KAJIMA Foundation, International Joint Research Grant
+
+#### Organizing Committee
+As of April 2026
+- Dai Yamazaki (Chair, UTokyo)
+- Michel Wortmann (Local Organizer, ECMWF)
+- Minako Yokoyama (Secretary, UTokyo)
+- Yuki Tsukada (Secretary, UTokyo)
+
+Please email to Dai Yamazaki ( yamadai [at] iis.u-tokyo.ac.jp ) for questions about the meeting.
+
+
+<p> &nbsp; </p>
+
+---
+
+### Past meetings
+
+We had the first-ever international meeting on CaMa-Flood and global hydrodynamics <br>
+on 5th and 6th July, 2024 (Friday and Saturday) at the Institute of Industrial Science, The University of Tokyo.
+
+#### 2024 Program
+
+**2024 Meeting program is available [here]({{ site.url }}{{ site.baseurl }}/assets/cama-flood/docs/CMF-meet2024_Program.pdf)**
+
+**2024 Presentation Abstracts are available [here]({{ site.url }}{{ site.baseurl }}/assets/cama-flood/docs/CMF-meet2024_Abstracts.pdf)**
+
+#### 2024 Awards
 Based on the votes by all participants, three presenters are awarded for their huge contribution to CaMa-Flood modelling community.
 
 **=== CaMa-Flood best developer award ===** <br>
@@ -36,99 +146,6 @@ CaMa-Flood as part of the ECMWF Integrated Forecasting System
 
 **=== CaMa-Flood early career award ===**<br>
 **Mizuki Funato** (The University of Tokyo)<br>
-Development of a Modified Reservoir Operation Scheme for Improved Global Flood Modeling
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/slider/CaMa_model.jpg" width="80%" />
-
-### Meeting Info
-
-#### Date and location
-The CaMa-Flood meeting will take place **on 5th and 6th July, 2024 (Friday and Saturday)**.
-
-The venue will be a conference hall located at the **Institute of Industrial Science, The University of Tokyo**.<br>
-The institute is situated within UTokyo Komaba-2 Research Campus, which is conveniently close to Shibuya, in central Tokyo.
-
-#### Address
-4-6-1 Komaba, Meguro-Ku, Tokyo, 153-8505, Japan<br/>
-(<a href="https://goo.gl/maps/SNCw9DrqL6Rzs4XM9">Maps</a>, <a href="https://www.iis.u-tokyo.ac.jp/en/access/">Directions</a>)
-
-#### Schedule
-
-- 5  Feb 2024: Registration and abstract submission open.
-- 15 Mar 2024: Abstract submission deadline.
-- May 2024: Announcement of the program.
-- 5-6th July 2024: CaMa-Flood meeting.
-
-#### Registration Form & Deadline
-~~The deadline to register for the meeting is April 7th 2024. <br>
-Official registration period was over. If you are considering to join the meeting, please contact the organizing team. We may be able to accept late registration.~~
-
-We highly welcome you to make a presentation in the workshop. Please prepare your presentation title and abstract (up to 600 words). You may also include supplementary material (Figures, Extended documents) if needed. Note that making presentation is not mandatory.
-
-#### Registration Fee
-There is **no registration fee** for the meeting.<br>
-
-Please note that we are unable to offer any financial support for travel expenses at this time, as we do not have any sponsors secured yet. <br>
-We kindly ask participants to make their own arrangements for travel and accommodation. Thank you for your understanding.<br>
-
-#### VISA for Japan
-Please note that any foreign visitor entering Japan must possess a valid passport for the duration of their stay, and all visitors must adhere to the conditions of their visas.
-
-For visa information regarding stays of up to 90 days for purposes such as tourism, business, visiting friends or relatives, etc., which do not involve remunerative activities, please visit the Ministry of Foreign Affairs of Japan website at [https://www.mofa.go.jp/j_info/visit/visa/index.html](https://www.mofa.go.jp/j_info/visit/visa/index.html).
-
-Additionally, an overview of countries that are exempt from visa requirements can be found on the same website.
-
-Note: we sent information on VISA issuing procedure via email to registered participants.
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/picture/IIS-campus.jpg" width="80%" />
-
-#### Reccomended hotels
-List of reccomended hotels near by the Komaba-2 Campus
-
-**Around 30,000yen**
-- Shibuya Excel Hotel Tokyo 
-- JR EAST HOTEL METS SHIBUYA
-- Shibuya Tokyu REI Hotel
-- Sequence MIYASHITA PARK shibuya
-
-**Around 20,000 yen**
-- Shibuya Granbell Hotel
-- Shibuya Tobu Hotel 
-
-**Around 15,000 yen**
-- Shinjuku Washington Hotel Main Building
-- Shinjuku Granbell Hotel
-
-### Program
-
-We are considering the following sessions for the CaMa-Flood meeting:
-
-- Opening keynote speeches & icebreaker session
-- Oral presentation session focusing on CaMa-Flood development
-- Oral presentation session highlighting CaMa-Flood applications
-- Poster session scheduled for Friday evening
-
-These sessions aim to facilitate comprehensive discussions, knowledge sharing, and networking opportunities among participants.
-
-#### Related Meeting
-9th GEWEX conference (Global Energy and Water Exchanges open science conference) is to be held thtough 7-12th July 2024 in Sapporo, Japan.
-
-Participants of the CaMa-Flood meeting are encouraged to consider attending the GEWEX conference to maximize the productivity of their visit to Japan. This presents an excellent opportunity for attendees to engage with a broader community of researchers and exchange insights on global energy and water exchanges.
-
-For more information about the GEWEX conference, please visit the conference website at
-[https://www.gewexevents.org/meetings/gewex-osc2024/](https://www.gewexevents.org/meetings/gewex-osc2024/)
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/slider/CaMa_Mekong.jpg" width="80%" />
-
-### Organizing Committee
-As of Jan 2024
-- Dai Yamazaki (Chair, UTokyo)
-- Gang Zhao    (UTokyo)
-- Zhou Xudong  (Ningbo Univ)
-- Taishi Yazawa (UTokyo)
-- Minako Yokoyama (Secretary, UTokyo)
-- Yuki Tsukada (Secretary, UTokyo)
-
-Please email to Dai Yamazaki ( yamadai [at] iis.u-tokyo.ac.jp ) and/or Gang Zhao (gangzhao [at] rainbow.iis.u-tokyo.ac.jp ) for question about the meeting.
+Development of a Modified Reservoir Operation Scheme for Improved Global Flood Modelling
 
 <p> &nbsp; </p>
