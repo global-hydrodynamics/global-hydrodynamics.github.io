@@ -24,6 +24,9 @@ Let's learn about the rainfall-runoff process through playing the game. Press th
 SplashTune (v2.3)<br>
 [Access to source code on Scratch webpage: https://scratch.mit.edu/projects/1194996537](https://scratch.mit.edu/projects/1194996537/)<br> 
 
+To speed-up simulations, please access to Scratch webpage.
+From "Edit" tab, please turn on Turbo-Mode.
+
 ### Rules and How to Play
 #### 1. Game Objective
 The game represents various processes through rainfall in the river basin to runoff as the movement of water particles in animation.

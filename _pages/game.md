@@ -28,6 +28,11 @@ frameborder="0" scrolling="no" allowfullscreen></iframe>
 **SplashTune (v2.3)**  
 - [Scratch のソースコードはこちら](https://scratch.mit.edu/projects/1194996537/)
 
+シミュレーションの速度をあげたい場合、Scratchページから「中を見る」でソースコードにアクセスして
+「編集」タブからターボモードをONにしてください。
+
+
+
 ---
 
 ## ルールと遊びかた
