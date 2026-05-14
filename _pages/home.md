@@ -49,7 +49,7 @@ Our main research products are here:
 - [CaMa-Flood : Global river model](./CaMa-Flood/)
 - [MERIT Hydro: global river data](./MERIT_Hydro/)
 - [MERIT DEM  : global topography data](./MERIT_DEM/)
-- [J-FlwDir   : Japan River Mapg](./J-FlwDir/)
+- [J-FlwDir   : Japan River Map](./J-FlwDir/)
 - [SplashTune! Rainfall-Runoff Game](./game/)
 
 
