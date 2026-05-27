@@ -7,7 +7,8 @@ permalink: /cmf-meet/
 # CaMa-Flood developer/user international meeting 2026
 
 **We will have the 2nd international meeting on CaMa-Flood and global hydrodynamics <br>
-on 10th and 11th September, 2026 (Thursday and Friday) at ECMWF headquarters in Reading, United Kingdom.**
+on 10th and 11th September, 2026 (Thusday - Friday) at ECMWF headquarters in Reading, United Kingdom.**<br>
+There will be "Interactive discussion session among users and developers" and "Icebreaker" sessions on 9th September (in Reading City, optional)
 
 **<span style="color: red">Registration for participation and abstract submission is now open</span>** [Registration (Google Form)](https://forms.gle/4ZLuN3HgrgBTCKsH8)
 
@@ -33,7 +34,9 @@ All CaMa-Flood developers and users are cordially invited to participate. We als
 ### Meeting Info
 
 #### Date and location
-The CaMa-Flood meeting will take place **on 10th and 11th September, 2026 (Thursday and Friday)**.
+The CaMa-Flood meeting will take place **through 9th and 11th September, 2026 (Wednesday - Friday)**.<br>
+- 9th Sep: Pre-conference interactive discussion among users and developers + Icebreaker session (in Reading City, optional)
+- 10-11th Sep: Main conference took place in ECMWF
 
 The venue is **ECMWF (European Center for Medium-range Weather Forecast) headquarters** in Reading, UK.<br>
 Shinfield Park, Reading, RG2 9AX, United Kingdom.<br/>
@@ -41,12 +44,13 @@ Shinfield Park, Reading, RG2 9AX, United Kingdom.<br/>
 
 #### Schedule
 
-- 10 Apr 2026: Registration and abstract submission open.
-- 31 May 2026: Deadline - Registration with abstract submission
-- 31 May 2026: Deadline - Request of invitation letter for visa support (for participants requiring a visa)
-- June 2026: Announcement of the program.
-- 31 Jul 2026: Deadline - Registration without abstract submission 
-- 10-11 Sep 2026: CaMa-Flood developer/user meeting.
+- 10 Apr: Registration and abstract submission open.
+- 31 May: Deadline - Registration with abstract submission
+- 31 May: Deadline - Request of invitation letter for visa support (for participants requiring a visa)
+- End of June: Announcement of the program.
+- 31 Jul: Deadline - Registration without abstract submission 
+- 9 Sep:  Pre-conference Interactive Discussion + Icebreaker
+- **10-11 Sep 2026: CaMa-Flood developer/user meeting**
 
 #### Registration Form & Deadlines
 **<span style="color: red">Registration for participation and abstract submission is now open</span>** [Registration (Google Form)](https://forms.gle/4ZLuN3HgrgBTCKsH8)
