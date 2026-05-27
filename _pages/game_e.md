@@ -27,6 +27,9 @@ SplashTune (v2.3)<br>
 To speed-up simulations, please access to Scratch webpage.
 From "Edit" tab, please turn on Turbo-Mode.
 
+If you want to increase the speed even further, try the [high-speed version of TurboWarp](https://turbowarp.org/1194996537/fullscreen?fps=250&hqpen&turbo).
+(Note: Due to specifications, it may not be possible to achieve a perfect score with the TurboWarp version.)
+
 ### Rules and How to Play
 #### 1. Game Objective
 The game represents various processes through rainfall in the river basin to runoff as the movement of water particles in animation.

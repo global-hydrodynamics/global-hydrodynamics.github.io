@@ -31,6 +31,8 @@ frameborder="0" scrolling="no" allowfullscreen></iframe>
 シミュレーションの速度をあげたい場合、Scratchページから「中を見る」でソースコードにアクセスして
 「編集」タブからターボモードをONにしてください。
 
+もっと速度を上げたい場合は [TurboWarpの高速版](https://turbowarp.org/1194996537/fullscreen?fps=250&hqpen&turbo) を試してください。
+（TurboWarp版では、仕様により100点がとれない場合があります）
 
 
 ---
