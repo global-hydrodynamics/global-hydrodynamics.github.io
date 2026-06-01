@@ -45,8 +45,8 @@ Shinfield Park, Reading, RG2 9AX, United Kingdom.<br/>
 #### Schedule
 
 - 10 Apr: Registration and abstract submission open.
-- 31 May: Deadline - Registration with abstract submission
-- 31 May: Deadline - Request of invitation letter for visa support (for participants requiring a visa)
+- <span style="color: red">14 June: Deadline (Extended)</span> - Registration with abstract submission
+- <span style="color: red">14 June: Deadline (Extended, early registration recommended)</span> - Request of invitation letter for visa support (for participants requiring a visa)
 - End of June: Announcement of the program.
 - 31 Jul: Deadline - Registration without abstract submission 
 - 9 Sep:  Pre-conference Interactive Discussion + Icebreaker
