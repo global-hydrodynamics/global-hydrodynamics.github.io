@@ -21,17 +21,17 @@ SplashTune は、降雨–流出モデルにおける**地表面状態**を操�
 ゲームをプレイしながら、降雨–流出プロセスの基本的な考え方を体験的に学んでみましょう。  
 緑の旗ボタンを押すとゲームがスタートします。
 
-<iframe src="https://scratch.mit.edu/projects/1194996537/embed"
+<iframe src="https://scratch.mit.edu/projects/1328341495/embed"
 allowtransparency="true" width="720" height="460"
 frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 **SplashTune (v2.3)**  
-- [Scratch のソースコードはこちら](https://scratch.mit.edu/projects/1194996537/)
+- [Scratch のソースコードはこちら](https://scratch.mit.edu/projects/1328341495/)
 
 シミュレーションの速度をあげたい場合、Scratchページから「中を見る」でソースコードにアクセスして
 「編集」タブからターボモードをONにしてください。
 
-もっと速度を上げたい場合は [TurboWarpの高速版](https://turbowarp.org/1194996537/fullscreen?fps=250&hqpen&turbo) を試してください。
+もっと速度を上げたい場合は [TurboWarpの高速版](https://turbowarp.org/1328341495/fullscreen?fps=120&hqpen&turbo) を試してください。
 （TurboWarp版では、仕様により100点がとれない場合があります）
 
 
@@ -213,7 +213,7 @@ SplashTune では、その中でも以下の要素を簡略化して表現して
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/scratch/Scratch_fig05.jpg" width="50%" />
 
-- [最新版 v2.3](https://scratch.mit.edu/projects/1194996537)
+- [最新版 v2.3](https://scratch.mit.edu/projects/1328341495)
 - [シンプル版 v1.1](https://scratch.mit.edu/projects/864115525/)
 
 ---
