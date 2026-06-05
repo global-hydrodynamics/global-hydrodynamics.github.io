@@ -5,7 +5,9 @@ permalink: /game/
 ---
 
 # **SplashTune!**
-*(Scratch-based Playable Simulator for Hydrograph Tuning)*
+*Scratch-based Playable Simulator for Hydrograph Tuning*
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/scratch/SplashTune.png" width="50%" />
 
 [English version is here](../game_e/)
 
