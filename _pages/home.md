@@ -36,7 +36,7 @@ If you are interested in our team, please visit the pages below:
 - [Promotion (lab highlights)](./promotion/)
 - [Yamazaki's CV](./yamazaki-cv-e/)
 - [Monthly Public Seminar](https://sites.google.com/view/ut-hydro-seminar)
-- [Open Campus Posters 2024]({{ site.url }}{{ site.baseurl }}/assets/docs/YamazakiLab_OpenCampus2024.pdf)
+- [Open Campus Posters 2026]({{ site.url }}{{ site.baseurl }}/assets/docs/YamazakiLab_OpenCampus2026.pdf)
 
 Our research activities are summarized in:
 - [Research targets and methods](./research/)
