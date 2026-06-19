@@ -1,12 +1,36 @@
 ## Yamazaki Lab work
+- ID: Y56)
+  title: "Playable hydrology: Learning about flood generation processes through the gamified rainfall–runoff model SplashTune"
+  image: 2026_Scratch.png
+  authors: "Dai Yamazaki, Taishi Yazawa"
+  description:
+  link:
+    url: https://doi.org/10.1029/2025WR041550
+    display: "Water Resources Research, 62, e2025WR041550, 2026, DOI: 10.1029/2025WR041550"
+  highlight: 1
+  dlab: 1
+  news2:
+
+- ID: Y55)
+  title: "Flood volume allocation method for flood hazard mapping using river model with levee scheme"
+  image: 
+  authors: "Muhammad Hasnain Aslam, Yukiko Hirabayashi, Dai Yamazaki, Gang Zhao, Yuki Kita, and Do Ngoc Khanh"
+  description:
+  link:
+    url: https://doi.org/10.5194/gmd-19-3709-2026
+    display: "Geoscientific Model Development, 19, 3709–3724, 2026, DOI: 10.5194/gmd-19-3709-2026"
+  highlight: 0
+  dlab: 1
+  news2:
+
 - ID: Y54)
   title: "Comparing assimilation of remotely sensed discharge derived from SWOT and Landsat into a global hydrological model"
   image: 
   authors: "Yuki Ishikawa, Dai Yamazaki, Colin J. Gleason, Naota Hanasaki, Shunji Kotsuki, Daiya Shiojiri, and Elisa Friedmann"
   description:
   link:
-    url: 
-    display: "Water Resources Research, 2026, (accepted)"
+    url: https://doi.org/10.1029/2025WR040866
+    display: "Water Resources Research, 62, e2025WR040866, 2026, DOI: 10.1029/2025WR040866"
   highlight: 0
   dlab: 1
   news2:
@@ -667,6 +691,45 @@
 
 ######################################################################################
 ### Collaboration work ###
+
+- ID: C88)
+  title: "Remote sensing and the new global river science"
+  image:
+  authors: "Dongmei Feng, Xiao Yang, Tamlin M. Pavelsky, George H. Allen, Paul Bates, Colin J. Gleason, John Gardner, Bernhard Lehner, Jida Wang, Sarah Cooley, Angelica Tarpanelli, Tom Battin, Dai Yamazaki, Michael Durand, Peter Raymond, Richard Boothroyd, Peirong Lin & Konstantinos M. Andreadis"
+  description:
+  link:
+    url: https://doi.org/10.1038/s44221-026-00665-2
+    display: "Nature Water, Published Online, 2026, DOI: 10.1038/s44221-026-00665-2"
+  highlight: 0
+  dlab: 0
+  news2:
+
+- ID: C87)
+  title: "Global patterns of reservoir sedimentation and overlooked risks in small reservoirs"
+  image:
+  authors: "Kai Liu, Chenyu Fan, Chunqiao Song, Jim Best, Jida Wang, Linghong Ke, Yoshihide Wada, Dongfeng Li, Dai Yamazaki, Anjun Deng, Jiaming Na, Md Safat Sikder & R. Iestyn Woolway"
+  description:
+  link:
+    url: https://doi.org/10.1038/s41893-026-01859-y
+    display: "Nature Sustainability, Published Online, 2026, DOI: 10.1038/s41893-026-01859-y"
+  highlight: 0
+  dlab: 0
+  news2:
+
+- ID: C86)
+  title: "River channel change can affect flood hazard and impact substantially"
+  image:
+  authors: "Laurence Hawker, Stephen E. Darby, Louise Slater, Daniel R. Parsons, Richard J. Boothroyd, Philip J. Ashworth, Hannah Cloke, Pauline Delorme, Solomon H. Gebrechorkos, Helen Griffith, Yukiko Hirabayashi, Julian Leyland, Yinxue Liu, Stuart J. McLelland, Jeffrey Neal, Andrew P. Nicholas, Greg Sambrook Smith, Chris Sampson, Ellie Vahidi, Michel Wortmann & Dai Yamazaki"
+  description:
+  link:
+    url: https://doi.org/10.1038/s43247-026-03517-9
+    display: "Communications Earth & Environment, Published Online, 2026, DOI: 10.1038/s43247-026-03517-9"
+  highlight: 0
+  dlab: 0
+  news2:
+
+### FY2026
+### FY2025
 - ID: C85)
   title: "Synergistic Integration of Flood Inundation Modeling Methods: A Review of Computational, Data-Driven, Observational and Experimental, and Conceptual Models"
   image:
@@ -674,7 +737,7 @@
   description:
   link:
     url: https://doi.org/10.1029/2025RG000898
-    display: "Reviews of Geophysics, 64(1), e2025RG000898, DOI: 10.1029/2025RG000898"
+    display: "Reviews of Geophysics, 64(1), e2025RG000898, 2026, DOI: 10.1029/2025RG000898"
   highlight: 0
   dlab: 0
   news2:

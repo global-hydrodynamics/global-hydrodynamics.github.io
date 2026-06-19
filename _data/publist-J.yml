@@ -1,5 +1,16 @@
 ## Yamazaki Lab work
 
+- ID: JY21)
+  title: "高密度地形観測による山地渓流域ステッププール河川の水理シミュレーション"
+  e-title: "Hydraulic Simulation of Step–Pool Channels in Mountain Streams Using High-Density Topographic Observation"
+  authors: "若松 駿, 山崎 大, 矢澤 大志, 浅野 友子"
+  description:
+  link:
+    url: https://doi.org/10.3178/jjshwr.39.1927
+    display: "水文・水資源学会誌, 39(2), 148-160, 2026, DOI: 10.3178/jjshwr.39.1927"
+  dlab: 1
+
+
 ## FY2026
 
 ## FY2025 no Jp paper
@@ -213,6 +224,9 @@
   dlab: 1
 
 ## Collaboration work
+
+## FY2026
+## FY2025
 
 - ID: JC24)
   title: "堤防を考慮した日本域におけるCaMa-Floodシミュレーション"
