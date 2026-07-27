@@ -1,4 +1,15 @@
 ## Yamazaki Lab work
+- ID: Y57)
+  title: "CaMa-Flood-GPU: a GPU-based hydrodynamic model implementation for scalable global simulations"
+  authors: "Shengyu Kang, Jiabo Yin, and Dai Yamazaki"
+  description:
+  link:
+    url: https://doi.org/10.5194/gmd-19-5623-2026
+    display: "Geoscience Model Development, 19, 5623–5640, 2026, DOI: 10.5194/gmd-19-5623-2026"
+  highlight: 0
+  dlab: 1
+  news2:
+
 - ID: Y56)
   title: "Playable hydrology: Learning about flood generation processes through the gamified rainfall–runoff model SplashTune"
   image: 2026_Scratch.png
@@ -691,6 +702,18 @@
 
 ######################################################################################
 ### Collaboration work ###
+
+- ID: C89)
+  title: "Projecting flood exposure in China under future climate and population change: an age-structured analysis based on the SSP-RCP scenarios"
+  image:
+  authors: "Qian Yao, Can Lu, Mengya Li, Jiangyang Lin, Hanqing Xu, Dai Yamazaki, Jun Wang"
+  description:
+  link:
+    url: https://doi.org/10.1016/j.jhydrol.2026.136055
+    display: "Journal of Hydrology, 678, 136055, 2026, DOI: 10.1016/j.jhydrol.2026.136055"
+  highlight: 0
+  dlab: 0
+  news2:
 
 - ID: C88)
   title: "Remote sensing and the new global river science"
