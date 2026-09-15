@@ -18,7 +18,7 @@ Our studies mainly focus on the dynamics of terrestrial water on a global scale,
 #### NEWS
 
 We had CaMa-Flood developer/user meeting on 10-11 September 2026 at ECMWF in Reading, UK. 
-- [Meeting Webpage](./cmf-meet-2026/)
+- [Meeting Webpage](./cmf-meet/)
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/picture/DLab_2024Dec.jpg" width="80%"/>
@@ -150,14 +150,14 @@ More information on registration, deadlines, and previous briefing materials is 
 We host the **CaMa-Flood Developer/User International Meeting** approximately every two years, focusing on in-depth technical discussions and future directions of the model.
 
 The first CaMa-Flood Developer/User Meeting was held on **5–6 July 2024** at the Institute of Industrial Science, The University of Tokyo.  
-[2024 Meeting webpage is here](./cmf-meet-2024/)
+[2024 Meeting webpage is here](./cmf-meet-2026/)
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/picture/cmf-meet2026.png" width="80%"/>
 
 The 2nd **CaMa-Flood Developer/User Meeting 2026** was held on
 **10–11 September 2026** as a face-to-face, on-site meeting at **ECMWF, Reading, United Kingdom**.
 
-[2024 Meeting webpage is here](./cmf-meet-2026/)
+[2024 Meeting webpage is here](./cmf-meet-2024/)
 
 The next meeting is planned in 2028 or 2029 in Tokyo.
 
