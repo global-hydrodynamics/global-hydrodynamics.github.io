@@ -45,18 +45,18 @@ Recent developments have further expanded its capabilities, including the integr
 
 As a result, CaMa-Flood is now widely used in a broad range of applications, including global flood risk assessment, Earth system modelling, real-time hydrological monitoring, and studies of biogeochemical and ecosystem processes.
 
-We are pleased to announce the 2nd international meeting for CaMa-Flood developers and users. This meeting aims to bring together the growing community to exchange knowledge and expertise, share recent scientific and technical advances, and discuss future directions in global river hydrodynamics and its applications.
+The 2nd International Meeting for CaMa-Flood Developers and Users was held to bring together the growing community, exchange knowledge and expertise, share recent scientific and technical advances, and discuss future directions in global river hydrodynamics and its applications.
 
-While the meeting is centered on CaMa-Flood, we strongly encourage participation from the broader community working on global and large-scale hydrodynamic modelling, including researchers developing and applying other modelling frameworks.
+While the meeting was centered on CaMa-Flood, it also welcomed participation from the broader community working on global and large-scale hydrodynamic modelling, including researchers developing and applying other modelling frameworks.
 
-All CaMa-Flood developers and users are cordially invited to participate. We also warmly welcome researchers interested in global river hydrodynamics, Earth system science, flood risk, and related fields, regardless of whether they are currently using CaMa-Flood. We look forward to a stimulating and productive exchange of ideas and collaborations across different modelling approaches and research communities.
+The meeting brought together CaMa-Flood developers and users, as well as researchers interested in global river hydrodynamics, Earth system science, flood risk, and related fields. It provided a valuable opportunity for stimulating discussions, exchange of ideas, and the development of new collaborations across different modelling approaches and research communities.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/slider/CaMa_model.jpg" width="80%" />
 
 ### Meeting Info
 
 #### Date and location
-The CaMa-Flood meeting will take place **through 9th and 11th September, 2026 (Wednesday - Friday)**.<br>
+The CaMa-Flood meeting took place **through 9th and 11th September, 2026 (Wednesday - Friday)**.<br>
 - 9th Sep: Pre-conference interactive discussion among users and developers + Icebreaker session (in Reading City, optional)
 - 10-11th Sep: Main conference took place in ECMWF
 
@@ -73,6 +73,8 @@ Shinfield Park, Reading, RG2 9AX, United Kingdom.<br/>
 - 31 Jul: Deadline - Registration without abstract submission 
 - 9 Sep:  Pre-conference Interactive Discussion + Icebreaker
 - **10-11 Sep 2026: CaMa-Flood developer/user meeting**
+
+<span style="color: lightgrey;">
 
 #### Registration Form & Deadlines
 Participants who wish to give a presentation are required to submit their registration together with an abstract (up to 600 words) by 31 May 2026. You may also include supplementary materials (e.g., figures or extended documents) if needed. Please note that giving a presentation is not mandatory.
@@ -102,9 +104,11 @@ For full and up-to-date information, please visit the official UK government web
 A list of visa nationals and visa-exempt countries is also available on the same website.
 
 **If you require an invitation letter for visa application purposes, please indicate this by checking the appropriate box in the registration form.**
-**<span style="color: red">Deadline of Registration with VISA invitation letter is 31 May.</span>**
+**Deadline of Registration with VISA invitation letter is 31 May.**
 
 Note: Information on visa application procedures has been sent via email to registered participants.
+
+</span>
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/picture/ECMWF_reading.jpg" width="80%" />
 
