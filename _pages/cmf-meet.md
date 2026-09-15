@@ -4,7 +4,7 @@ layout: pagelay
 permalink: /cmf-meet/
 ---
 
-# CaMa-Flood developer/user international meeting 2026
+# CaMa-Flood developer/user international meeting
 
 **We had the 2nd international meeting on CaMa-Flood and global hydrodynamics <br>
 on 10th and 11th September, 2026 (Thusday - Friday) at ECMWF headquarters in Reading, United Kingdom.**<br>
