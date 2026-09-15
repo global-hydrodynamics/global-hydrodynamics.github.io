@@ -74,7 +74,7 @@ Shinfield Park, Reading, RG2 9AX, United Kingdom.<br/>
 - 9 Sep:  Pre-conference Interactive Discussion + Icebreaker
 - **10-11 Sep 2026: CaMa-Flood developer/user meeting**
 
-<span style="color: lightgrey;">
+<div style="color: #999999;">
 
 #### Registration Form & Deadlines
 Participants who wish to give a presentation are required to submit their registration together with an abstract (up to 600 words) by 31 May 2026. You may also include supplementary materials (e.g., figures or extended documents) if needed. Please note that giving a presentation is not mandatory.
@@ -108,7 +108,7 @@ A list of visa nationals and visa-exempt countries is also available on the same
 
 Note: Information on visa application procedures has been sent via email to registered participants.
 
-</span>
+</div>
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/picture/ECMWF_reading.jpg" width="80%" />
 
