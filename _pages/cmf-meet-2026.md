@@ -74,41 +74,6 @@ Shinfield Park, Reading, RG2 9AX, United Kingdom.<br/>
 - 9 Sep:  Pre-conference Interactive Discussion + Icebreaker
 - **10-11 Sep 2026: CaMa-Flood developer/user meeting**
 
-<div style="color: #aaaacc;">
-
-#### Registration Form & Deadlines
-Participants who wish to give a presentation are required to submit their registration together with an abstract (up to 600 words) by 31 May 2026. You may also include supplementary materials (e.g., figures or extended documents) if needed. Please note that giving a presentation is not mandatory.
-Participants who do not plan to present may complete their registration by 31 July 2026.
-Participants who require an invitation letter for visa application purposes must complete their registration and request the letter by 31 May 2026.
-
-#### Registration Fee
-There is **no registration fee** for the meeting.<br>
-
-Please note that we are unable to offer any financial support for travel expenses at this time, as we do not have any sponsors secured yet. <br>
-We kindly ask participants to make their own arrangements for travel and accommodation. Thank you for your understanding.<br>
-
-#### VISA for the United Kingdom
-Please note that any foreign visitor entering the United Kingdom must possess a valid passport for the duration of their stay and must comply with UK immigration requirements.
-
-For short stays (usually up to a few months) for purposes such as attending conferences, business meetings, tourism, or visiting friends and relatives—without engaging in paid work—visitors should check the requirements for a Standard Visitor visa.
-
-Depending on your nationality, you may:
-
-- enter the UK without a visa, or
-- be required to obtain a visa in advance, or
-- be required to apply for an Electronic Travel Authorisation (ETA) prior to travel.
-
-For full and up-to-date information, please visit the official UK government website: 
-[https://www.gov.uk/check-uk-visa]
-
-A list of visa nationals and visa-exempt countries is also available on the same website.
-
-**If you require an invitation letter for visa application purposes, please indicate this by checking the appropriate box in the registration form.**
-**Deadline of Registration with VISA invitation letter is 31 May.**
-
-Note: Information on visa application procedures has been sent via email to registered participants.
-
-</div>
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/picture/ECMWF_reading.jpg" width="80%" />
 
