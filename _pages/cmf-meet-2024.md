@@ -1,5 +1,5 @@
 ---
-title: "CaMa-Flood meeting 2024"
+title: "CaMa-Flood developer/user meeting 2024"
 layout: pagelay
 permalink: /cmf-meet-2024/
 ---
