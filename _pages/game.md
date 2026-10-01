@@ -225,6 +225,11 @@ SplashTune では、その中でも以下の要素を簡略化して表現して
 
 SplashTune の開発については、以下の学術論文で詳しく解説しています。
 
+*Dai Yamazaki, Taishi Yazawa*
+*Playable hydrology: Learning about flood generation processes through the gamified rainfall–runoff model SplashTune*
+*Water Resources Research, 62, e2025WR041550, 2026*
+doi: [10.1029/2025WR041550](https://doi.org/10.1029/2025WR041550]
+
 *山崎 大, 岡田 実奈美, 矢澤 大志 (2024)*  
 *教育用プログラム言語 Scratch を用いた降雨流出モデリングゲームの開発とその水文学教育への利用可能性*  
 *水文・水資源学会誌, 37 巻 2 号*  
