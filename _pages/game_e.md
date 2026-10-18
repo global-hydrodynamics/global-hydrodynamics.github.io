@@ -185,7 +185,12 @@ Access the **SplashTune** source code published on Scratch
 If you have ideas for interesting stages and would like to share them, please contact Professor Yamazaki. His email address is provided at the bottom of the page.<br><br>
 
 #### For those who want to know more: Please read the description paper
-The development of the rainfall-runoff modeling game has been presented as an academic paper in Journal of Japan Society of Hydrology and Water Resources (to be published soon). The paper explains the background of the development, the elements considered in the rainfall-runoff model, and the educational effectiveness of the game.
+The development of the rainfall-runoff modeling game has been presented as an academic paper in Water Resources Research and Journal of Japan Society of Hydrology and Water Resources. The paper explains the background of the development, the elements considered in the rainfall-runoff model, and the educational effectiveness of the game.
+
+*Dai Yamazaki, Taishi Yazawa*
+*Playable hydrology: Learning about flood generation processes through the gamified rainfall–runoff model SplashTune*
+*Water Resources Research, 62, e2025WR041550, 2026*
+[https://doi.org/10.1029/2025WR041550](https://doi.org/10.1029/2025WR041550]
 
 *Dai Yamazaki, Minami Okada, and Hiroshi Yazawa (2024) <br>
 Development of Rainfall-Runoff Modeling Game using the Educational Programming Language Scratch, and its Potential for Hydrological Education<br>
