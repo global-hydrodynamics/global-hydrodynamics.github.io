@@ -1,11 +1,22 @@
 ## Yamazaki Lab work
+- ID: Y58)
+  title: "Observation of Daily Flood Hazard During the SWOT Cal/Val Orbit"
+  authors: "Yukina Hara, Dai Yamazaki, Megumi Watanabe, Colin J. Gleason, and Shinjiro Kanae"
+  description:
+  link:
+    url: https://doi.org/10.1029/2026GL124074
+    display: "Geophysical Research Letters, 53(20), e2026GL124074, 2026, DOI: 10.1029/2026GL124074"
+  highlight: 0
+  dlab: 1
+  news2:
+
 - ID: Y57)
   title: "CaMa-Flood-GPU: a GPU-based hydrodynamic model implementation for scalable global simulations"
   authors: "Shengyu Kang, Jiabo Yin, and Dai Yamazaki"
   description:
   link:
     url: https://doi.org/10.5194/gmd-19-5623-2026
-    display: "Geoscience Model Development, 19, 5623–5640, 2026, DOI: 10.5194/gmd-19-5623-2026"
+    display: "Geoscientific Model Development, 19, 5623–5640, 2026, DOI: 10.5194/gmd-19-5623-2026"
   highlight: 0
   dlab: 1
   news2:
@@ -56,7 +67,7 @@
   description:
   link:
     url: https://doi.org/10.1007/s43832-026-00364-9
-    display: "Discover Water, 026-00364-9, 2026, DOI: 10.1007/s43832-026-00364-9"
+    display: "Discover Water, 6, 39, 2026, DOI: 10.1007/s43832-026-00364-9"
   highlight: 0
   dlab: 1
   news2:
@@ -188,7 +199,7 @@
   description:
   link:
     url: https://doi.org/10.1016/j.jhydrol.2025.133207
-    display: "Journal of Hydrology, 658, 113207, 2025, DOI: 10.1016/j.jhydrol.2025.133207"
+    display: "Journal of Hydrology, 658, 133207, 2025, DOI: 10.1016/j.jhydrol.2025.133207"
   highlight: 0
   dlab: 1
   news2:
@@ -202,7 +213,7 @@
   description:
   link:
     url:  https://doi.org/10.1029/2024MS004379
-    display: "Journal of Advances in Modelling Earth Systems, 17, e2024MS004379, 2025"
+    display: "Journal of Advances in Modeling Earth Systems, 17, e2024MS004379, 2025, DOI: 10.1029/2024MS004379"
   highlight: 0
   dlab: 1
   news2:
@@ -337,7 +348,7 @@
   description:
   link:
     url: https://doi.org/10.5194/hess-27-1627-2023
-    display: "Hydrology and Earth System Science, 27(8), 1627-1644, 2023. DOI 10.5194/hess-27-1627-2023"
+    display: "Hydrology and Earth System Sciences, 27(8), 1627-1644, 2023. DOI 10.5194/hess-27-1627-2023"
   highlight: 0
   dlab: 1
   news2:
@@ -381,7 +392,7 @@
   news2:
 
 - ID: Y26)
-  title: "A first continuous and distributed satellite-based mapping of river discharge over the Amazon,"
+  title: "A first continuous and distributed satellite-based mapping of river discharge over the Amazon"
   image:
   authors: "Victor Pellet, Filipe Aires, Dai Yamazaki, Xudong Zhou, Adrien Paris"
   description:
@@ -439,7 +450,7 @@
   description:
   link:
     url: https://doi.org/10.3390/w14060967
-    display: "Waters, 14(6), 967, 2022, DOI 10.3390/w14060967"
+    display: "Water, 14(6), 967, 2022, DOI 10.3390/w14060967"
   highlight: 0
   dlab: 1
   news2:
@@ -510,7 +521,7 @@
   authors: Yuki Ishikawa and Dai Yamazaki
   description: 
   link:
-    url: http://doi.org/10.3178/hrl.15.9
+    url: https://doi.org/10.3178/hrl.15.9
     display: Hydrological Research Letters, vol.15(2), p9-15, 2021, DOI 10.3178/hrl.15.9
   highlight: 0
   dlab: 1
@@ -573,8 +584,8 @@
   authors: Yamazaki D., D. Ikeshima, R. Tawatari, T. Yamaguchi, F. O'Loughlin, J.C. Neal, C.C. Sampson, S. Kanae, P.D. Bates
   description: MERIT DEM. A Very precise global topography map by multiple error removal from spaceborne DEMs.
   link:
-    url: https://doi.org/10.1029/2019WR024873
-    display:  Geophysical Research Letters, vol.44, pp.5844-5853, 2017, DOI 10.1029/2019WR024873
+    url: https://doi.org/10.1002/2017GL072874
+    display:  Geophysical Research Letters, vol.44, pp.5844-5853, 2017, DOI 10.1002/2017GL072874
   highlight: 1
   dlab: 1
   news2:
@@ -610,7 +621,7 @@
   authors: Yamazaki, D., M.A. Trigg, D. Ikeshima
   description: 
   link:
-    url: http://doi.org/10.1016/j.rse.2015.10.014
+    url: https://doi.org/10.1016/j.rse.2015.10.014
     display:  Remote Sensing of Environment, vol.171, pp.337-351, 2015, DOI 10.1016/j.rse.2015.10.014
   highlight: 0
   dlab: 1
@@ -622,7 +633,7 @@
   authors: Yamazaki D., S. Sato, S. Kanae, Y. Hirabayashi, P.D. Bates
   description: First representation of channel bifurcation in global river model
   link:
-    url: https://doi.org/10.1002/2014GL059774
+    url: https://doi.org/10.1002/2014GL059744
     display:  Geophysical Research Letters, vol.41, pp.3127-3135, 2014, DOI 10.1002/2014GL059774
   highlight: 1
   dlab: 1
@@ -1287,7 +1298,7 @@
   authors: Wei, Z., X. He, Y. Zhang, M. Pan, J. Sheffield, L. Peng, D. Yamazaki, A. Moiz, Y. Liu, and K. Ikeuchi, K.
   description: 
   link:
-    url: https://dor.org/10.1016/j.jhydrol.2020.125180
+    url: https://doi.org/10.1016/j.jhydrol.2020.125180
     display: Journal of Hydrology, vol.589, p.125180, 2020, DOI 10.1016/j.jhydrol.2020.125180
   highlight: 0
   dlab: 0
@@ -1481,7 +1492,7 @@
   description: Assessment of flow regulation on Mekong Delta Hydrodynamics
   link:
     url: https://doi.org/10.1038/s41598-018-35823-4
-    display: Scientific Report, vol.8, 17767, 2018, DOI 10.1038/s41598-018-35823-4
+    display: Scientific Reports, vol.8, 17767, 2018, DOI 10.1038/s41598-018-35823-4
   highlight: 1
   dlab: 0
   news2:
@@ -1732,7 +1743,7 @@
   authors: Daisuke Komori, Shinichirou Nakamura, Masashi Kiguchi, Asako Nishijima, Dai Yamazaki, Satoshi Suzuki, Akiyuki Kawasaki, Kazuo Oki, & Taikan Oki
   description: 
   link:
-    url: http://doi.org/10.3178/hrl.6.41
+    url: https://doi.org/10.3178/hrl.6.41
     display: Hydrological Research Letters, vol.6, pp.41-46, 2012, DOI 10.3178/hrl.6.41
   highlight: 0
   dlab: 0
@@ -1866,11 +1877,11 @@
 - ID: O3)
   title: "Global flood risk modeling and projections of climate change impacts"
   image: 
-  authors: Dai Yamazaki, Yukiko Hirabayashi, & Satoshi Watanabe
+  authors: Dai Yamazaki, Satoshi Watanabe, and Yukiko Hirabayashi
   description: 
   link:
     url: https://doi.org/10.1002/9781119217886.ch11
-    display: AGU Book "Global Flood Hazard" (AGU Wiley), Ch.11, pp.185-203, 2018.
+    display: AGU Book "Global Flood Hazard" (AGU Wiley), Ch.11, pp.185-203, 2018, DOI: 10.1002/9781119217886.ch11.
   highlight: 0
   dlab: 3
   news2:
@@ -1881,7 +1892,7 @@
   authors: D. Yamazaki & M.A. Trigg
   description: 
   link:
-    url: http://doi.org/10.1038/nature21100
+    url: https://doi.org/10.1038/nature21100
     display: Nature, vol.540, pp.348-349, 2016, doi:10.1038/nature21100
   highlight: 0
   dlab: 3
