@@ -295,6 +295,10 @@ User-to-user discussions and exchanges of experience are highly encouraged.
 
 If you would like to join the mailing list, please use one of the following methods:
 
+- **Subscribe by email (self-registration):** Send an email from the address you wish to register to  
+  [**cama-flood-user+subscribe@googlegroups.com**](mailto:cama-flood-user+subscribe@googlegroups.com).  
+  Follow the instructions in the confirmation email to complete your subscription.
+
 - Join directly via the Google Groups page:  
   <https://groups.google.com/g/cama-flood-user>
 
